@@ -1,0 +1,14 @@
+dataset_state,dataset_district,lgd_name,imd_name,iou,lgd_area_km2,imd_area_km2,classification
+Arunachal Pradesh,Lower Dibang Valley,Lower Dibang Valley,NAMSAI,0.0,3485.2412057588085,1336.2847059523492,legitimate_split_merge
+Chhattisgarh,Korea,Korea,KOREA,0.319249348705618,2130.962708555591,6586.170249959203,legitimate_split_merge
+Chhattisgarh,Rajnandgaon,Rajnandgaon,RAJ NANDGAON,0.3971806064263196,3260.7141971682413,7977.039237490485,legitimate_split_merge
+Karnataka,Ballari,Ballari,BALLARI,0.4917946949975622,4252.9346219944755,8405.009204101547,legitimate_split_merge
+Lakshadweep,Lakshadweep District,Lakshadweep District,LAKSHADWEEP,0.0723104331357024,29.910118561457985,2.5396478418727173,legitimate_split_merge
+Nagaland,Dimapur,Dimapur,DIMAPUR,0.106809517369328,88.22978169331897,792.7866262760542,legitimate_split_merge
+Puducherry,Pondicherry,Pondicherry,PUDUCHERRY,0.4531870317850705,298.5560263396971,206.08981359352674,legitimate_split_merge
+Rajasthan,Ajmer,Ajmer,AJMER,0.4649788555483869,4055.2907375305767,8445.857576837932,legitimate_split_merge
+Rajasthan,Jaipur,Jaipur,JAIPUR,0.1904835064777863,2125.2307410645694,11157.03286002036,legitimate_split_merge
+Rajasthan,Jodhpur,Jodhpur,JODHPUR,0.0683438023562129,1553.4942120080425,22730.579195917588,legitimate_split_merge
+Rajasthan,Pratapgarh,Pratapgarh,PRATAPGARH,0.0,4439.162309152983,3786.5689014362006,wrong_match
+Tamil Nadu,Nagapattinam,Nagapattinam,NAGAPATTINAM,0.4963855720368371,1388.5877507782388,2590.811657442137,legitimate_split_merge
+Uttar Pradesh,Pratapgarh,Pratapgarh,PRATAAPGARH,0.0,3712.029893838042,4448.525941473325,wrong_match

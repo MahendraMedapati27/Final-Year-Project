@@ -1,0 +1,9 @@
+rule,n_groups
+all_nan_first,4571
+conflict_mean_small,548
+conflict_neighbour_pick,504
+conflict_unresolvable,1018
+most_nonnull_cols,22441
+non_null_actual,23
+preferred_obj_id,13153
+_TOTAL_,42258

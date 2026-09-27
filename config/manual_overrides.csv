@@ -1,0 +1,7 @@
+# Manual crosswalk overrides — always win over automatic matching.
+# Edit rows below: dataset_state and dataset_district must match the rainfall CSV exactly; shp_id = polygon id in districts_master.gpkg.
+dataset_state,dataset_district,shp_id,note
+Karnataka,Bengaluru Rural,54,IoU fix: was swapped with Urban (hungarian)
+Karnataka,Bengaluru Urban,55,IoU fix: was swapped with Rural
+West Bengal,Paschim Medinipur,562,Paschim=West → Medinipur West LGD
+West Bengal,Purba Medinipur,481,Purba=East → Medinipur East LGD

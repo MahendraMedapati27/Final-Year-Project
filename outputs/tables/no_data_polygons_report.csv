@@ -1,0 +1,25 @@
+state,lgd_name,shp_id,area_km2,pct_india_district_area,assignment,reason
+CHHATTISGARH,Gaurella Pendra Marwahi,66,1994.253007684875,0.06089509645421436,no_data,historical CSV not in repo; containment vs IMD not run in gate
+DELHI,Shahdara,306,34.374924799947074,0.0010496483411245846,no_data,historical CSV not in repo; containment vs IMD not run in gate
+JAMMU & KASHMIR,Mirpur,391,3624.3076219950694,0.11066928888694381,no_data,historical CSV not in repo; containment vs IMD not run in gate
+JAMMU & KASHMIR,Muzaffarabad,392,4801.97893757693,0.14662982552766426,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ASSAM,South Salmara Mancachar,428,683.5810245703742,0.020873345691381467,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Jiribam,432,180.69515200319427,0.0055175790973570225,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Kamjong,602,2180.5467943716394,0.06658363149234425,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Lower Siang,612,1813.5237499017296,0.05537647592693257,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Noney,625,1208.1454410956744,0.036891072939460125,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Pherzawl,626,2288.7686297660953,0.06988821675780565,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Tengnoupal,627,1201.7409092737862,0.03669550869483565,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Kangpokpi,628,1668.8398679524066,0.05095851144964574,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MANIPUR,Kakching,629,289.8489260998549,0.008850621382535314,no_data,historical CSV not in repo; containment vs IMD not run in gate
+WEST BENGAL,Paschim Bardhaman,632,1809.6254825281483,0.055257441197234886,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Siang,635,3090.173230185574,0.09435933965612284,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Shi Yomi,637,2617.508543378793,0.07992638577179398,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Leparada,638,766.6599767612367,0.023410185694872666,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Pakke Kessang,639,2028.5283945853885,0.061941705376587414,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Kra Daadi,640,1987.3924145734552,0.06068560624527742,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Kamle,642,1399.1117655495339,0.04272228527927479,no_data,historical CSV not in repo; containment vs IMD not run in gate
+ARUNACHAL PRADESH,Longding,665,936.0743776858657,0.028583303772309908,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MIZORAM,Hnahthial,700,930.1994062500098,0.028403909808317588,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MIZORAM,Khawzawl,708,1225.5487879370035,0.0374224892043197,no_data,historical CSV not in repo; containment vs IMD not run in gate
+MIZORAM,Saitual,744,1377.1982301424914,0.042053149092881964,no_data,historical CSV not in repo; containment vs IMD not run in gate

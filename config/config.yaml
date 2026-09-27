@@ -1,0 +1,71 @@
+paths:
+  raw_csv_sample: data/raw/dataset_sample_5k.csv
+  raw_csv_full: data/raw/dataset_full.csv
+  interim_parquet: data/interim/raw.parquet
+  processed_enriched: data/processed/rainfall_enriched.parquet
+  geo_districts: data/geo/districts_master.gpkg
+  render_matrix: data/processed/render_matrix.npz
+  crosswalk: data/processed/district_crosswalk.csv
+  name_aliases: config/name_aliases.csv
+  manual_overrides: config/manual_overrides.csv
+
+outputs:
+  maps_daily_actual: outputs/maps/daily_actual
+  videos: outputs/videos
+  tables: outputs/tables
+  figures: outputs/figures
+  reports: outputs/reports
+
+audit:
+  portal_daily_actual_min: 0
+  portal_daily_actual_max: 1225
+  portal_daily_actual_mean: 3.81
+  portal_daily_actual_median: 0.0
+  portal_daily_normal_max: 935
+  portal_daily_normal_mean: 3.94
+  portal_daily_normal_median: 1.40
+  portal_daily_departure_min: -300
+  portal_daily_departure_max: 99900
+  portal_daily_departure_mean: 117.91
+  portal_daily_departure_median: -100
+  portal_cumulative_actual_max: 5036
+  portal_cumulative_actual_median: 66.10
+  portal_monthly_actual_min: -4
+  portal_monthly_actual_max: 4944
+  portal_obj_id_null: 759016
+  portal_weekly_date_null: 764227
+  portal_weekly_category_null: 759017
+  portal_cumulative_date_null: 759658
+  portal_cumulative_category_null: 759016
+
+cleaning:
+  min_normal_mm_daily: 2.5
+  min_normal_mm_weekly: 10.0
+  min_normal_mm_monthly: 10.0
+  min_normal_mm_cumulative: 10.0
+  extreme_mm: 500.0
+  min_coverage: 0.90
+
+render:
+  legend_inset_axes: [0.56, 0.03, 0.42, 0.30]
+  dpi: 150
+  dpi_hires: 220
+  mode: classed_imd
+  district_linewidth: 0.3
+  paint_group_footnote: "Districts created after IMD's reference map show their parent district's value."
+  outside_district_fill: "#E8E4DC"
+  state_linewidth: 0.8
+  outline_linewidth: 1.0
+  figure_width_in: 10
+  figure_height_in: 11
+
+workers:
+  default: null  # null = cpu_count - 1
+
+crosswalk:
+  fuzzy_auto_accept: 92
+  fuzzy_review_min: 80
+  fuzzy_min_assign: 70
+  match_rate_threshold: 0.98
+
+merged_district_policy: area_weighted_mean

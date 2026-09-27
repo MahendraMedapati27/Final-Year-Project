@@ -1,0 +1,38 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# Secrets
+.env
+.env.*
+
+# Large raw portal dump (use NDAP; sample included)
+data/raw/dataset_full.csv
+
+# Generated map outputs (re-run scripts/p5_full_render.py)
+outputs/maps/daily_actual/
+outputs/maps/_old_layout/
+outputs/maps/verify_tmp/
+outputs/maps/p2_trial/
+outputs/maps/p3_parity/
+outputs/render_cache/
+outputs/videos/
+
+# Logs and local checkpoints (regenerated)
+logs/
+outputs/checkpoints/
+
+# Optional heavy geo candidate bundles (geo pipeline can re-download)
+data/geo/candidates/india-geodata/*.7z
+data/geo/candidates/india-geodata/*.pmtiles
+data/geo/candidates/datta07/
+data/geo/candidates/india-geodata/bhuvan_districts.parquet
+data/geo/candidates/india-geodata/SOI_Districts.parquet
+
+# Large interim checkpoint (rebuild via clean)
+data/processed/checkpoints/

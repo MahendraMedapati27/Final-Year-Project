@@ -1,0 +1,733 @@
+dataset_state,dataset_district,state_std,district_std,shp_id,match_method,match_score,needs_review,note,paint_group_uid,resolution,area_km2_total
+Andaman and Nicobar Islands,Nicobars,ANDAMAN AND NICOBAR,NICOBARS,251.0,exact,100.0,False,,1,direct,1777.979613257219
+Andaman and Nicobar Islands,North and Middle Andaman,ANDAMAN AND NICOBAR,NORTH AND MIDDLE ANDAMAN,255.0,exact,100.0,False,,2,direct,3447.608030169367
+Andaman and Nicobar Islands,South Andamans,ANDAMAN AND NICOBAR,SOUTH ANDAMANS,328.0,exact,100.0,False,,3,direct,2529.7737047090677
+Andhra Pradesh,Alluri Sitharama Raju,ANDHRA PRADESH,ALLURI SITHARAMA RAJU,712.0,exact,100.0,False,,4,direct,12680.501956231012
+Andhra Pradesh,Anakapalli,ANDHRA PRADESH,ANAKAPALLI,713.0,exact,100.0,False,,5,direct,4030.714965646868
+Andhra Pradesh,Annamayya,ANDHRA PRADESH,ANNAMAYYA,715.0,exact,100.0,False,,6,direct,8983.385222964449
+Andhra Pradesh,Bapatla,ANDHRA PRADESH,BAPATLA,716.0,exact,100.0,False,,7,direct,3879.5885582819583
+Andhra Pradesh,Chittoor,ANDHRA PRADESH,CHITTOOR,717.0,exact,100.0,False,,8,direct,6695.466048239089
+Andhra Pradesh,East Godavari,ANDHRA PRADESH,EAST GODAVARI,718.0,exact,100.0,False,,9,direct,2604.5178278642306
+Andhra Pradesh,Eluru,ANDHRA PRADESH,ELURU,727.0,exact,100.0,False,,10,direct,6585.549873338796
+Andhra Pradesh,Guntur,ANDHRA PRADESH,GUNTUR,719.0,exact,100.0,False,,11,direct,2421.5944210763446
+Andhra Pradesh,Kakinada,ANDHRA PRADESH,KAKINADA,720.0,exact,100.0,False,,12,direct,3053.585680573363
+Andhra Pradesh,Krishna,ANDHRA PRADESH,KRISHNA,722.0,exact,100.0,False,,13,direct,3830.2691730943334
+Andhra Pradesh,Kurnool,ANDHRA PRADESH,KURNOOL,723.0,exact,100.0,False,,14,direct,7941.510625150122
+Andhra Pradesh,Nandyal,ANDHRA PRADESH,NANDYAL,724.0,exact,100.0,False,,15,direct,9723.501866935387
+Andhra Pradesh,Ntr,ANDHRA PRADESH,NTR,725.0,exact,100.0,False,,16,direct,3288.890806443114
+Andhra Pradesh,Palnadu,ANDHRA PRADESH,PALNADU,726.0,exact,100.0,False,,17,direct,7300.656640596495
+Andhra Pradesh,Parvathipuram Manyam,ANDHRA PRADESH,PARVATHIPURAM MANYAM,737.0,exact,100.0,False,,18,direct,3596.000536207458
+Andhra Pradesh,Prakasam,ANDHRA PRADESH,PRAKASAM,728.0,exact,100.0,False,,19,direct,14271.508508101426
+Andhra Pradesh,Sri Sathya Sai,ANDHRA PRADESH,SRI SATHYA SAI,736.0,exact,100.0,False,,20,direct,8942.149331713013
+Andhra Pradesh,Srikakulam,ANDHRA PRADESH,SRIKAKULAM,730.0,exact,100.0,False,,21,direct,4437.86467954011
+Andhra Pradesh,Tirupati,ANDHRA PRADESH,TIRUPATI,731.0,exact,100.0,False,,22,direct,8486.83170548841
+Andhra Pradesh,Vizianagaram,ANDHRA PRADESH,VIZIANAGARAM,733.0,exact,100.0,False,,23,direct,3952.304889626035
+Andhra Pradesh,West Godavari,ANDHRA PRADESH,WEST GODAVARI,734.0,exact,100.0,False,,24,direct,2125.256163821608
+Andhra Pradesh,Y.S.R.,ANDHRA PRADESH,YSR KADAPA,735.0,exact,100.0,False,,25,direct,10150.70115756184
+Andhra Pradesh,Visakhapatnam,ANDHRA PRADESH,VISAKHAPATNAM,732.0,fuzzy,96.2962962962963,False,,26,direct,994.7200936260793
+Andhra Pradesh,Ananthapuramu,ANDHRA PRADESH,ANANTHAPURAMU,714.0,hungarian,81.81818181818181,True,,27,direct,10186.25895770553
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,ANDHRA PRADESH,DR B R AMBEDKAR KONASEEMA,721.0,hungarian,90.0,True,,28,direct,2384.0714649923943
+Andhra Pradesh,Sri Potti Sriramulu Nellore,ANDHRA PRADESH,SRI POTTI SRIRAMULU NELLORE,729.0,hungarian,85.5,True,,29,direct,10390.565807651175
+Arunachal Pradesh,Anjaw,ARUNACHAL PRADESH,ANJAW,451.0,exact,100.0,False,,30,direct,6048.435307675018
+Arunachal Pradesh,Changlang,ARUNACHAL PRADESH,CHANGLANG,473.0,exact,100.0,False,,31,direct,5088.497196522941
+Arunachal Pradesh,Dibang Valley,ARUNACHAL PRADESH,DIBANG VALLEY,478.0,exact,100.0,False,,32,direct,9565.08818651474
+Arunachal Pradesh,East Kameng,ARUNACHAL PRADESH,EAST KAMENG,480.0,exact,100.0,False,,33,direct,4291.773392256366
+Arunachal Pradesh,East Siang,ARUNACHAL PRADESH,EAST SIANG,664.0,exact,100.0,False,,34,direct_with_children,6641.223387481279
+Arunachal Pradesh,Kurung Kumey,ARUNACHAL PRADESH,KURUNG KUMEY,521.0,exact,100.0,False,,35,direct_with_children,6431.540415183612
+Arunachal Pradesh,Lohit,ARUNACHAL PRADESH,LOHIT,525.0,exact,100.0,False,,36,direct,3252.3468361977034
+Arunachal Pradesh,Lower Dibang Valley,ARUNACHAL PRADESH,LOWER DIBANG VALLEY,526.0,exact,100.0,False,,37,direct_with_children,4663.561429254674
+Arunachal Pradesh,Lower Subansiri,ARUNACHAL PRADESH,LOWER SUBANSIRI,623.0,exact,100.0,False,,38,direct_with_children,3179.9092755542147
+Arunachal Pradesh,Papum Pare,ARUNACHAL PRADESH,PAPUM PARE,559.0,exact,100.0,False,,39,direct_with_children,3446.5023742548656
+Arunachal Pradesh,Tawang,ARUNACHAL PRADESH,TAWANG,598.0,exact,100.0,False,,40,direct,2456.6348511364645
+Arunachal Pradesh,Tirap,ARUNACHAL PRADESH,TIRAP,601.0,exact,100.0,False,,41,direct_with_children,1970.4225544991414
+Arunachal Pradesh,Upper Siang,ARUNACHAL PRADESH,UPPER SIANG,603.0,exact,100.0,False,,42,direct,6701.543319477716
+Arunachal Pradesh,Upper Subansiri,ARUNACHAL PRADESH,UPPER SUBANSIRI,604.0,exact,100.0,False,,43,direct,6396.940545295043
+Arunachal Pradesh,West Kameng,ARUNACHAL PRADESH,WEST KAMENG,611.0,exact,100.0,False,,44,direct,4916.453966742495
+Arunachal Pradesh,West Siang,ARUNACHAL PRADESH,WEST SIANG,636.0,exact,100.0,False,,45,direct,1636.6174888028322
+Assam,Bajali,ASSAM,BAJALI,710.0,exact,100.0,False,,46,direct,357.2191281956913
+Assam,Baksa,ASSAM,BAKSA,748.0,exact,100.0,False,,47,direct,1611.9998532297755
+Assam,Barpeta,ASSAM,BARPETA,375.0,exact,100.0,False,,48,direct,1876.1555943941269
+Assam,Biswanath,ASSAM,BISWANATH,425.0,exact,100.0,False,,49,direct,2453.1302871631274
+Assam,Bongaigaon,ASSAM,BONGAIGAON,377.0,exact,100.0,False,,50,direct,974.065140196777
+Assam,Cachar,ASSAM,CACHAR,388.0,exact,100.0,False,,51,direct,3783.7660501749783
+Assam,Charaideo,ASSAM,CHARAIDEO,424.0,exact,100.0,False,,52,direct,1074.5319102466556
+Assam,Chirang,ASSAM,CHIRANG,376.0,exact,100.0,False,,53,direct,2037.335947988361
+Assam,Darrang,ASSAM,DARRANG,706.0,exact,100.0,False,,54,direct,1536.3089829615897
+Assam,Dhemaji,ASSAM,DHEMAJI,384.0,exact,100.0,False,,55,direct,2466.7002710482607
+Assam,Dhubri,ASSAM,DHUBRI,406.0,exact,100.0,False,,56,direct,1583.3619180337378
+Assam,Dibrugarh,ASSAM,DIBRUGARH,386.0,exact,100.0,False,,57,direct,3395.3347372441203
+Assam,Dima Hasao,ASSAM,DIMA HASAO,382.0,exact,100.0,False,,58,direct,4883.717576038528
+Assam,Goalpara,ASSAM,GOALPARA,407.0,exact,100.0,False,,59,direct,1918.6119907441382
+Assam,Golaghat,ASSAM,GOLAGHAT,387.0,exact,100.0,False,,60,direct,3293.605907215944
+Assam,Hailakandi,ASSAM,HAILAKANDI,390.0,exact,100.0,False,,61,direct,1329.3070681478
+Assam,Hojai,ASSAM,HOJAI,427.0,exact,100.0,False,,62,direct,1455.5006078714816
+Assam,Jorhat,ASSAM,JORHAT,374.0,exact,100.0,False,,63,direct,2050.8946838633915
+Assam,Kamrup,ASSAM,KAMRUP,182.0,exact,100.0,False,,64,direct,3118.2070204795095
+Assam,Kamrup Metro,ASSAM,KAMRUP METRO,380.0,exact,100.0,False,,65,direct,960.7472504681374
+Assam,Karbi Anglong,ASSAM,KARBI ANGLONG,429.0,exact,100.0,False,,66,direct,7325.027505517759
+Assam,Karimganj,ASSAM,KARIMGANJ,389.0,exact,100.0,False,,67,direct,1813.3242130804713
+Assam,Kokrajhar,ASSAM,KOKRAJHAR,206.0,exact,100.0,False,,68,direct,3109.1862395083863
+Assam,Lakhimpur,ASSAM,LAKHIMPUR,705.0,exact,100.0,False,,69,direct,2995.360465533703
+Assam,Majuli,ASSAM,MAJULI,426.0,exact,100.0,False,,70,direct,1013.4369654436707
+Assam,Marigaon,ASSAM,MARIGAON,381.0,exact,100.0,False,,71,direct,1540.6365010041247
+Assam,Nagaon,ASSAM,NAGAON,139.0,exact,100.0,False,,72,direct,2577.2343727105554
+Assam,Nalbari,ASSAM,NALBARI,378.0,exact,100.0,False,,73,direct,1060.002670014781
+Assam,Sivasagar,ASSAM,SIVASAGAR,385.0,exact,100.0,False,,74,direct,1568.5616924714288
+Assam,Sonitpur,ASSAM,SONITPUR,383.0,exact,100.0,False,,75,direct,2775.897586714467
+Assam,Tamulpur,ASSAM,TAMULPUR,751.0,exact,100.0,False,,76,direct,859.12139773058
+Assam,Tinsukia,ASSAM,TINSUKIA,112.0,exact,100.0,False,,77,direct,3809.5374902338012
+Assam,Udalguri,ASSAM,UDALGURI,379.0,exact,100.0,False,,78,direct,2067.6819046718797
+Assam,West Karbi Anglong,ASSAM,WEST KARBI ANGLONG,430.0,exact,100.0,False,,79,direct,3072.7057495967997
+Bihar,Araria,BIHAR,ARARIA,452.0,exact,100.0,False,,80,direct,2790.365707968474
+Bihar,Arwal,BIHAR,ARWAL,453.0,exact,100.0,False,,81,direct,637.8206789831269
+Bihar,Aurangabad,BIHAR,AURANGABAD,454.0,exact,100.0,False,,82,direct,3306.115825703956
+Bihar,Banka,BIHAR,BANKA,456.0,exact,100.0,False,,83,direct,3025.640510511932
+Bihar,Begusarai,BIHAR,BEGUSARAI,461.0,exact,100.0,False,,84,direct,1922.9877019044786
+Bihar,Bhagalpur,BIHAR,BHAGALPUR,463.0,exact,100.0,False,,85,direct,2556.5557744337125
+Bihar,Bhojpur,BIHAR,BHOJPUR,466.0,exact,100.0,False,,86,direct,2389.737706857054
+Bihar,Buxar,BIHAR,BUXAR,470.0,exact,100.0,False,,87,direct,1700.6781425584336
+Bihar,Darbhanga,BIHAR,DARBHANGA,475.0,exact,100.0,False,,88,direct,2517.439991384241
+Bihar,Gaya,BIHAR,GAYA,488.0,exact,100.0,False,,89,direct,4968.407049045496
+Bihar,Gopalganj,BIHAR,GOPALGANJ,490.0,exact,100.0,False,,90,direct,2036.4433464576532
+Bihar,Jamui,BIHAR,JAMUI,504.0,exact,100.0,False,,91,direct,3101.239669213544
+Bihar,Jehanabad,BIHAR,JEHANABAD,499.0,exact,100.0,False,,92,direct,937.6841734425205
+Bihar,Kaimur (Bhabua),BIHAR,KAIMUR,462.0,exact,100.0,False,,93,direct,3369.5441468614695
+Bihar,Katihar,BIHAR,KATIHAR,511.0,exact,100.0,False,,94,direct,3044.0124765999735
+Bihar,Khagaria,BIHAR,KHAGARIA,512.0,exact,100.0,False,,95,direct,1492.4937890982221
+Bihar,Kishanganj,BIHAR,KISHANGANJ,517.0,exact,100.0,False,,96,direct,1929.1248022194704
+Bihar,Lakhisarai,BIHAR,LAKHISARAI,523.0,exact,100.0,False,,97,direct,1220.7009905391853
+Bihar,Madhepura,BIHAR,MADHEPURA,528.0,exact,100.0,False,,98,direct,1807.6328173384827
+Bihar,Madhubani,BIHAR,MADHUBANI,529.0,exact,100.0,False,,99,direct,3501.3099265837755
+Bihar,Munger,BIHAR,MUNGER,541.0,exact,100.0,False,,100,direct,1411.513783676987
+Bihar,Muzaffarpur,BIHAR,MUZAFFARPUR,543.0,exact,100.0,False,,101,direct,3178.8557605389537
+Bihar,Nalanda,BIHAR,NALANDA,546.0,exact,100.0,False,,102,direct,2368.4481256450827
+Bihar,Nawada,BIHAR,NAWADA,551.0,exact,100.0,False,,103,direct,2491.6988565493134
+Bihar,Pashchim Champaran,BIHAR,PASHCHIM CHAMPARAN,561.0,exact,100.0,False,,104,direct,5229.842441038351
+Bihar,Patna,BIHAR,PATNA,565.0,exact,100.0,False,,105,direct,3195.091995872642
+Bihar,Purbi Champaran,BIHAR,PURBI CHAMPARAN,568.0,exact,100.0,False,,106,direct,3972.1405893626106
+Bihar,Purnia,BIHAR,PURNIA,569.0,exact,100.0,False,,107,direct,3229.4098406927633
+Bihar,Rohtas,BIHAR,ROHTAS,576.0,exact,100.0,False,,108,direct,3846.647279244019
+Bihar,Saharsa,BIHAR,SAHARSA,578.0,exact,100.0,False,,109,direct,1668.3474369291762
+Bihar,Samastipur,BIHAR,SAMASTIPUR,579.0,exact,100.0,False,,110,direct,2673.874165940324
+Bihar,Saran,BIHAR,SARAN,581.0,exact,100.0,False,,111,direct,2641.1095592685965
+Bihar,Sheikhpura,BIHAR,SHEIKHPURA,585.0,exact,100.0,False,,112,direct,678.5882745804665
+Bihar,Sheohar,BIHAR,SHEOHAR,586.0,exact,100.0,False,,113,direct,444.5608479496173
+Bihar,Sitamarhi,BIHAR,SITAMARHI,589.0,exact,100.0,False,,114,direct,2189.647732503691
+Bihar,Siwan,BIHAR,SIWAN,590.0,exact,100.0,False,,115,direct,2220.292049341565
+Bihar,Supaul,BIHAR,SUPAUL,595.0,exact,100.0,False,,116,direct,2421.4814002674134
+Bihar,Vaishali,BIHAR,VAISHALI,607.0,exact,100.0,False,,117,direct,2037.7148633466518
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,79.0,exact,100.0,False,,118,direct,114.72316212230186
+Chhattisgarh,Balod,CHHATTISGARH,BALOD,39.0,exact,100.0,False,,119,direct,3369.070045220671
+Chhattisgarh,Bastar,CHHATTISGARH,BASTAR,765.0,exact,100.0,False,,120,direct,5225.341441330823
+Chhattisgarh,Bemetara,CHHATTISGARH,BEMETARA,53.0,exact,100.0,False,,121,direct,2238.1576256144654
+Chhattisgarh,Bijapur,CHHATTISGARH,BIJAPUR,63.0,exact,100.0,False,,122,direct,9274.810468535445
+Chhattisgarh,Bilaspur,CHHATTISGARH,BILASPUR,65.0,exact,100.0,False,,123,direct,3543.943348128929
+Chhattisgarh,Dhamtari,CHHATTISGARH,DHAMTARI,105.0,exact,100.0,False,,124,direct,4086.6652885317476
+Chhattisgarh,Durg,CHHATTISGARH,DURG,116.0,exact,100.0,False,,125,direct,2297.5533999153135
+Chhattisgarh,Gariyaband,CHHATTISGARH,GARIYABAND,132.0,exact,100.0,False,,126,direct,4844.435847248504
+Chhattisgarh,Janjgir-Champa,CHHATTISGARH,JANJGIR CHAMPA,169.0,exact,100.0,False,,127,direct,2853.0084316662483
+Chhattisgarh,Jashpur,CHHATTISGARH,JASHPUR,170.0,exact,100.0,False,,128,direct,5850.712217235575
+Chhattisgarh,Kondagaon,CHHATTISGARH,KONDAGAON,209.0,exact,100.0,False,,129,direct,5077.886083918039
+Chhattisgarh,Korba,CHHATTISGARH,KORBA,212.0,exact,100.0,False,,130,direct,6597.810873210107
+Chhattisgarh,Korea,CHHATTISGARH,KOREA,762.0,exact,100.0,False,,131,direct,2130.962708555591
+Chhattisgarh,Mahasamund,CHHATTISGARH,MAHASAMUND,224.0,exact,100.0,False,,132,direct,4752.070602264446
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,CHHATTISGARH,MOHLA MANPUR AMBAGARH CHOUKI,761.0,exact,100.0,False,,133,direct,2489.369930837714
+Chhattisgarh,Mungeli,CHHATTISGARH,MUNGELI,241.0,exact,100.0,False,,134,direct,2776.9102857205
+Chhattisgarh,Narayanpur,CHHATTISGARH,NARAYANPUR,246.0,exact,100.0,False,,135,direct,3900.5956631846
+Chhattisgarh,Raigarh,CHHATTISGARH,RAIGARH,278.0,exact,100.0,False,,136,direct_with_children,7748.26836371683
+Chhattisgarh,Raipur,CHHATTISGARH,RAIPUR,279.0,exact,100.0,False,,137,direct,2904.549542912119
+Chhattisgarh,Rajnandgaon,CHHATTISGARH,RAJNANDGAON,281.0,exact,100.0,False,,138,direct,3260.7141971682413
+Chhattisgarh,Sakti,CHHATTISGARH,SAKTI,764.0,exact,100.0,False,,139,direct,1636.2886694967438
+Chhattisgarh,Sukma,CHHATTISGARH,SUKMA,334.0,exact,100.0,False,,140,direct,5652.759714113803
+Chhattisgarh,Surajpur,CHHATTISGARH,SURAJPUR,337.0,exact,100.0,False,,141,direct,5427.049027408834
+Chhattisgarh,Surguja,CHHATTISGARH,SURGUJA,338.0,exact,100.0,False,,142,direct,4010.2983519349173
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,CHHATTISGARH,KHAIRAGARH CHHUIKHADAN GANDAI,760.0,fuzzy,98.24561403508773,False,,143,direct,2320.360301314011
+Chhattisgarh,Manendragarh Chirmiri Bharatpur Mcb,CHHATTISGARH,MANENDRAGARH CHIRMIRI BHARATPUR MCB,213.0,fuzzy,92.53731343283582,False,,144,direct,4471.784378847472
+Chhattisgarh,Balodabazar-Bhatapara,CHHATTISGARH,BALODABAZAR BHATAPARA,40.0,hungarian,86.08695652173914,True,,145,direct,3964.805661512537
+Chhattisgarh,Balrampur Ramanujganj,CHHATTISGARH,BALRAMPUR RAMANUJGANJ,41.0,hungarian,90.0,True,,146,direct,6293.891342942115
+Chhattisgarh,Dakshin Bastar Dantewada,CHHATTISGARH,DAKSHIN BASTAR DANTEWADA,97.0,hungarian,90.0,True,,147,direct,2793.7930853422818
+Chhattisgarh,Kabeerdham,CHHATTISGARH,KAWARDHA,179.0,hungarian,70.58823529411764,True,,148,direct,4195.1907508062295
+Chhattisgarh,Uttar Bastar Kanker,CHHATTISGARH,UTTAR BASTAR KANKER,185.0,hungarian,90.0,True,,149,direct,7190.718103936978
+Delhi,Central,DELHI,CENTRAL,73.0,exact,100.0,False,,150,direct,106.59883848519455
+Delhi,East,DELHI,EAST,117.0,exact,100.0,False,,151,direct,31.528850616674983
+Delhi,New Delhi,DELHI,NEW DELHI,250.0,exact,100.0,False,,152,direct,156.69249830919767
+Delhi,North,DELHI,NORTH,253.0,exact,100.0,False,,153,direct,291.42660606090936
+Delhi,North East,DELHI,NORTH EAST,256.0,exact,100.0,False,,154,direct,35.34251852678383
+Delhi,North West,DELHI,NORTH WEST,259.0,exact,100.0,False,,155,direct,153.94797463836417
+Delhi,South,DELHI,SOUTH,326.0,exact,100.0,False,,156,direct,159.3331530240682
+Delhi,South East,DELHI,SOUTH EAST,400.0,exact,100.0,False,,157,direct,101.41295586340716
+Delhi,South West,DELHI,SOUTH WEST,332.0,exact,100.0,False,,158,direct,283.34970012862374
+Delhi,West,DELHI,WEST,361.0,exact,100.0,False,,159,direct,131.430800850637
+Goa,North Goa,GOA,NORTH GOA,257.0,exact,100.0,False,,160,direct,1743.2563810844022
+Goa,South Goa,GOA,SOUTH GOA,330.0,exact,100.0,False,,161,direct,1953.6277350230368
+Gujarat,Ahmadabad,GUJARAT,AHMADABAD,2.0,exact,100.0,False,,162,direct,7242.049561748406
+Gujarat,Amreli,GUJARAT,AMRELI,434.0,exact,100.0,False,,163,direct,7314.944261832046
+Gujarat,Anand,GUJARAT,ANAND,3.0,exact,100.0,False,,164,direct,3174.4097829552534
+Gujarat,Arvalli,GUJARAT,ARVALLI,25.0,exact,100.0,False,,165,direct,3151.5109290130727
+Gujarat,Banas Kantha,GUJARAT,BANAS KANTHA,43.0,exact,100.0,False,,166,direct,10763.651312632981
+Gujarat,Bharuch,GUJARAT,BHARUCH,8.0,exact,100.0,False,,167,direct,4928.928790771847
+Gujarat,Bhavnagar,GUJARAT,BHAVNAGAR,7.0,exact,100.0,False,,168,direct,6763.401209241083
+Gujarat,Botad,GUJARAT,BOTAD,439.0,exact,100.0,False,,169,direct,2479.794496844477
+Gujarat,Chhotaudepur,GUJARAT,CHHOTAUDEPUR,83.0,exact,100.0,False,,170,direct,3456.8475243911057
+Gujarat,Dang,GUJARAT,THE DANGS,96.0,exact,100.0,False,,171,direct,1766.3265656906767
+Gujarat,Devbhumi Dwarka,GUJARAT,DEVBHUMI DWARKA,4.0,exact,100.0,False,,172,direct,4158.864770711647
+Gujarat,Dohad,GUJARAT,DAHOD,92.0,exact,100.0,False,,173,direct,3642.185736077692
+Gujarat,Gandhinagar,GUJARAT,GANDHINAGAR,442.0,exact,100.0,False,,174,direct,2102.713302390624
+Gujarat,Gir Somnath,GUJARAT,GIR SOMNATH,136.0,exact,100.0,False,,175,direct,2644.249431829566
+Gujarat,Jamnagar,GUJARAT,JAMNAGAR,5.0,exact,100.0,False,,176,direct,5917.284541179952
+Gujarat,Junagadh,GUJARAT,JUNAGADH,178.0,exact,100.0,False,,177,direct,6146.612965898953
+Gujarat,Kachchh,GUJARAT,KACHCHH,6.0,exact,100.0,False,,178,direct,40697.46828926001
+Gujarat,Kheda,GUJARAT,KHEDA,440.0,exact,100.0,False,,179,direct,3442.029716237706
+Gujarat,Mahesana,GUJARAT,MAHESANA,441.0,exact,100.0,False,,180,direct,4418.6099904068515
+Gujarat,Mahisagar,GUJARAT,MAHISAGAR,226.0,exact,100.0,False,,181,direct,2511.8780941930527
+Gujarat,Morbi,GUJARAT,MORBI,1.0,exact,100.0,False,,182,direct,4981.323853967959
+Gujarat,Narmada,GUJARAT,NARMADA,247.0,exact,100.0,False,,183,direct,2818.2735753187067
+Gujarat,Navsari,GUJARAT,NAVSARI,10.0,exact,100.0,False,,184,direct,2204.626456320904
+Gujarat,Panch Mahals,GUJARAT,PANCH MAHALS,265.0,exact,100.0,False,,185,direct,3283.856326390026
+Gujarat,Patan,GUJARAT,PATAN,443.0,exact,100.0,False,,186,direct,5785.346360410452
+Gujarat,Porbandar,GUJARAT,PORBANDAR,436.0,exact,100.0,False,,187,direct,2314.0927731594898
+Gujarat,Rajkot,GUJARAT,RAJKOT,437.0,exact,100.0,False,,188,direct,7689.618113813636
+Gujarat,Sabar Kantha,GUJARAT,SABAR KANTHA,292.0,exact,100.0,False,,189,direct,4244.814663660857
+Gujarat,Surat,GUJARAT,SURAT,9.0,exact,100.0,False,,190,direct,4333.58291341806
+Gujarat,Surendranagar,GUJARAT,SURENDRANAGAR,438.0,exact,100.0,False,,191,direct,9175.388382505183
+Gujarat,Tapi,GUJARAT,TAPI,339.0,exact,100.0,False,,192,direct,3140.0872818505695
+Gujarat,Vadodara,GUJARAT,VADODARA,355.0,exact,100.0,False,,193,direct,4092.875064518717
+Gujarat,Valsad,GUJARAT,VALSAD,11.0,exact,100.0,False,,194,direct,2949.554312328813
+Haryana,Ambala,HARYANA,AMBALA,449.0,exact,100.0,False,,195,direct,1514.0081234587894
+Haryana,Bhiwani,HARYANA,BHIWANI,465.0,exact,100.0,False,,196,direct,3291.1508509355804
+Haryana,Charki Dadri,HARYANA,CHARKI DADRI,630.0,exact,100.0,False,,197,direct,1383.5391289720608
+Haryana,Faridabad,HARYANA,FARIDABAD,757.0,exact,100.0,False,,198,direct,741.7083664287104
+Haryana,Fatehabad,HARYANA,FATEHABAD,483.0,exact,100.0,False,,199,direct,2527.5447950198454
+Haryana,Gurugram,HARYANA,GURUGRAM,492.0,exact,100.0,False,,200,direct,1251.8100446717422
+Haryana,Hisar,HARYANA,HISAR,495.0,exact,100.0,False,,201,direct,4074.46616158503
+Haryana,Jhajjar,HARYANA,JHAJJAR,505.0,exact,100.0,False,,202,direct,1858.7759466239713
+Haryana,Jind,HARYANA,JIND,506.0,exact,100.0,False,,203,direct,2730.286638962283
+Haryana,Kaithal,HARYANA,KAITHAL,507.0,exact,100.0,False,,204,direct,2274.451487122915
+Haryana,Karnal,HARYANA,KARNAL,510.0,exact,100.0,False,,205,direct,2477.364146082372
+Haryana,Kurukshetra,HARYANA,KURUKSHETRA,520.0,exact,100.0,False,,206,direct,1676.2707813181153
+Haryana,Mahendragarh,HARYANA,MAHENDRAGARH,532.0,exact,100.0,False,,207,direct,1934.49034506716
+Haryana,Nuh,HARYANA,NUH,536.0,exact,100.0,False,,208,direct,1515.0542541842626
+Haryana,Palwal,HARYANA,PALWAL,557.0,exact,100.0,False,,209,direct,1359.7111655466922
+Haryana,Panchkula,HARYANA,PANCHKULA,711.0,exact,100.0,False,,210,direct,880.8258121668688
+Haryana,Panipat,HARYANA,PANIPAT,558.0,exact,100.0,False,,211,direct,1302.9731042143171
+Haryana,Rewari,HARYANA,REWARI,574.0,exact,100.0,False,,212,direct,1553.1216873816077
+Haryana,Rohtak,HARYANA,ROHTAK,575.0,exact,100.0,False,,213,direct,1668.5887498059105
+Haryana,Sirsa,HARYANA,SIRSA,588.0,exact,100.0,False,,214,direct,4272.374600692464
+Haryana,Sonipat,HARYANA,SONIPAT,592.0,exact,100.0,False,,215,direct,2180.071968180074
+Haryana,Yamunanagar,HARYANA,YAMUNANAGAR,613.0,exact,100.0,False,,216,direct,1720.7592971329786
+Himachal Pradesh,Bilaspur,HIMACHAL PRADESH,BILASPUR,67.0,exact,100.0,False,,217,direct,1165.7310777590562
+Himachal Pradesh,Chamba,HIMACHAL PRADESH,CHAMBA,75.0,exact,100.0,False,,218,direct,6513.655753282988
+Himachal Pradesh,Hamirpur,HIMACHAL PRADESH,HAMIRPUR,146.0,exact,100.0,False,,219,direct,1115.6865566257115
+Himachal Pradesh,Kangra,HIMACHAL PRADESH,KANGRA,184.0,exact,100.0,False,,220,direct,5740.97351559646
+Himachal Pradesh,Kinnaur,HIMACHAL PRADESH,KINNAUR,514.0,exact,100.0,False,,221,direct,6502.3116282273495
+Himachal Pradesh,Kullu,HIMACHAL PRADESH,KULLU,217.0,exact,100.0,False,,222,direct,5487.297496631962
+Himachal Pradesh,Lahul and Spiti,HIMACHAL PRADESH,LAHUL AND SPITI,522.0,exact,100.0,False,,223,direct,13957.522274737163
+Himachal Pradesh,Mandi,HIMACHAL PRADESH,MANDI,231.0,exact,100.0,False,,224,direct,3949.9285414080277
+Himachal Pradesh,Shimla,HIMACHAL PRADESH,SHIMLA,312.0,exact,100.0,False,,225,direct,5124.704091175315
+Himachal Pradesh,Sirmaur,HIMACHAL PRADESH,SIRMAUR,321.0,exact,100.0,False,,226,direct,2826.6239822046964
+Himachal Pradesh,Solan,HIMACHAL PRADESH,SOLAN,324.0,exact,100.0,False,,227,direct,1935.6988837357233
+Himachal Pradesh,Una,HIMACHAL PRADESH,UNA,351.0,exact,100.0,False,,228,direct,1542.6443853545547
+Jammu and Kashmir,Anantnag,JAMMU AND KASHMIR,ANANTNAG,394.0,exact,100.0,False,,229,direct,2729.186067273652
+Jammu and Kashmir,Bandipora,JAMMU AND KASHMIR,BANDIPORA,409.0,exact,100.0,False,,230,direct,4045.6381302372483
+Jammu and Kashmir,Baramulla,JAMMU AND KASHMIR,BARAMULLA,395.0,exact,100.0,False,,231,direct,2063.3683370443932
+Jammu and Kashmir,Budgam,JAMMU AND KASHMIR,BUDGAM,408.0,exact,100.0,False,,232,direct,1250.5118168380436
+Jammu and Kashmir,Doda,JAMMU AND KASHMIR,DODA,422.0,exact,100.0,False,,233,direct,2409.7901954472836
+Jammu and Kashmir,Ganderbal,JAMMU AND KASHMIR,GANDERBAL,410.0,exact,100.0,False,,234,direct,1620.8966453751796
+Jammu and Kashmir,Jammu,JAMMU AND KASHMIR,JAMMU,622.0,exact,100.0,False,,235,direct,2411.602687700115
+Jammu and Kashmir,Kathua,JAMMU AND KASHMIR,KATHUA,396.0,exact,100.0,False,,236,direct,2501.938588321409
+Jammu and Kashmir,Kishtwar,JAMMU AND KASHMIR,KISHTWAR,421.0,exact,100.0,False,,237,direct,8176.4948606051385
+Jammu and Kashmir,Kulgam,JAMMU AND KASHMIR,KULGAM,411.0,exact,100.0,False,,238,direct,1265.7176137753129
+Jammu and Kashmir,Kupwara,JAMMU AND KASHMIR,KUPWARA,412.0,exact,100.0,False,,239,direct,2745.5302395286644
+Jammu and Kashmir,Poonch,JAMMU AND KASHMIR,POONCH,393.0,exact,100.0,False,,240,direct,4246.7918478541005
+Jammu and Kashmir,Pulwama,JAMMU AND KASHMIR,PULWAMA,413.0,exact,100.0,False,,241,direct,897.1020983980923
+Jammu and Kashmir,Rajouri,JAMMU AND KASHMIR,RAJOURI,414.0,exact,100.0,False,,242,direct,2637.193312649668
+Jammu and Kashmir,Ramban,JAMMU AND KASHMIR,RAMBAN,415.0,exact,100.0,False,,243,direct,1289.20721738553
+Jammu and Kashmir,Reasi,JAMMU AND KASHMIR,REASI,416.0,exact,100.0,False,,244,direct,1933.8395121061435
+Jammu and Kashmir,Samba,JAMMU AND KASHMIR,SAMBA,423.0,exact,100.0,False,,245,direct,928.4364367250566
+Jammu and Kashmir,Shopian,JAMMU AND KASHMIR,SHOPIAN,417.0,exact,100.0,False,,246,direct,505.93773722277285
+Jammu and Kashmir,Srinagar,JAMMU AND KASHMIR,SRINAGAR,418.0,exact,100.0,False,,247,direct,281.79459315721505
+Jammu and Kashmir,Udhampur,JAMMU AND KASHMIR,UDHAMPUR,397.0,exact,100.0,False,,248,direct,2281.427811628856
+Jharkhand,Bokaro,JHARKHAND,BOKARO,69.0,exact,100.0,False,,249,direct,2880.046260469365
+Jharkhand,Chatra,JHARKHAND,CHATRA,80.0,exact,100.0,False,,250,direct,3805.7297529135303
+Jharkhand,Deoghar,JHARKHAND,DEOGHAR,739.0,exact,100.0,False,,251,direct,2485.4239295737566
+Jharkhand,Dhanbad,JHARKHAND,DHANBAD,106.0,exact,100.0,False,,252,direct,2037.8243535020001
+Jharkhand,Dumka,JHARKHAND,DUMKA,114.0,exact,100.0,False,,253,direct,3760.2390069647945
+Jharkhand,East Singhbum,JHARKHAND,EAST SINGHBHUM,274.0,exact,100.0,False,,254,direct,3555.424865625595
+Jharkhand,Garhwa,JHARKHAND,GARHWA,131.0,exact,100.0,False,,255,direct,4101.722356893322
+Jharkhand,Giridih,JHARKHAND,GIRIDIH,137.0,exact,100.0,False,,256,direct,4963.988999883317
+Jharkhand,Godda,JHARKHAND,GODDA,138.0,exact,100.0,False,,257,direct,2283.2266909239506
+Jharkhand,Gumla,JHARKHAND,GUMLA,143.0,exact,100.0,False,,258,direct,5359.90873890743
+Jharkhand,Hazaribagh,JHARKHAND,HAZARIBAGH,156.0,exact,100.0,False,,259,direct,4337.766070326121
+Jharkhand,Jamtara,JHARKHAND,JAMTARA,168.0,exact,100.0,False,,260,direct,1807.939439865334
+Jharkhand,Khunti,JHARKHAND,KHUNTI,201.0,exact,100.0,False,,261,direct,2635.8393102333757
+Jharkhand,Koderma,JHARKHAND,KODERMA,205.0,exact,100.0,False,,262,direct,1638.4890846944713
+Jharkhand,Latehar,JHARKHAND,LATEHAR,221.0,exact,100.0,False,,263,direct,4243.098903841466
+Jharkhand,Lohardaga,JHARKHAND,LOHARDAGA,222.0,exact,100.0,False,,264,direct,1506.240340061868
+Jharkhand,Pakur,JHARKHAND,PAKUR,261.0,exact,100.0,False,,265,direct,1801.2712624167332
+Jharkhand,Palamu,JHARKHAND,PALAMU,263.0,exact,100.0,False,,266,direct,4419.57254144603
+Jharkhand,Ramgarh,JHARKHAND,RAMGARH,284.0,exact,100.0,False,,267,direct,1393.639642141681
+Jharkhand,Ranchi,JHARKHAND,RANCHI,287.0,exact,100.0,False,,268,direct,4985.906396491349
+Jharkhand,Sahebganj,JHARKHAND,SAHEBGANJ,295.0,exact,100.0,False,,269,direct,2185.1357229846744
+Jharkhand,Saraikela Kharsawan,JHARKHAND,SARAIKELA KHARSAWAN,300.0,exact,100.0,False,,270,direct,2659.204734805493
+Jharkhand,Simdega,JHARKHAND,SIMDEGA,319.0,exact,100.0,False,,271,direct,3778.100588409904
+Jharkhand,West Singhbhum,JHARKHAND,WEST SINGHBHUM,267.0,exact,100.0,False,,272,direct,7223.640307973673
+Karnataka,Bengaluru Rural,KARNATAKA,BENGALURU,54.0,manual,100.0,False,manual_overrides.csv,273,direct,2298.1307984333075
+Karnataka,Bengaluru Urban,KARNATAKA,BENGALURU,55.0,manual,100.0,False,manual_overrides.csv,274,direct,2196.189555607489
+Karnataka,Bagalkote,KARNATAKA,BAGALKOTE,30.0,exact,100.0,False,,275,direct,6563.618307009405
+Karnataka,Ballari,KARNATAKA,BALLARI,37.0,exact,100.0,False,,276,direct_with_children,9891.136831815675
+Karnataka,Belagavi,KARNATAKA,BELAGAVI,752.0,exact,100.0,False,,277,direct,13408.780487245764
+Karnataka,Bidar,KARNATAKA,BIDAR,741.0,exact,100.0,False,,278,direct,5448.632900076171
+Karnataka,Chamarajanagara,KARNATAKA,CHAMARAJANAGARA,74.0,exact,100.0,False,,279,direct,5647.719623692953
+Karnataka,Chikkaballapura,KARNATAKA,CHIKKABALLAPURA,84.0,exact,100.0,False,,280,direct,4243.67083480533
+Karnataka,Chikkamagaluru,KARNATAKA,CHIKKAMAGALURU,85.0,exact,100.0,False,,281,direct,7203.0145578713045
+Karnataka,Chitradurga,KARNATAKA,CHITRADURGA,86.0,exact,100.0,False,,282,direct,8436.060728245466
+Karnataka,Dakshina Kannada,KARNATAKA,DAKSHINA KANNADA,93.0,exact,100.0,False,,283,direct,4858.464637074119
+Karnataka,Davangere,KARNATAKA,DAVANAGERE,99.0,exact,100.0,False,,284,direct,4488.761636761561
+Karnataka,Dharwad,KARNATAKA,DHARWAD,109.0,exact,100.0,False,,285,direct,4258.655669964203
+Karnataka,Gadag,KARNATAKA,GADAG,128.0,exact,100.0,False,,286,direct,4656.842443586119
+Karnataka,Hassan,KARNATAKA,HASSAN,153.0,exact,100.0,False,,287,direct,6813.599841916036
+Karnataka,Haveri,KARNATAKA,HAVERI,155.0,exact,100.0,False,,288,direct,4823.068714357204
+Karnataka,Kalaburagi,KARNATAKA,KALABURAGI,180.0,exact,100.0,False,,289,direct,10955.531091303576
+Karnataka,Kodagu,KARNATAKA,KODAGU,204.0,exact,100.0,False,,290,direct,4102.655521668174
+Karnataka,Kolar,KARNATAKA,KOLAR,207.0,exact,100.0,False,,291,direct,3978.734444673719
+Karnataka,Koppal,KARNATAKA,KOPPAL,210.0,exact,100.0,False,,292,direct,5576.347754811977
+Karnataka,Mandya,KARNATAKA,MANDYA,740.0,exact,100.0,False,,293,direct,4955.566338120842
+Karnataka,Mysuru,KARNATAKA,MYSURU,243.0,exact,100.0,False,,294,direct,6315.423728717659
+Karnataka,Raichur,KARNATAKA,RAICHUR,277.0,exact,100.0,False,,295,direct,8442.732054230764
+Karnataka,Ramanagara,KARNATAKA,RAMANAGARA,285.0,exact,100.0,False,,296,direct,3513.0070575279633
+Karnataka,Shivamogga,KARNATAKA,SHIVAMOGGA,313.0,exact,100.0,False,,297,direct,8474.680946262637
+Karnataka,Tumakuru,KARNATAKA,TUMAKURU,345.0,exact,100.0,False,,298,direct,10598.72387621905
+Karnataka,Udupi,KARNATAKA,UDUPI,348.0,exact,100.0,False,,299,direct,3582.2311007493186
+Karnataka,Uttara Kannada,KARNATAKA,UTTARA KANNADA,354.0,exact,100.0,False,,300,direct,10295.309140919584
+Karnataka,Vijayapura,KARNATAKA,VIJAYAPURA,358.0,exact,100.0,False,,301,direct,10495.281657829373
+Karnataka,Yadgir,KARNATAKA,YADGIR,366.0,exact,100.0,False,,302,direct,5274.399034362592
+Kerala,Alappuzha,KERALA,ALAPPUZHA,15.0,exact,100.0,False,,303,direct,1420.2727430158702
+Kerala,Ernakulam,KERALA,ERNAKULAM,122.0,exact,100.0,False,,304,direct,3059.999764505114
+Kerala,Idukki,KERALA,IDUKKI,158.0,exact,100.0,False,,305,direct,4357.185393615839
+Kerala,Kannur,KERALA,KANNUR,187.0,exact,100.0,False,,306,direct,2967.0690174401784
+Kerala,Kasaragod,KERALA,KASARAGOD,192.0,exact,100.0,False,,307,direct,1992.842001641693
+Kerala,Kollam,KERALA,KOLLAM,208.0,exact,100.0,False,,308,direct,2483.974652227808
+Kerala,Kottayam,KERALA,KOTTAYAM,215.0,exact,100.0,False,,309,direct,2205.7690439327525
+Kerala,Kozhikode,KERALA,KOZHIKODE,216.0,exact,100.0,False,,310,direct,2348.4294292382865
+Kerala,Malappuram,KERALA,MALAPPURAM,229.0,exact,100.0,False,,311,direct,3554.909746362128
+Kerala,Palakkad,KERALA,PALAKKAD,262.0,exact,100.0,False,,312,direct,4482.744727480731
+Kerala,Pathanamthitta,KERALA,PATHANAMTHITTA,268.0,exact,100.0,False,,313,direct,2650.917218325582
+Kerala,Thiruvananthapuram,KERALA,THIRUVANANTHAPURAM,341.0,exact,100.0,False,,314,direct,2193.0785715611
+Kerala,Thrissur,KERALA,THRISSUR,342.0,exact,100.0,False,,315,direct,3021.7698938692542
+Kerala,Wayanad,KERALA,WAYANAD,359.0,exact,100.0,False,,316,direct,2131.0658036903246
+Ladakh,Kargil,LADAKH,KARGIL,420.0,exact,100.0,False,,317,direct,14205.220730563979
+Ladakh,Leh Ladakh,LADAKH,LEH,419.0,exact,100.0,False,,318,direct,154019.77566400735
+Lakshadweep,Lakshadweep District,LAKSHADWEEP,LAKSHADWEEP,219.0,exact,100.0,False,,319,direct,29.910118561457985
+Madhya Pradesh,Agar-Malwa,MADHYA PRADESH,AGAR MALWA,12.0,exact,100.0,False,,320,direct,2732.243357615868
+Madhya Pradesh,Alirajpur,MADHYA PRADESH,ALIRAJPUR,17.0,exact,100.0,False,,321,direct,3336.8621961492618
+Madhya Pradesh,Anuppur,MADHYA PRADESH,ANUPPUR,24.0,exact,100.0,False,,322,direct,3773.487877018976
+Madhya Pradesh,Ashoknagar,MADHYA PRADESH,ASHOKNAGAR,26.0,exact,100.0,False,,323,direct,4736.415415120825
+Madhya Pradesh,Balaghat,MADHYA PRADESH,BALAGHAT,34.0,exact,100.0,False,,324,direct,9249.317136453517
+Madhya Pradesh,Barwani,MADHYA PRADESH,BARWANI,51.0,exact,100.0,False,,325,direct,5428.962684362967
+Madhya Pradesh,Betul,MADHYA PRADESH,BETUL,56.0,exact,100.0,False,,326,direct,10053.457917220318
+Madhya Pradesh,Bhind,MADHYA PRADESH,BHIND,61.0,exact,100.0,False,,327,direct,4462.782861675167
+Madhya Pradesh,Bhopal,MADHYA PRADESH,BHOPAL,62.0,exact,100.0,False,,328,direct,2767.3592882187695
+Madhya Pradesh,Burhanpur,MADHYA PRADESH,BURHANPUR,72.0,exact,100.0,False,,329,direct,3225.1131373208805
+Madhya Pradesh,Chhatarpur,MADHYA PRADESH,CHHATARPUR,81.0,exact,100.0,False,,330,direct,8677.203082552525
+Madhya Pradesh,Chhindwara,MADHYA PRADESH,CHHINDWARA,82.0,exact,100.0,False,,331,direct,11811.119521458348
+Madhya Pradesh,Damoh,MADHYA PRADESH,DAMOH,95.0,exact,100.0,False,,332,direct,7302.94148897346
+Madhya Pradesh,Datia,MADHYA PRADESH,DATIA,98.0,exact,100.0,False,,333,direct,2686.617880713263
+Madhya Pradesh,Dewas,MADHYA PRADESH,DEWAS,103.0,exact,100.0,False,,334,direct,7012.277787986791
+Madhya Pradesh,Dhar,MADHYA PRADESH,DHAR,107.0,exact,100.0,False,,335,direct,8156.39315208697
+Madhya Pradesh,Dindori,MADHYA PRADESH,DINDORI,113.0,exact,100.0,False,,336,direct,5745.9290969460235
+Madhya Pradesh,Guna,MADHYA PRADESH,GUNA,144.0,exact,100.0,False,,337,direct,6380.5285981679235
+Madhya Pradesh,Gwalior,MADHYA PRADESH,GWALIOR,145.0,exact,100.0,False,,338,direct,4563.245292518981
+Madhya Pradesh,Harda,MADHYA PRADESH,HARDA,150.0,exact,100.0,False,,339,direct,3341.4156585220335
+Madhya Pradesh,Indore,MADHYA PRADESH,INDORE,160.0,exact,100.0,False,,340,direct,3908.1787686961707
+Madhya Pradesh,Jabalpur,MADHYA PRADESH,JABALPUR,161.0,exact,100.0,False,,341,direct,5093.903627047961
+Madhya Pradesh,Jhabua,MADHYA PRADESH,JHABUA,172.0,exact,100.0,False,,342,direct,3443.3345774078903
+Madhya Pradesh,Katni,MADHYA PRADESH,KATNI,194.0,exact,100.0,False,,343,direct,5054.478056013415
+Madhya Pradesh,Khargone (West Nimar),MADHYA PRADESH,KHARGONE,364.0,exact,100.0,False,,344,direct,8026.519243579024
+Madhya Pradesh,Mandla,MADHYA PRADESH,MANDLA,232.0,exact,100.0,False,,345,direct,7512.036327077611
+Madhya Pradesh,Mandsaur,MADHYA PRADESH,MANDSAUR,233.0,exact,100.0,False,,346,direct,5551.727068551971
+Madhya Pradesh,Morena,MADHYA PRADESH,MORENA,240.0,exact,100.0,False,,347,direct,4986.393041509269
+Madhya Pradesh,Narmadapuram,MADHYA PRADESH,NARMADAPURAM,157.0,exact,100.0,False,,348,direct,6685.9660430463155
+Madhya Pradesh,Neemuch,MADHYA PRADESH,NEEMUCH,252.0,exact,100.0,False,,349,direct,4290.798759852781
+Madhya Pradesh,Niwari,MADHYA PRADESH,NIWARI,433.0,exact,100.0,False,,350,direct,1322.309922022369
+Madhya Pradesh,Panna,MADHYA PRADESH,PANNA,266.0,exact,100.0,False,,351,direct,7099.127096313033
+Madhya Pradesh,Raisen,MADHYA PRADESH,RAISEN,280.0,exact,100.0,False,,352,direct,8477.490339855987
+Madhya Pradesh,Rajgarh,MADHYA PRADESH,RAJGARH,282.0,exact,100.0,False,,353,direct,6166.828250762251
+Madhya Pradesh,Ratlam,MADHYA PRADESH,RATLAM,288.0,exact,100.0,False,,354,direct,4857.403264967051
+Madhya Pradesh,Rewa,MADHYA PRADESH,REWA,290.0,exact,100.0,False,,355,direct,6297.642388024097
+Madhya Pradesh,Sagar,MADHYA PRADESH,SAGAR,293.0,exact,100.0,False,,356,direct,10267.706619377099
+Madhya Pradesh,Satna,MADHYA PRADESH,SATNA,301.0,exact,100.0,False,,357,direct,7525.166107030689
+Madhya Pradesh,Sehore,MADHYA PRADESH,SEHORE,303.0,exact,100.0,False,,358,direct,6568.530063574008
+Madhya Pradesh,Seoni,MADHYA PRADESH,SEONI,304.0,exact,100.0,False,,359,direct,8760.587849292264
+Madhya Pradesh,Shahdol,MADHYA PRADESH,SHAHDOL,307.0,exact,100.0,False,,360,direct,5680.672116528696
+Madhya Pradesh,Shajapur,MADHYA PRADESH,SHAJAPUR,309.0,exact,100.0,False,,361,direct,3462.1186537328795
+Madhya Pradesh,Sheopur,MADHYA PRADESH,SHEOPUR,311.0,exact,100.0,False,,362,direct,6615.721490876476
+Madhya Pradesh,Shivpuri,MADHYA PRADESH,SHIVPURI,314.0,exact,100.0,False,,363,direct,10285.384402448457
+Madhya Pradesh,Sidhi,MADHYA PRADESH,SIDHI,317.0,exact,100.0,False,,364,direct,4775.734324099208
+Madhya Pradesh,Singrauli,MADHYA PRADESH,SINGRAULI,320.0,exact,100.0,False,,365,direct,5766.067643459705
+Madhya Pradesh,Tikamgarh,MADHYA PRADESH,TIKAMGARH,343.0,exact,100.0,False,,366,direct,3723.0748580221516
+Madhya Pradesh,Ujjain,MADHYA PRADESH,UJJAIN,349.0,exact,100.0,False,,367,direct,6101.548312642437
+Madhya Pradesh,Umaria,MADHYA PRADESH,UMARIA,350.0,exact,100.0,False,,368,direct,4578.342563895959
+Madhya Pradesh,Vidisha,MADHYA PRADESH,VIDISHA,357.0,exact,100.0,False,,369,direct,7303.568890195572
+Madhya Pradesh,Narsimhapur,MADHYA PRADESH,NARSIMHAPUR,248.0,hungarian,81.81818181818181,True,,370,direct,5135.596208517664
+Madhya Pradesh,Khandwa (East Nimar),MADHYA PRADESH,KHANDWA,,unmatched,0.0,True,no polygon; active 2021-01-01–2026-09-19 (1798 days) — name not in boundary layer,371,direct,
+Maharashtra,Ahmednagar,MAHARASHTRA,AHMEDNAGAR,445.0,exact,100.0,False,,372,direct,17095.832461440164
+Maharashtra,Akola,MAHARASHTRA,AKOLA,446.0,exact,100.0,False,,373,direct,5440.16381441701
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,448.0,exact,100.0,False,,374,direct,12204.779406486292
+Maharashtra,Beed,MAHARASHTRA,BEED,467.0,exact,100.0,False,,375,direct,10607.310407141666
+Maharashtra,Bhandara,MAHARASHTRA,BHANDARA,464.0,exact,100.0,False,,376,direct,4137.408532991947
+Maharashtra,Buldhana,MAHARASHTRA,BULDHANA,469.0,exact,100.0,False,,377,direct,9742.317743530992
+Maharashtra,Chandrapur,MAHARASHTRA,CHANDRAPUR,472.0,exact,100.0,False,,378,direct,11364.371270432346
+Maharashtra,Chhatrapati Sambhajinagar,MAHARASHTRA,AURANGABAD,455.0,exact,100.0,False,,379,direct,10122.19300634117
+Maharashtra,Dharashiv,MAHARASHTRA,OSMANABAD,555.0,exact,100.0,False,,380,direct,7576.701744944742
+Maharashtra,Dhule,MAHARASHTRA,DHULE,477.0,exact,100.0,False,,381,direct,7188.70009609971
+Maharashtra,Gadchiroli,MAHARASHTRA,GADCHIROLI,487.0,exact,100.0,False,,382,direct,14506.238742054798
+Maharashtra,Gondia,MAHARASHTRA,GONDIA,489.0,exact,100.0,False,,383,direct,5183.03597636772
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,494.0,exact,100.0,False,,384,direct,4711.254613598627
+Maharashtra,Jalgaon,MAHARASHTRA,JALGAON,501.0,exact,100.0,False,,385,direct,11792.140330139737
+Maharashtra,Jalna,MAHARASHTRA,JALNA,502.0,exact,100.0,False,,386,direct,7676.8013160053815
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,518.0,exact,100.0,False,,387,direct,7676.414644128218
+Maharashtra,Latur,MAHARASHTRA,LATUR,524.0,exact,100.0,False,,388,direct,7203.759418235745
+Maharashtra,Mumbai,MAHARASHTRA,MUMBAI,540.0,exact,100.0,False,,389,direct,64.0294246626518
+Maharashtra,Nagpur,MAHARASHTRA,NAGPUR,545.0,exact,100.0,False,,390,direct,9897.300830850123
+Maharashtra,Nanded,MAHARASHTRA,NANDED,548.0,exact,100.0,False,,391,direct,10532.358854245476
+Maharashtra,Nandurbar,MAHARASHTRA,NANDURBAR,549.0,exact,100.0,False,,392,direct,5959.154120593914
+Maharashtra,Nashik,MAHARASHTRA,NASHIK,550.0,exact,100.0,False,,393,direct,15514.953923330822
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,556.0,exact,100.0,False,,394,direct,5270.844935185061
+Maharashtra,Parbhani,MAHARASHTRA,PARBHANI,560.0,exact,100.0,False,,395,direct,6307.557517106717
+Maharashtra,Pune,MAHARASHTRA,PUNE,567.0,exact,100.0,False,,396,direct,15651.637498375501
+Maharashtra,Raigad,MAHARASHTRA,RAIGAD,571.0,exact,100.0,False,,397,direct,6980.575994002568
+Maharashtra,Ratnagiri,MAHARASHTRA,RATNAGIRI,573.0,exact,100.0,False,,398,direct,8292.885510100192
+Maharashtra,Sangli,MAHARASHTRA,SANGLI,580.0,exact,100.0,False,,399,direct,8605.959661852665
+Maharashtra,Satara,MAHARASHTRA,SATARA,583.0,exact,100.0,False,,400,direct,10477.28798515946
+Maharashtra,Sindhudurg,MAHARASHTRA,SINDHUDURG,587.0,exact,100.0,False,,401,direct,5106.468200678133
+Maharashtra,Solapur,MAHARASHTRA,SOLAPUR,591.0,exact,100.0,False,,402,direct,14857.455896059899
+Maharashtra,Thane,MAHARASHTRA,THANE,599.0,exact,100.0,False,,403,direct,4274.337071486139
+Maharashtra,Wardha,MAHARASHTRA,WARDHA,609.0,exact,100.0,False,,404,direct,6307.58506709848
+Maharashtra,Washim,MAHARASHTRA,WASHIM,610.0,exact,100.0,False,,405,direct,5132.62947736526
+Maharashtra,Yavatmal,MAHARASHTRA,YAVATMAL,614.0,exact,100.0,False,,406,direct,13584.958966856686
+Manipur,Bishnupur,MANIPUR,BISHNUPUR,68.0,exact,100.0,False,,407,direct,447.33897673688165
+Manipur,Chandel,MANIPUR,CHANDEL,78.0,exact,100.0,False,,408,direct_with_children,3268.3068344118496
+Manipur,Churachandpur,MANIPUR,CHURACHANDPUR,89.0,exact,100.0,False,,409,direct_with_children,4693.059738412751
+Manipur,Imphal East,MANIPUR,IMPHAL EAST,431.0,exact,100.0,False,,410,direct_with_children,646.0898460026076
+Manipur,Imphal West,MANIPUR,IMPHAL WEST,159.0,exact,100.0,False,,411,direct,488.12002593851935
+Manipur,Senapati,MANIPUR,SENAPATI,584.0,exact,100.0,False,,412,direct_with_children,3484.564385062066
+Manipur,Tamenglong,MANIPUR,TAMENGLONG,596.0,exact,100.0,False,,413,direct_with_children,4184.9197320726325
+Manipur,Thoubal,MANIPUR,THOUBAL,600.0,exact,100.0,False,,414,direct_with_children,621.2143989116892
+Manipur,Ukhrul,MANIPUR,UKHRUL,515.0,exact,100.0,False,,415,direct_with_children,4510.533404919328
+Meghalaya,East Garo Hills,MEGHALAYA,EAST GARO HILLS,119.0,exact,100.0,False,,416,direct,1608.3465852840604
+Meghalaya,East Jaintia Hills,MEGHALAYA,EAST JAINTIA HILLS,203.0,exact,100.0,False,,417,direct,1927.9952748879332
+Meghalaya,East Khasi Hills,MEGHALAYA,EAST KHASI HILLS,120.0,exact,100.0,False,,418,direct,2875.7416070078357
+Meghalaya,North Garo Hills,MEGHALAYA,NORTH GARO HILLS,403.0,exact,100.0,False,,419,direct,1248.9641555014557
+Meghalaya,Ri Bhoi,MEGHALAYA,RI BHOI,399.0,exact,100.0,False,,420,direct,2368.866275830009
+Meghalaya,South Garo Hills,MEGHALAYA,SOUTH GARO HILLS,329.0,exact,100.0,False,,421,direct,1856.3815784380126
+Meghalaya,South West Garo Hills,MEGHALAYA,SOUTH WEST GARO HILLS,402.0,exact,100.0,False,,422,direct,805.7507508627456
+Meghalaya,South West Khasi Hills,MEGHALAYA,SOUTH WEST KHASI HILLS,401.0,exact,100.0,False,,423,direct,1258.4584044544226
+Meghalaya,West Garo Hills,MEGHALAYA,WEST GARO HILLS,362.0,exact,100.0,False,,424,direct,2641.6699876122784
+Meghalaya,West Jaintia Hills,MEGHALAYA,WEST JAINTIA HILLS,404.0,exact,100.0,False,,425,direct,1884.4284073580723
+Meghalaya,West Khasi Hills,MEGHALAYA,WEST KHASI HILLS,363.0,exact,100.0,False,,426,direct_with_children,3939.4558310898656
+Mizoram,Aizawl,MIZORAM,AIZAWL,405.0,exact,100.0,False,,427,direct_with_children,3967.8575243808414
+Mizoram,Champhai,MIZORAM,CHAMPHAI,707.0,exact,100.0,False,,428,direct_with_children,2550.8280936574693
+Mizoram,Kolasib,MIZORAM,KOLASIB,371.0,exact,100.0,False,,429,direct,1598.7984162666266
+Mizoram,Lawngtlai,MIZORAM,LAWNGTLAI,369.0,exact,100.0,False,,430,direct,2451.750619281756
+Mizoram,Lunglei,MIZORAM,LUNGLEI,373.0,exact,100.0,False,,431,direct,3588.2073039324973
+Mizoram,Mamit,MIZORAM,MAMIT,372.0,exact,100.0,False,,432,direct,3026.9041628221244
+Mizoram,Serchhip,MIZORAM,SERCHHIP,370.0,exact,100.0,False,,433,direct,1445.8152990183198
+Mizoram,Siaha,MIZORAM,SIAHA,296.0,hungarian,80.0,True,,434,direct,1522.7308230369217
+Nagaland,Dimapur,NAGALAND,DIMAPUR,750.0,exact,100.0,False,,435,direct_with_children,870.0616740509755
+Nagaland,Kiphire,NAGALAND,KIPHIRE,617.0,exact,100.0,False,,436,direct,1141.1988482846943
+Nagaland,Kohima,NAGALAND,KOHIMA,616.0,exact,100.0,False,,437,direct_with_children,1293.672564938568
+Nagaland,Longleng,NAGALAND,LONGLENG,624.0,exact,100.0,False,,438,direct,567.1730973120237
+Nagaland,Mokokchung,NAGALAND,MOKOKCHUNG,619.0,exact,100.0,False,,439,direct,1612.283151926033
+Nagaland,Mon,NAGALAND,MON,620.0,exact,100.0,False,,440,direct,2177.2290140555406
+Nagaland,Peren,NAGALAND,PEREN,479.0,exact,100.0,False,,441,direct,1723.8065411183297
+Nagaland,Phek,NAGALAND,PHEK,516.0,exact,100.0,False,,442,direct,1859.5157963084848
+Nagaland,Tuensang,NAGALAND,TUENSANG,621.0,exact,100.0,False,,443,direct_with_children,2141.068094943361
+Nagaland,Wokha,NAGALAND,WOKHA,538.0,exact,100.0,False,,444,direct,1635.0512467499561
+Nagaland,Zunheboto,NAGALAND,ZUNHEBOTO,618.0,exact,100.0,False,,445,direct,1568.4524478894957
+Odisha,Anugul,ODISHA,ANUGUL,23.0,exact,100.0,False,,446,direct,6373.230026528729
+Odisha,Balangir,ODISHA,BALANGIR,35.0,exact,100.0,False,,447,direct,6548.766953114247
+Odisha,Baleshwar,ODISHA,BALASORE,36.0,exact,100.0,False,,448,direct,3717.9155526658847
+Odisha,Bargarh,ODISHA,BARGARH,47.0,exact,100.0,False,,449,direct,5836.593552982527
+Odisha,Bhadrak,ODISHA,BHADRAK,58.0,exact,100.0,False,,450,direct,2505.8385933845466
+Odisha,Boudh,ODISHA,BOUDH,368.0,exact,100.0,False,,451,direct,3102.437164452313
+Odisha,Cuttack,ODISHA,CUTTACK,91.0,exact,100.0,False,,452,direct,3854.6625727988544
+Odisha,Deogarh,ODISHA,DEOGARH,101.0,exact,100.0,False,,453,direct,2955.9095154233187
+Odisha,Dhenkanal,ODISHA,DHENKANAL,110.0,exact,100.0,False,,454,direct,4458.8710335049545
+Odisha,Gajapati,ODISHA,GAJAPATI,129.0,exact,100.0,False,,455,direct,4133.071025008197
+Odisha,Ganjam,ODISHA,GANJAM,130.0,exact,100.0,False,,456,direct,8392.38196853112
+Odisha,Jagatsinghapur,ODISHA,JAGATSINGHAPUR,162.0,exact,100.0,False,,457,direct,1733.7895713948117
+Odisha,Jajapur,ODISHA,JAJAPUR,165.0,exact,100.0,False,,458,direct,2897.934824480231
+Odisha,Jharsuguda,ODISHA,JHARSUGUDA,175.0,exact,100.0,False,,459,direct,2141.2272874873083
+Odisha,Kalahandi,ODISHA,KALAHANDI,181.0,exact,100.0,False,,460,direct,7898.159560450492
+Odisha,Kandhamal,ODISHA,KANDHAMAL,183.0,exact,100.0,False,,461,direct,8020.044177158576
+Odisha,Kendrapara,ODISHA,KENDRAPARA,196.0,exact,100.0,False,,462,direct,2533.243680929755
+Odisha,Kendujhar,ODISHA,KENDUJHAR,197.0,exact,100.0,False,,463,direct,8302.168670463709
+Odisha,Khordha,ODISHA,KHORDHA,199.0,exact,100.0,False,,464,direct,2880.153399201271
+Odisha,Koraput,ODISHA,KORAPUT,211.0,exact,100.0,False,,465,direct,8389.757761193981
+Odisha,Malkangiri,ODISHA,MALKANGIRI,230.0,exact,100.0,False,,466,direct,5782.324834632302
+Odisha,Mayurbhanj,ODISHA,MAYURBHANJ,236.0,exact,100.0,False,,467,direct,10410.343398320487
+Odisha,Nabarangpur,ODISHA,NABARANGPUR,244.0,exact,100.0,False,,468,direct,5454.616815080101
+Odisha,Nayagarh,ODISHA,NAYAGARH,249.0,exact,100.0,False,,469,direct,3897.3941819480137
+Odisha,Nuapada,ODISHA,NUAPADA,260.0,exact,100.0,False,,470,direct,3846.190826284425
+Odisha,Puri,ODISHA,PURI,275.0,exact,100.0,False,,471,direct,3471.7400882784855
+Odisha,Rayagada,ODISHA,RAYAGADA,289.0,exact,100.0,False,,472,direct,7342.085787214409
+Odisha,Sambalpur,ODISHA,SAMBALPUR,297.0,exact,100.0,False,,473,direct,6581.150566153203
+Odisha,Sonepur,ODISHA,SUBARNAPUR,333.0,exact,100.0,False,,474,direct,2362.424551137185
+Odisha,Sundargarh,ODISHA,SUNDARGARH,336.0,exact,100.0,False,,475,direct,9724.382599456942
+Puducherry,Karaikal,PUDUCHERRY,KARAIKAL,190.0,exact,100.0,False,,476,direct,158.77051978778803
+Puducherry,Mahe,PUDUCHERRY,MAHE,225.0,exact,100.0,False,,477,direct,8.970110637197395
+Puducherry,Pondicherry,PUDUCHERRY,PUDUCHERRY,273.0,exact,100.0,False,,478,direct,298.5560263396971
+Puducherry,Yanam,PUDUCHERRY,YANAM,367.0,exact,100.0,False,,479,direct,37.81310257089612
+Punjab,Amritsar,PUNJAB,AMRITSAR,450.0,exact,100.0,False,,480,direct,2678.399468006935
+Punjab,Barnala,PUNJAB,BARNALA,459.0,exact,100.0,False,,481,direct,1424.3069726339118
+Punjab,Bathinda,PUNJAB,BATHINDA,460.0,exact,100.0,False,,482,direct,3378.318415099747
+Punjab,Faridkot,PUNJAB,FARIDKOT,482.0,exact,100.0,False,,483,direct,1460.9480448393554
+Punjab,Fatehgarh Sahib,PUNJAB,FATEHGARH SAHIB,484.0,exact,100.0,False,,484,direct,1146.3780718898183
+Punjab,Fazilka,PUNJAB,FAZILKA,485.0,exact,100.0,False,,485,direct,2875.7601086471573
+Punjab,Ferozepur,PUNJAB,FEROZEPUR,486.0,exact,100.0,False,,486,direct,2371.4651169332465
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,491.0,exact,100.0,False,,487,direct,2603.733041899495
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,496.0,exact,100.0,False,,488,direct,3382.4760948922813
+Punjab,Jalandhar,PUNJAB,JALANDHAR,500.0,exact,100.0,False,,489,direct,2638.135186537833
+Punjab,Kapurthala,PUNJAB,KAPURTHALA,508.0,exact,100.0,False,,490,direct,1632.8731309035368
+Punjab,Ludhiana,PUNJAB,LUDHIANA,527.0,exact,100.0,False,,491,direct,3690.1102343219322
+Punjab,Mansa,PUNJAB,MANSA,534.0,exact,100.0,False,,492,direct,2171.401830783006
+Punjab,Moga,PUNJAB,MOGA,537.0,exact,100.0,False,,493,direct,2250.789844417724
+Punjab,Pathankot,PUNJAB,PATHANKOT,563.0,exact,100.0,False,,494,direct,949.8544788992629
+Punjab,Patiala,PUNJAB,PATIALA,564.0,exact,100.0,False,,495,direct,3321.1870615513308
+Punjab,Rupnagar,PUNJAB,RUPNAGAR,577.0,exact,100.0,False,,496,direct,1374.9739107767466
+Punjab,S.A.S Nagar,PUNJAB,SAS NAGAR,582.0,exact,100.0,False,,497,direct,1092.8514444603247
+Punjab,Sangrur,PUNJAB,SANGRUR,753.0,exact,100.0,False,,498,direct_with_children,3607.601315910574
+Punjab,Shahid Bhagat Singh Nagar,PUNJAB,SHAHID BHAGAT SINGH NAGAR,552.0,exact,100.0,False,,499,direct,1263.8308606877386
+Punjab,Sri Muktsar Sahib,PUNJAB,SRI MUKTSAR SAHIB,539.0,exact,100.0,False,,500,direct,2640.9474182864924
+Punjab,Tarn Taran,PUNJAB,TARN TARAN,597.0,exact,100.0,False,,501,direct,2415.071115487411
+Rajasthan,Ajmer,RAJASTHAN,AJMER,14.0,exact,100.0,False,,502,direct_with_children,7922.822926672303
+Rajasthan,Alwar,RAJASTHAN,ALWAR,19.0,exact,100.0,False,,503,direct_with_children,9676.952617924939
+Rajasthan,Banswara,RAJASTHAN,BANSWARA,45.0,exact,100.0,False,,504,direct,4509.776681763613
+Rajasthan,Baran,RAJASTHAN,BARAN,48.0,exact,100.0,False,,505,direct,6994.275621350884
+Rajasthan,Barmer,RAJASTHAN,BARMER,50.0,exact,100.0,False,,506,direct_with_children,28387.30670400156
+Rajasthan,Bharatpur,RAJASTHAN,BHARATPUR,59.0,exact,100.0,False,,507,direct_with_children,5060.379726440592
+Rajasthan,Bhilwara,RAJASTHAN,BHILWARA,60.0,exact,100.0,False,,508,direct_with_children,10105.112646809072
+Rajasthan,Bikaner,RAJASTHAN,BIKANER,785.0,exact,100.0,False,,509,direct,26103.888929096905
+Rajasthan,Bundi,RAJASTHAN,BUNDI,71.0,exact,100.0,False,,510,direct,5776.72232402629
+Rajasthan,Chittorgarh,RAJASTHAN,CHITTORGARH,88.0,exact,100.0,False,,511,direct,7814.91686166172
+Rajasthan,Churu,RAJASTHAN,CHURU,90.0,exact,100.0,False,,512,direct,13849.414147115269
+Rajasthan,Dausa,RAJASTHAN,DAUSA,738.0,exact,100.0,False,,513,direct,3415.6906710620256
+Rajasthan,Dholpur,RAJASTHAN,DHOLPUR,111.0,exact,100.0,False,,514,direct,3034.4142242333637
+Rajasthan,Dungarpur,RAJASTHAN,DUNGARPUR,115.0,exact,100.0,False,,515,direct,3770.295952806649
+Rajasthan,Ganganagar,RAJASTHAN,GANGANAGAR,202.0,exact,100.0,False,,516,direct_with_children,15078.317644356335
+Rajasthan,Hanumangarh,RAJASTHAN,HANUMANGARH,148.0,exact,100.0,False,,517,direct,9709.807873961054
+Rajasthan,Jaipur,RAJASTHAN,JAIPUR,163.0,exact,100.0,False,,518,direct_with_children,9843.843244940614
+Rajasthan,Jaisalmer,RAJASTHAN,JAISALMER,164.0,exact,100.0,False,,519,direct,38449.59113395057
+Rajasthan,Jalore,RAJASTHAN,JALORE,167.0,exact,100.0,False,,520,direct_with_children,15476.404796372428
+Rajasthan,Jhalawar,RAJASTHAN,JHALAWAR,173.0,exact,100.0,False,,521,direct,6343.06500056084
+Rajasthan,Jhunjhunu,RAJASTHAN,JHUNJHUNU,176.0,exact,100.0,False,,522,direct,4671.661389819443
+Rajasthan,Jodhpur,RAJASTHAN,JODHPUR,177.0,exact,100.0,False,,523,direct_with_children,22679.776034356186
+Rajasthan,Karauli,RAJASTHAN,KARAULI,191.0,exact,100.0,False,,524,direct,3826.9420056112176
+Rajasthan,Kota,RAJASTHAN,KOTA,214.0,exact,100.0,False,,525,direct,5089.713240033648
+Rajasthan,Nagaur,RAJASTHAN,NAGAUR,784.0,exact,100.0,False,,526,direct_with_children,17809.67320172994
+Rajasthan,Pali,RAJASTHAN,PALI,264.0,exact,100.0,False,,527,direct_with_children,14320.676750245699
+Rajasthan,Pratapgarh,RAJASTHAN,PRATAPGARH,271.0,exact,100.0,False,,528,direct,4439.162309152983
+Rajasthan,Rajsamand,RAJASTHAN,RAJSAMAND,283.0,exact,100.0,False,,529,direct,4628.920947878529
+Rajasthan,Sawai Madhopur,RAJASTHAN,SAWAI MADHOPUR,302.0,exact,100.0,False,,530,direct_with_children,6215.74334503633
+Rajasthan,Sikar,RAJASTHAN,SIKAR,318.0,exact,100.0,False,,531,direct_with_children,8982.989772079392
+Rajasthan,Sirohi,RAJASTHAN,SIROHI,322.0,exact,100.0,False,,532,direct,5137.628265511631
+Rajasthan,Tonk,RAJASTHAN,TONK,344.0,exact,100.0,False,,533,direct,6196.71686597744
+Rajasthan,Udaipur,RAJASTHAN,UDAIPUR,346.0,exact,100.0,False,,534,direct_with_children,11719.431477868317
+Sikkim,Gangtok,SIKKIM,GANGTOK,118.0,exact,100.0,False,,535,direct,554.465154023503
+Sikkim,Gyalshing,SIKKIM,GYALSHING,360.0,exact,100.0,False,,536,direct,900.4608913776062
+Sikkim,Mangan,SIKKIM,MANGAN,254.0,exact,100.0,False,,537,direct,4260.136305739796
+Sikkim,Namchi,SIKKIM,NAMCHI,327.0,exact,100.0,False,,538,direct,703.2319283827602
+Sikkim,Pakyong,SIKKIM,PAKYONG,745.0,exact,100.0,False,,539,direct,364.63936913655675
+Sikkim,Soreng,SIKKIM,SORENG,746.0,exact,100.0,False,,540,direct,317.3324217361436
+Tamil Nadu,Ariyalur,TAMIL NADU,ARIYALUR,666.0,exact,100.0,False,,541,direct,1935.3319338718597
+Tamil Nadu,Chengalpattu,TAMIL NADU,CHENGALPATTU,667.0,exact,100.0,False,,542,direct,2722.845739971002
+Tamil Nadu,Chennai,TAMIL NADU,CHENNAI,668.0,exact,100.0,False,,543,direct,334.37689597883247
+Tamil Nadu,Coimbatore,TAMIL NADU,COIMBATORE,669.0,exact,100.0,False,,544,direct,4720.044508605547
+Tamil Nadu,Cuddalore,TAMIL NADU,CUDDALORE,670.0,exact,100.0,False,,545,direct,3701.7330484214535
+Tamil Nadu,Dharmapuri,TAMIL NADU,DHARMAPURI,671.0,exact,100.0,False,,546,direct,4496.103982534197
+Tamil Nadu,Dindigul,TAMIL NADU,DINDIGUL,672.0,exact,100.0,False,,547,direct,6051.114577220185
+Tamil Nadu,Erode,TAMIL NADU,ERODE,673.0,exact,100.0,False,,548,direct,5109.395213555093
+Tamil Nadu,Kallakurichi,TAMIL NADU,KALLAKURICHI,674.0,exact,100.0,False,,549,direct,3504.2179904284444
+Tamil Nadu,Kanchipuram,TAMIL NADU,KANCHIPURAM,709.0,exact,100.0,False,,550,direct,1742.965278389617
+Tamil Nadu,Kanniyakumari,TAMIL NADU,KANNIYAKUMARI,675.0,exact,100.0,False,,551,direct,1678.9024457919602
+Tamil Nadu,Karur,TAMIL NADU,KARUR,676.0,exact,100.0,False,,552,direct,2903.379033176095
+Tamil Nadu,Krishnagiri,TAMIL NADU,KRISHNAGIRI,698.0,exact,100.0,False,,553,direct,5135.28246902595
+Tamil Nadu,Madurai,TAMIL NADU,MADURAI,677.0,exact,100.0,False,,554,direct,3706.896304986829
+Tamil Nadu,Mayiladuthurai,TAMIL NADU,MAYILADUTHURAI,703.0,exact,100.0,False,,555,direct,1176.9521348100404
+Tamil Nadu,Nagapattinam,TAMIL NADU,NAGAPATTINAM,702.0,exact,100.0,False,,556,direct,1388.5877507782388
+Tamil Nadu,Namakkal,TAMIL NADU,NAMAKKAL,679.0,exact,100.0,False,,557,direct,3418.9335841993843
+Tamil Nadu,Perambalur,TAMIL NADU,PERAMBALUR,680.0,exact,100.0,False,,558,direct,1756.1398322948264
+Tamil Nadu,Pudukkottai,TAMIL NADU,PUDUKKOTTAI,755.0,exact,100.0,False,,559,direct,4651.361407341049
+Tamil Nadu,Ramanathapuram,TAMIL NADU,RAMANATHAPURAM,681.0,exact,100.0,False,,560,direct,4109.324867910636
+Tamil Nadu,Ranipet,TAMIL NADU,RANIPET,682.0,exact,100.0,False,,561,direct,1849.9734247735628
+Tamil Nadu,Salem,TAMIL NADU,SALEM,683.0,exact,100.0,False,,562,direct,6004.009012723917
+Tamil Nadu,Sivaganga,TAMIL NADU,SIVAGANGA,684.0,exact,100.0,False,,563,direct,4241.750791015728
+Tamil Nadu,Tenkasi,TAMIL NADU,TENKASI,686.0,exact,100.0,False,,564,direct,2809.253028628332
+Tamil Nadu,Thanjavur,TAMIL NADU,THANJAVUR,754.0,exact,100.0,False,,565,direct,3425.7003404554584
+Tamil Nadu,The Nilgiris,TAMIL NADU,THE NILGIRIS,678.0,exact,100.0,False,,566,direct,2430.9866003217835
+Tamil Nadu,Theni,TAMIL NADU,THENI,685.0,exact,100.0,False,,567,direct,2867.2217395349867
+Tamil Nadu,Thiruvallur,TAMIL NADU,THIRUVALLUR,692.0,exact,100.0,False,,568,direct,3230.1165394018226
+Tamil Nadu,Thiruvarur,TAMIL NADU,THIRUVARUR,687.0,exact,100.0,False,,569,direct,2264.4104629831777
+Tamil Nadu,Tiruchirappalli,TAMIL NADU,TIRUCHIRAPPALLI,688.0,exact,100.0,False,,570,direct,4492.818007499056
+Tamil Nadu,Tirunelveli,TAMIL NADU,TIRUNELVELI,689.0,exact,100.0,False,,571,direct,3882.0042452813077
+Tamil Nadu,Tirupathur,TAMIL NADU,TIRUPATHUR,691.0,exact,100.0,False,,572,direct,2115.984048658587
+Tamil Nadu,Tiruppur,TAMIL NADU,TIRUPPUR,690.0,exact,100.0,False,,573,direct,5196.89711442006
+Tamil Nadu,Tiruvannamalai,TAMIL NADU,TIRUVANNAMALAI,693.0,exact,100.0,False,,574,direct,6198.84985554355
+Tamil Nadu,Tuticorin,TAMIL NADU,THOOTHUKUDI,694.0,exact,100.0,False,,575,direct,4739.713060980929
+Tamil Nadu,Vellore,TAMIL NADU,VELLORE,695.0,exact,100.0,False,,576,direct,2107.6160568553137
+Tamil Nadu,Villupuram,TAMIL NADU,VILLUPURAM,696.0,exact,100.0,False,,577,direct,3670.9902721779017
+Tamil Nadu,Virudhunagar,TAMIL NADU,VIRUDHUNAGAR,697.0,exact,100.0,False,,578,direct,4239.000183262604
+Telangana,Adilabad,TELANGANA,ADILABAD,444.0,exact,100.0,False,,579,direct,3996.6863751070505
+Telangana,Bhadradri Kothagudem,TELANGANA,BHADRADRI KOTHAGUDEM,513.0,exact,100.0,False,,580,direct,6906.84978108953
+Telangana,Hanumakonda,TELANGANA,HANUMAKONDA,756.0,exact,100.0,False,,581,direct,1657.104056916418
+Telangana,Hyderabad,TELANGANA,HYDERABAD,498.0,exact,100.0,False,,582,direct,191.43312958276303
+Telangana,Jagitial,TELANGANA,JAGITIAL,661.0,exact,100.0,False,,583,direct,2885.138427540942
+Telangana,Jangoan,TELANGANA,JANGOAN,657.0,exact,100.0,False,,584,direct,2396.5368978347547
+Telangana,Jayashankar Bhupalapally,TELANGANA,JAYASHANKAR BHUPALAPALLY,659.0,exact,100.0,False,,585,direct,2873.8516193830055
+Telangana,Jogulamba Gadwal,TELANGANA,JOGULAMBA GADWAL,634.0,exact,100.0,False,,586,direct,2572.3326160093843
+Telangana,Kamareddy,TELANGANA,KAMAREDDY,646.0,exact,100.0,False,,587,direct,3746.2706040457665
+Telangana,Karimnagar,TELANGANA,KARIMNAGAR,509.0,exact,100.0,False,,588,direct,2003.8268268384782
+Telangana,Khammam,TELANGANA,KHAMMAM,655.0,exact,100.0,False,,589,direct,4678.156568944565
+Telangana,Kumuram Bheem Asifabad,TELANGANA,KUMURAM BHEEM ASIFABAD,643.0,exact,100.0,False,,590,direct,4536.322831545593
+Telangana,Mahabubabad,TELANGANA,MAHABUBABAD,656.0,exact,100.0,False,,591,direct,3541.7457677707594
+Telangana,Mahabubnagar,TELANGANA,MAHABUBNAGAR,530.0,exact,100.0,False,,592,direct,2801.976565952886
+Telangana,Mancherial,TELANGANA,MANCHERIAL,644.0,exact,100.0,False,,593,direct,3856.2869901198083
+Telangana,Medak,TELANGANA,MEDAK,663.0,exact,100.0,False,,594,direct,2747.4421595733415
+Telangana,Medchal Malkajgiri,TELANGANA,MEDCHAL MALKAJGIRI,652.0,exact,100.0,False,,595,direct,1075.2933932494357
+Telangana,Mulugu,TELANGANA,MULUGU,608.0,exact,100.0,False,,596,direct,4289.822212563026
+Telangana,Nagarkurnool,TELANGANA,NAGARKURNOOL,648.0,exact,100.0,False,,597,direct,6199.430284133567
+Telangana,Nalgonda,TELANGANA,NALGONDA,547.0,exact,100.0,False,,598,direct,7203.04632626835
+Telangana,Narayanpet,TELANGANA,NARAYANPET,650.0,exact,100.0,False,,599,direct,2360.9473385115407
+Telangana,Nirmal,TELANGANA,NIRMAL,645.0,exact,100.0,False,,600,direct,3714.7261566091224
+Telangana,Nizamabad,TELANGANA,NIZAMABAD,553.0,exact,100.0,False,,601,direct,4211.105034563785
+Telangana,Peddapalli,TELANGANA,PEDDAPALLI,660.0,exact,100.0,False,,602,direct,2193.8717000860024
+Telangana,Rajanna Sircilla,TELANGANA,RAJANNA SIRCILLA,662.0,exact,100.0,False,,603,direct,1808.3367885368607
+Telangana,Ranga Reddy,TELANGANA,RANGA REDDY,572.0,exact,100.0,False,,604,direct,4996.629070201333
+Telangana,Sangareddy,TELANGANA,SANGAREDDY,647.0,exact,100.0,False,,605,direct,4451.950948359245
+Telangana,Siddipet,TELANGANA,SIDDIPET,535.0,exact,100.0,False,,606,direct,3725.9970537757144
+Telangana,Suryapet,TELANGANA,SURYAPET,654.0,exact,100.0,False,,607,direct,3594.1059115709445
+Telangana,Vikarabad,TELANGANA,VIKARABAD,651.0,exact,100.0,False,,608,direct,3704.1882097243274
+Telangana,Wanaparthy,TELANGANA,WANAPARTHY,649.0,exact,100.0,False,,609,direct,2225.8689003451523
+Telangana,Warangal,TELANGANA,WARANGAL,658.0,exact,100.0,False,,610,direct,1750.2272618705772
+Telangana,Yadadri Bhuvanagiri,TELANGANA,YADADRI BHUVANAGIRI,653.0,exact,100.0,False,,611,direct,3228.726410462439
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DADRA AND NAGAR HAVELI,699.0,exact,100.0,False,,612,direct,490.14254282162653
+The Dadra and Nagar Haveli and Daman and Diu,Daman,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DAMAN,94.0,exact,100.0,False,,613,direct,71.45776773152411
+The Dadra and Nagar Haveli and Daman and Diu,Diu,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DIU,435.0,exact,100.0,False,,614,direct,38.878965945981264
+Tripura,Dhalai,TRIPURA,DHALAI,104.0,exact,100.0,False,,615,direct,2301.671929686698
+Tripura,Gomati,TRIPURA,GOMATI,140.0,exact,100.0,False,,616,direct,1579.4086085733124
+Tripura,Khowai,TRIPURA,KHOWAI,200.0,exact,100.0,False,,617,direct,1029.4278878423343
+Tripura,North Tripura,TRIPURA,NORTH TRIPURA,258.0,exact,100.0,False,,618,direct,1329.0687625658584
+Tripura,Sepahijala,TRIPURA,SEPAHIJALA,305.0,exact,100.0,False,,619,direct,1059.1516765126114
+Tripura,South Tripura,TRIPURA,SOUTH TRIPURA,331.0,exact,100.0,False,,620,direct,1500.80046306752
+Tripura,Unakoti,TRIPURA,UNAKOTI,353.0,exact,100.0,False,,621,direct,705.5156010078476
+Tripura,West Tripura,TRIPURA,WEST TRIPURA,365.0,exact,100.0,False,,622,direct,943.0756085319491
+Uttar Pradesh,Agra,UTTAR PRADESH,AGRA,13.0,exact,100.0,False,,623,direct,4047.821271569208
+Uttar Pradesh,Aligarh,UTTAR PRADESH,ALIGARH,16.0,exact,100.0,False,,624,direct,3712.134404636177
+Uttar Pradesh,Ambedkar Nagar,UTTAR PRADESH,AMBEDKAR NAGAR,20.0,exact,100.0,False,,625,direct,2328.1920658678173
+Uttar Pradesh,Amethi,UTTAR PRADESH,AMETHI,21.0,exact,100.0,False,,626,direct,2425.6868269311644
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,22.0,exact,100.0,False,,627,direct,2457.5859506547654
+Uttar Pradesh,Auraiya,UTTAR PRADESH,AURAIYA,27.0,exact,100.0,False,,628,direct,2018.346452461702
+Uttar Pradesh,Ayodhya,UTTAR PRADESH,AYODHYA,108.0,exact,100.0,False,,629,direct,2688.7460413771596
+Uttar Pradesh,Azamgarh,UTTAR PRADESH,AZAMGARH,28.0,exact,100.0,False,,630,direct,4214.784917928365
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,32.0,exact,100.0,False,,631,direct,1322.7362965599682
+Uttar Pradesh,Bahraich,UTTAR PRADESH,BAHRAICH,33.0,exact,100.0,False,,632,direct,4947.538552790371
+Uttar Pradesh,Ballia,UTTAR PRADESH,BALLIA,38.0,exact,100.0,False,,633,direct,2990.511757415306
+Uttar Pradesh,Balrampur,UTTAR PRADESH,BALRAMPUR,42.0,exact,100.0,False,,634,direct,3342.6028935906716
+Uttar Pradesh,Banda,UTTAR PRADESH,BANDA,44.0,exact,100.0,False,,635,direct,4452.6755310727685
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,46.0,exact,100.0,False,,636,direct,3845.4953081992307
+Uttar Pradesh,Bareilly,UTTAR PRADESH,BAREILLY,49.0,exact,100.0,False,,637,direct,4120.4475335052575
+Uttar Pradesh,Basti,UTTAR PRADESH,BASTI,52.0,exact,100.0,False,,638,direct,2785.408701631927
+Uttar Pradesh,Bhadohi,UTTAR PRADESH,BHADOHI,57.0,exact,100.0,False,,639,direct,1015.006669916103
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,64.0,exact,100.0,False,,640,direct,4602.893603343212
+Uttar Pradesh,Budaun,UTTAR PRADESH,BUDAUN,29.0,exact,100.0,False,,641,direct,4255.405469736923
+Uttar Pradesh,Bulandshahr,UTTAR PRADESH,BULANDSHAHR,70.0,exact,100.0,False,,642,direct,3518.1471366571827
+Uttar Pradesh,Chandauli,UTTAR PRADESH,CHANDAULI,77.0,exact,100.0,False,,643,direct,2549.3269053554204
+Uttar Pradesh,Chitrakoot,UTTAR PRADESH,CHITRAKOOT,87.0,exact,100.0,False,,644,direct,3192.3518634836832
+Uttar Pradesh,Deoria,UTTAR PRADESH,DEORIA,102.0,exact,100.0,False,,645,direct,2536.992473023523
+Uttar Pradesh,Etah,UTTAR PRADESH,ETAH,123.0,exact,100.0,False,,646,direct,2423.234259837029
+Uttar Pradesh,Etawah,UTTAR PRADESH,ETAWAH,124.0,exact,100.0,False,,647,direct,2326.065164473623
+Uttar Pradesh,Farrukhabad,UTTAR PRADESH,FARRUKHABAD,125.0,exact,100.0,False,,648,direct,2181.0242135810263
+Uttar Pradesh,Fatehpur,UTTAR PRADESH,FATEHPUR,126.0,exact,100.0,False,,649,direct,4169.1961428442255
+Uttar Pradesh,Firozabad,UTTAR PRADESH,FIROZABAD,127.0,exact,100.0,False,,650,direct,2419.8801843015663
+Uttar Pradesh,Gautam Buddha Nagar,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,133.0,exact,100.0,False,,651,direct,1414.0020175911507
+Uttar Pradesh,Ghaziabad,UTTAR PRADESH,GHAZIABAD,135.0,exact,100.0,False,,652,direct,911.3991982418847
+Uttar Pradesh,Ghazipur,UTTAR PRADESH,GHAZIPUR,134.0,exact,100.0,False,,653,direct,3380.3839541064112
+Uttar Pradesh,Gonda,UTTAR PRADESH,GONDA,141.0,exact,100.0,False,,654,direct,3981.23980118593
+Uttar Pradesh,Gorakhpur,UTTAR PRADESH,GORAKHPUR,142.0,exact,100.0,False,,655,direct,3329.768268506292
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,147.0,exact,100.0,False,,656,direct,3895.488878023696
+Uttar Pradesh,Hapur,UTTAR PRADESH,HAPUR,149.0,exact,100.0,False,,657,direct,1117.033391753995
+Uttar Pradesh,Hardoi,UTTAR PRADESH,HARDOI,151.0,exact,100.0,False,,658,direct,5987.797805993373
+Uttar Pradesh,Hathras,UTTAR PRADESH,HATHRAS,154.0,exact,100.0,False,,659,direct,1782.2920215382783
+Uttar Pradesh,Jalaun,UTTAR PRADESH,JALAUN,166.0,exact,100.0,False,,660,direct,4563.911684010984
+Uttar Pradesh,Jaunpur,UTTAR PRADESH,JAUNPUR,171.0,exact,100.0,False,,661,direct,4034.1915222508524
+Uttar Pradesh,Jhansi,UTTAR PRADESH,JHANSI,174.0,exact,100.0,False,,662,direct,5023.058968750641
+Uttar Pradesh,Kannauj,UTTAR PRADESH,KANNAUJ,186.0,exact,100.0,False,,663,direct,2090.0967556512487
+Uttar Pradesh,Kanpur Dehat,UTTAR PRADESH,KANPUR DEHAT,189.0,exact,100.0,False,,664,direct,3157.340012867488
+Uttar Pradesh,Kanpur Nagar,UTTAR PRADESH,KANPUR NAGAR,188.0,exact,100.0,False,,665,direct,2999.0471536876466
+Uttar Pradesh,Kasganj,UTTAR PRADESH,KASGANJ,193.0,exact,100.0,False,,666,direct,1958.9611201522525
+Uttar Pradesh,Kaushambi,UTTAR PRADESH,KAUSHAMBI,195.0,exact,100.0,False,,667,direct,1789.8163883834297
+Uttar Pradesh,Kheri,UTTAR PRADESH,KHERI,198.0,exact,100.0,False,,668,direct,7689.407507447009
+Uttar Pradesh,Kushi Nagar,UTTAR PRADESH,KUSHI NAGAR,218.0,exact,100.0,False,,669,direct,2875.1558156472465
+Uttar Pradesh,Lalitpur,UTTAR PRADESH,LALITPUR,220.0,exact,100.0,False,,670,direct,5044.467535086062
+Uttar Pradesh,Lucknow,UTTAR PRADESH,LUCKNOW,223.0,exact,100.0,False,,671,direct,2530.0905965059874
+Uttar Pradesh,Mahoba,UTTAR PRADESH,MAHOBA,227.0,exact,100.0,False,,672,direct,3267.4740532374553
+Uttar Pradesh,Mainpuri,UTTAR PRADESH,MAINPURI,228.0,exact,100.0,False,,673,direct,2737.8100644111687
+Uttar Pradesh,Mathura,UTTAR PRADESH,MATHURA,234.0,exact,100.0,False,,674,direct,3341.4856909377536
+Uttar Pradesh,Mau,UTTAR PRADESH,MAU,235.0,exact,100.0,False,,675,direct,1735.4720162260867
+Uttar Pradesh,Meerut,UTTAR PRADESH,MEERUT,237.0,exact,100.0,False,,676,direct,2593.2199832668903
+Uttar Pradesh,Mirzapur,UTTAR PRADESH,MIRZAPUR,238.0,exact,100.0,False,,677,direct,4415.769449392228
+Uttar Pradesh,Moradabad,UTTAR PRADESH,MORADABAD,239.0,exact,100.0,False,,678,direct,1948.7234203538644
+Uttar Pradesh,Muzaffarnagar,UTTAR PRADESH,MUZAFFARNAGAR,242.0,exact,100.0,False,,679,direct,2738.7666483012495
+Uttar Pradesh,Pilibhit,UTTAR PRADESH,PILIBHIT,270.0,exact,100.0,False,,680,direct,3763.900333647319
+Uttar Pradesh,Pratapgarh,UTTAR PRADESH,PRATAPGARH,272.0,exact,100.0,False,,681,direct,3712.029893838042
+Uttar Pradesh,Prayagraj,UTTAR PRADESH,PRAYAGRAJ,398.0,exact,100.0,False,,682,direct,5473.510324683602
+Uttar Pradesh,Rae Bareli,UTTAR PRADESH,RAE BARELI,276.0,exact,100.0,False,,683,direct,3930.016482020714
+Uttar Pradesh,Rampur,UTTAR PRADESH,RAMPUR,286.0,exact,100.0,False,,684,direct,2366.1393733617106
+Uttar Pradesh,Saharanpur,UTTAR PRADESH,SAHARANPUR,294.0,exact,100.0,False,,685,direct,3716.7427296907736
+Uttar Pradesh,Sambhal,UTTAR PRADESH,SAMBHAL,298.0,exact,100.0,False,,686,direct,2428.173840257187
+Uttar Pradesh,Shahjahanpur,UTTAR PRADESH,SHAHJAHANPUR,308.0,exact,100.0,False,,687,direct,4315.416716258347
+Uttar Pradesh,Shamli,UTTAR PRADESH,SHAMLI,310.0,exact,100.0,False,,688,direct,1263.694221733136
+Uttar Pradesh,Siddharth Nagar,UTTAR PRADESH,SIDDHARTH NAGAR,316.0,exact,100.0,False,,689,direct,2895.8911438430287
+Uttar Pradesh,Sitapur,UTTAR PRADESH,SITAPUR,323.0,exact,100.0,False,,690,direct,5740.226373058297
+Uttar Pradesh,Sonbhadra,UTTAR PRADESH,SONBHADRA,325.0,exact,100.0,False,,691,direct,6886.080706591195
+Uttar Pradesh,Sultanpur,UTTAR PRADESH,SULTANPUR,335.0,exact,100.0,False,,692,direct,2674.5213825981996
+Uttar Pradesh,Unnao,UTTAR PRADESH,UNNAO,352.0,exact,100.0,False,,693,direct,4568.8886110938365
+Uttar Pradesh,Varanasi,UTTAR PRADESH,VARANASI,356.0,exact,100.0,False,,694,direct,1533.0429351253338
+Uttar Pradesh,Mahrajganj,UTTAR PRADESH,MAHRAJGANJ,531.0,fuzzy,95.23809523809524,False,,695,direct,2944.4120003852395
+Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,299.0,hungarian,90.9090909090909,True,,696,direct,1641.6837197786501
+Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,315.0,hungarian,88.88888888888889,True,,697,direct,1931.1255608050294
+Uttarakhand,Almora,UTTARAKHAND,ALMORA,18.0,exact,100.0,False,,698,direct,3145.3163538242015
+Uttarakhand,Bageshwar,UTTARAKHAND,BAGESHWAR,31.0,exact,100.0,False,,699,direct,2235.2301825627214
+Uttarakhand,Chamoli,UTTARAKHAND,CHAMOLI,471.0,exact,100.0,False,,700,direct,7821.180942027953
+Uttarakhand,Champawat,UTTARAKHAND,CHAMPAWAT,76.0,exact,100.0,False,,701,direct,1768.6869101419616
+Uttarakhand,Dehradun,UTTARAKHAND,DEHRADUN,100.0,exact,100.0,False,,702,direct,3099.5861376812195
+Uttarakhand,Haridwar,UTTARAKHAND,HARIDWAR,152.0,exact,100.0,False,,703,direct,2290.1163378284127
+Uttarakhand,Nainital,UTTARAKHAND,NAINITAL,245.0,exact,100.0,False,,704,direct,3990.001717201764
+Uttarakhand,Pauri Garhwal,UTTARAKHAND,PAURI GARHWAL,269.0,exact,100.0,False,,705,direct,5280.349598731123
+Uttarakhand,Pithoragarh,UTTARAKHAND,PITHORAGARH,566.0,exact,100.0,False,,706,direct,7232.4054004260925
+Uttarakhand,Rudra Prayag,UTTARAKHAND,RUDRA PRAYAG,291.0,exact,100.0,False,,707,direct,1987.935567316001
+Uttarakhand,Tehri Garhwal,UTTARAKHAND,TEHRI GARHWAL,340.0,exact,100.0,False,,708,direct,3909.188352111608
+Uttarakhand,Udam Singh Nagar,UTTARAKHAND,UDAM SINGH NAGAR,347.0,exact,100.0,False,,709,direct,2670.758343441754
+Uttarakhand,Uttar Kashi,UTTARAKHAND,UTTAR KASHI,606.0,exact,100.0,False,,710,direct,7982.5438380072155
+West Bengal,Paschim Medinipur,WEST BENGAL,PASCHIM MEDINIPUR,562.0,manual,100.0,False,manual_overrides.csv,711,direct,6274.887725414293
+West Bengal,Purba Medinipur,WEST BENGAL,PURBA MEDINIPUR,481.0,manual,100.0,False,manual_overrides.csv,712,direct,3957.4472707235977
+West Bengal,Alipurduar,WEST BENGAL,ALIPURDUAR,447.0,exact,100.0,False,,713,direct,2798.4200573865946
+West Bengal,Bankura,WEST BENGAL,BANKURA,457.0,exact,100.0,False,,714,direct,6885.253323789519
+West Bengal,Birbhum,WEST BENGAL,BIRBHUM,468.0,exact,100.0,False,,715,direct,4549.583390758654
+West Bengal,Coochbehar,WEST BENGAL,COOCH BEHAR,743.0,exact,100.0,False,,716,direct,3372.2227733564523
+West Bengal,Darjeeling,WEST BENGAL,DARJEELING,476.0,exact,100.0,False,,717,direct,2050.5211396949835
+West Bengal,Hooghly,WEST BENGAL,HUGLI,497.0,exact,100.0,False,,718,direct,3152.8902363118086
+West Bengal,Howrah,WEST BENGAL,HOWRAH,493.0,exact,100.0,False,,719,direct,1468.4635336162355
+West Bengal,Jalpaiguri,WEST BENGAL,JALPAIGURI,503.0,exact,100.0,False,,720,direct,3430.810419720873
+West Bengal,Jhargram,WEST BENGAL,JHARGRAM,631.0,exact,100.0,False,,721,direct,3099.769332671273
+West Bengal,Kalimpong,WEST BENGAL,KALIMPONG,633.0,exact,100.0,False,,722,direct,1093.2836636471811
+West Bengal,Kolkata,WEST BENGAL,KOLKATA,519.0,exact,100.0,False,,723,direct,185.3999303589796
+West Bengal,Murshidabad,WEST BENGAL,MURSHIDABAD,542.0,exact,100.0,False,,724,direct,5347.639456902213
+West Bengal,Nadia,WEST BENGAL,NADIA,544.0,exact,100.0,False,,725,direct,3895.982708755714
+West Bengal,Purba Bardhaman,WEST BENGAL,PURBA BARDHAMAN,458.0,exact,100.0,False,,726,direct,5209.919377385131
+West Bengal,Purulia,WEST BENGAL,PURULIA,570.0,exact,100.0,False,,727,direct,6256.949746619629
+West Bengal,Dakshin Dinajpur,WEST BENGAL,DAKSHIN DINAJPUR,474.0,fuzzy,95.0,False,,728,direct,2234.512573965894
+West Bengal,North 24 Parganas,WEST BENGAL,NORTH 24 PARGANAS,554.0,fuzzy,92.28571428571428,False,,729,direct,4004.7086366638287
+West Bengal,South 24 Parganas,WEST BENGAL,SOUTH 24 PARGANAS,593.0,fuzzy,92.28571428571428,False,,730,direct,7690.2176964247765
+West Bengal,Uttar Dinajpur,WEST BENGAL,UTTAR DINAJPUR,605.0,fuzzy,95.0,False,,731,direct,3135.5493788603067
+West Bengal,Malda,WEST BENGAL,MALDA,533.0,hungarian,90.9090909090909,True,,732,direct,3609.649492427137

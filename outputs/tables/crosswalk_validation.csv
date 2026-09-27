@@ -1,0 +1,723 @@
+dataset_state,dataset_district,shp_id,obj_id,iou,suspect,match_method
+Andaman and Nicobar Islands,Nicobars,251,573,0.7811228417129891,False,exact
+Andaman and Nicobar Islands,North and Middle Andaman,255,571,0.8134354761213473,False,exact
+Andaman and Nicobar Islands,South Andamans,328,572,0.7910117816328652,False,exact
+Andhra Pradesh,Alluri Sitharama Raju,712,735,0.9601122991210654,False,exact
+Andhra Pradesh,Anakapalli,713,736,0.9434493886894381,False,exact
+Andhra Pradesh,Annamayya,715,737,0.9471217977727581,False,exact
+Andhra Pradesh,Bapatla,716,738,0.9326839198006679,False,exact
+Andhra Pradesh,Chittoor,717,85,0.9314610153629137,False,exact
+Andhra Pradesh,East Godavari,718,127,0.8980422086667564,False,exact
+Andhra Pradesh,Eluru,727,739,0.9206976965686068,False,exact
+Andhra Pradesh,Guntur,719,108,0.9381852240498826,False,exact
+Andhra Pradesh,Kakinada,720,740,0.8929202961121754,False,exact
+Andhra Pradesh,Krishna,722,113,0.9378432054598252,False,exact
+Andhra Pradesh,Kurnool,723,102,0.9750113557942878,False,exact
+Andhra Pradesh,Nandyal,724,742,0.9640382636128798,False,exact
+Andhra Pradesh,Ntr,725,743,0.9508603723847017,False,exact
+Andhra Pradesh,Palnadu,726,744,0.9670145366739721,False,exact
+Andhra Pradesh,Parvathipuram Manyam,737,745,0.9411252788766464,False,exact
+Andhra Pradesh,Prakasam,728,103,0.9758624266628291,False,exact
+Andhra Pradesh,Sri Sathya Sai,736,746,0.9646479408056927,False,exact
+Andhra Pradesh,Srikakulam,730,149,0.9476979784948693,False,exact
+Andhra Pradesh,Tirupati,731,747,0.9569848675823641,False,exact
+Andhra Pradesh,Vizianagaram,733,150,0.9242047823945264,False,exact
+Andhra Pradesh,West Godavari,734,130,0.9273766986281862,False,exact
+Andhra Pradesh,Y.S.R.,735,92,0.9506009031842071,False,exact
+Andhra Pradesh,Visakhapatnam,732,138,0.9238476253886607,False,fuzzy
+Andhra Pradesh,Ananthapuramu,714,94,0.9680579904883058,False,hungarian
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,721,741,0.9151893755063111,False,hungarian
+Andhra Pradesh,Sri Potti Sriramulu Nellore,729,91,0.9797657470947888,False,hungarian
+Arunachal Pradesh,Anjaw,451,513,0.9207367918582537,False,exact
+Arunachal Pradesh,Changlang,473,482,0.9342565689256808,False,exact
+Arunachal Pradesh,Dibang Valley,478,531,0.9498115890049349,False,exact
+Arunachal Pradesh,East Kameng,480,480,0.92720731068346,False,exact
+Arunachal Pradesh,East Siang,664,507,0.9313216724807891,False,exact
+Arunachal Pradesh,Kurung Kumey,521,500,0.963392153465944,False,exact
+Arunachal Pradesh,Lohit,525,628,0.8063279807665077,False,exact
+Arunachal Pradesh,Lower Dibang Valley,526,611,0.0,True,exact
+Arunachal Pradesh,Lower Subansiri,623,484,0.8147203299015522,False,exact
+Arunachal Pradesh,Papum Pare,559,470,0.8601979940287624,False,exact
+Arunachal Pradesh,Tawang,598,25,0.9422989592363564,False,exact
+Arunachal Pradesh,Tirap,601,466,0.8317226549028097,False,exact
+Arunachal Pradesh,Upper Siang,603,524,0.9706497778750354,False,exact
+Arunachal Pradesh,Upper Subansiri,604,510,0.9589342263581133,False,exact
+Arunachal Pradesh,West Kameng,611,24,0.9679729322850533,False,exact
+Arunachal Pradesh,West Siang,636,517,0.7992132095311616,False,exact
+Assam,Baksa,748,21,0.5898047894244134,False,exact
+Assam,Barpeta,375,27,0.7682070092375602,False,exact
+Assam,Biswanath,425,630,0.8826337773296233,False,exact
+Assam,Bongaigaon,377,26,0.7593907632742047,False,exact
+Assam,Cachar,388,360,0.9629619643406591,False,exact
+Assam,Charaideo,424,621,0.8764574176031867,False,exact
+Assam,Chirang,376,18,0.8700911636925661,False,exact
+Assam,Darrang,706,16,0.8839492759985299,False,exact
+Assam,Dhemaji,384,623,0.9457955756775599,False,exact
+Assam,Dhubri,406,9,0.8028385233962454,False,exact
+Assam,Dibrugarh,386,475,0.9537980916173401,False,exact
+Assam,Dima Hasao,382,393,0.9639176278558507,False,exact
+Assam,Goalpara,407,12,0.9281982663042256,False,exact
+Assam,Golaghat,387,446,0.9337097304822282,False,exact
+Assam,Hailakandi,390,337,0.938696651756268,False,exact
+Assam,Hojai,427,632,0.9443347349769117,False,exact
+Assam,Jorhat,374,456,0.8721949037398372,False,exact
+Assam,Kamrup,182,15,0.93981904188578,False,exact
+Assam,Kamrup Metro,380,10,0.8830437966445002,False,exact
+Assam,Karbi Anglong,429,8,0.9687247485950229,False,exact
+Assam,Karimganj,389,340,0.9532531993092652,False,exact
+Assam,Kokrajhar,206,17,0.9310955809143381,False,exact
+Assam,Lakhimpur,705,487,0.9553405891518564,False,exact
+Assam,Majuli,426,631,0.7367731874969022,False,exact
+Assam,Marigaon,381,14,0.9320785907923188,False,exact
+Assam,Nagaon,139,19,0.9099793956810815,False,exact
+Assam,Nalbari,378,13,0.9066364741168317,False,exact
+Assam,Sivasagar,385,462,0.9066498361290535,False,exact
+Assam,Sonitpur,383,23,0.8872494617141897,False,exact
+Assam,Tinsukia,112,494,0.9611951637007409,False,exact
+Assam,Udalguri,379,22,0.8982634984835045,False,exact
+Assam,West Karbi Anglong,430,635,0.9479896899895898,False,exact
+Bihar,Araria,452,413,0.9460534391506038,False,exact
+Bihar,Arwal,453,339,0.8756758162773913,False,exact
+Bihar,Aurangabad,454,325,0.9570337925013902,False,exact
+Bihar,Banka,456,333,0.957831551451194,False,exact
+Bihar,Begusarai,461,369,0.9300269419168927,False,exact
+Bihar,Bhagalpur,463,361,0.9521962373378086,False,exact
+Bihar,Bhojpur,466,365,0.9565539632427915,False,exact
+Bihar,Buxar,470,363,0.9365993774786547,False,exact
+Bihar,Darbhanga,475,400,0.9311284251828429,False,exact
+Bihar,Gaya,488,324,0.9448286006107539,False,exact
+Bihar,Gopalganj,490,409,0.9297150026533806,False,exact
+Bihar,Jamui,504,334,0.9474313545683788,False,exact
+Bihar,Jehanabad,499,342,0.9067958604002596,False,exact
+Bihar,Kaimur (Bhabua),462,346,0.9577368316678453,False,exact
+Bihar,Katihar,511,378,0.9403185548157121,False,exact
+Bihar,Khagaria,512,368,0.9347959154508014,False,exact
+Bihar,Kishanganj,517,415,0.9198202050121645,False,exact
+Bihar,Lakhisarai,523,345,0.9169876789188717,False,exact
+Bihar,Madhepura,528,387,0.930723072536107,False,exact
+Bihar,Madhubani,529,416,0.9384328276303934,False,exact
+Bihar,Munger,541,352,0.9313119953693412,False,exact
+Bihar,Muzaffarpur,543,399,0.9531899229613703,False,exact
+Bihar,Nalanda,546,354,0.9214703619788662,False,exact
+Bihar,Nawada,551,330,0.9352151059327408,False,exact
+Bihar,Pashchim Champaran,561,448,0.9567559423034366,False,exact
+Bihar,Patna,565,364,0.9275378524289019,False,exact
+Bihar,Purbi Champaran,568,430,0.9564774905945824,False,exact
+Bihar,Purnia,569,390,0.9483821626973841,False,exact
+Bihar,Rohtas,576,344,0.9675919975191616,False,exact
+Bihar,Saharsa,578,383,0.9236923980838014,False,exact
+Bihar,Samastipur,579,381,0.9322947549082462,False,exact
+Bihar,Saran,581,392,0.9575434219673834,False,exact
+Bihar,Sheikhpura,585,338,0.8538518662602445,False,exact
+Bihar,Sheohar,586,605,0.8741665930320558,False,exact
+Bihar,Sitamarhi,589,424,0.9371530145741197,False,exact
+Bihar,Siwan,590,396,0.9393088852948789,False,exact
+Bihar,Supaul,595,411,0.9299792294120721,False,exact
+Bihar,Vaishali,607,379,0.9559397885753643,False,exact
+Chandigarh,Chandigarh,79,537,0.7615448292023583,False,exact
+Chhattisgarh,Balod,39,187,0.947096143374983,False,exact
+Chhattisgarh,Bastar,765,160,0.9329187115391918,False,exact
+Chhattisgarh,Bemetara,53,214,0.9268934920332108,False,exact
+Chhattisgarh,Bijapur,63,156,0.9642265715683319,False,exact
+Chhattisgarh,Bilaspur,65,248,0.9391089995608878,False,exact
+Chhattisgarh,Dhamtari,105,185,0.9569155900857533,False,exact
+Chhattisgarh,Durg,116,199,0.935613096182198,False,exact
+Chhattisgarh,Gariyaband,132,201,0.9630570865235795,False,exact
+Chhattisgarh,Janjgir-Champa,169,220,0.6055922465244898,False,exact
+Chhattisgarh,Jashpur,170,255,0.9557182049192378,False,exact
+Chhattisgarh,Kondagaon,209,169,0.9521099474707797,False,exact
+Chhattisgarh,Korba,212,243,0.9645440651810737,False,exact
+Chhattisgarh,Korea,762,603,0.319249348705618,True,exact
+Chhattisgarh,Mahasamund,224,200,0.9494690362695236,False,exact
+Chhattisgarh,Mungeli,241,601,0.933280929344428,False,exact
+Chhattisgarh,Narayanpur,246,592,0.9419388916919563,False,exact
+Chhattisgarh,Raigarh,278,235,0.7569942585949795,False,exact
+Chhattisgarh,Raipur,279,594,0.9582650261203555,False,exact
+Chhattisgarh,Rajnandgaon,281,713,0.3971806064263196,True,exact
+Chhattisgarh,Sukma,334,155,0.9293841217375399,False,exact
+Chhattisgarh,Surajpur,337,308,0.9381493533849216,False,exact
+Chhattisgarh,Surguja,338,604,0.941421483257933,False,exact
+Chhattisgarh,Balodabazar-Bhatapara,40,211,0.8146170023596827,False,hungarian
+Chhattisgarh,Balrampur Ramanujganj,41,459,0.9501223617831974,False,hungarian
+Chhattisgarh,Dakshin Bastar Dantewada,97,591,0.9182387102394708,False,hungarian
+Chhattisgarh,Kabeerdham,179,227,0.9571067367622735,False,hungarian
+Chhattisgarh,Uttar Bastar Kanker,185,176,0.9568752502540754,False,hungarian
+Delhi,Central,73,489,0.6753149359409741,False,exact
+Delhi,East,117,491,0.7190137632632057,False,exact
+Delhi,New Delhi,250,689,0.7413280761944495,False,exact
+Delhi,North,253,688,0.8062795834561224,False,exact
+Delhi,North East,256,496,0.6747495905225772,False,exact
+Delhi,North West,259,502,0.7467095557916326,False,exact
+Delhi,South,326,486,0.856798801619939,False,exact
+Delhi,South East,400,637,0.8157258586690408,False,exact
+Delhi,South West,332,492,0.83551244411953,False,exact
+Delhi,West,361,495,0.8091922601443099,False,exact
+Goa,North Goa,257,98,0.9407544153951133,False,exact
+Goa,South Goa,330,95,0.9319524954457488,False,exact
+Gujarat,Ahmadabad,2,273,0.9409860635956218,False,exact
+Gujarat,Amreli,434,221,0.949007804568775,False,exact
+Gujarat,Anand,3,240,0.94787797768473,False,exact
+Gujarat,Arvalli,25,679,0.9337181634916939,False,exact
+Gujarat,Banas Kantha,43,320,0.9543876013425651,False,exact
+Gujarat,Bharuch,8,225,0.921313388302924,False,exact
+Gujarat,Bhavnagar,7,210,0.9695430173553646,False,exact
+Gujarat,Botad,439,233,0.9115771127895043,False,exact
+Gujarat,Chhotaudepur,83,638,0.9268631384661261,False,exact
+Gujarat,Dang,96,190,0.9348455636288602,False,exact
+Gujarat,Devbhumi Dwarka,4,242,0.9196318496008866,False,exact
+Gujarat,Dohad,92,269,0.953579175350094,False,exact
+Gujarat,Gandhinagar,442,267,0.9053858453047401,False,exact
+Gujarat,Gir Somnath,136,584,0.9324139921239538,False,exact
+Gujarat,Jamnagar,5,257,0.933691795155929,False,exact
+Gujarat,Junagadh,178,212,0.9419620822141856,False,exact
+Gujarat,Kachchh,6,321,0.9801464214057434,False,exact
+Gujarat,Kheda,440,263,0.9440509817261379,False,exact
+Gujarat,Mahesana,441,293,0.9312250727085464,False,exact
+Gujarat,Mahisagar,226,608,0.9202315116228788,False,exact
+Gujarat,Morbi,1,583,0.9407960308112631,False,exact
+Gujarat,Narmada,247,683,0.9356250043039266,False,exact
+Gujarat,Navsari,10,643,0.9462802774495801,False,exact
+Gujarat,Panch Mahals,265,256,0.9251055112386829,False,exact
+Gujarat,Patan,443,297,0.9391536210097025,False,exact
+Gujarat,Porbandar,436,222,0.915024066376111,False,exact
+Gujarat,Rajkot,437,266,0.9218566336675124,False,exact
+Gujarat,Sabar Kantha,292,670,0.93502262928498,False,exact
+Gujarat,Surat,9,207,0.9476627175848665,False,exact
+Gujarat,Surendranagar,438,275,0.9362094583414801,False,exact
+Gujarat,Tapi,339,586,0.9222214865632509,False,exact
+Gujarat,Vadodara,355,244,0.9414928988528871,False,exact
+Gujarat,Valsad,11,195,0.9171540239351835,False,exact
+Haryana,Ambala,449,613,0.8785158428071247,False,exact
+Haryana,Bhiwani,465,504,0.9547894687686208,False,exact
+Haryana,Charki Dadri,630,639,0.9040392109737281,False,exact
+Haryana,Faridabad,757,606,0.918178789040974,False,exact
+Haryana,Fatehabad,483,520,0.9273638977926938,False,exact
+Haryana,Gurugram,492,483,0.8936478934000418,False,exact
+Haryana,Hisar,495,714,0.9393021504874152,False,exact
+Haryana,Jhajjar,505,499,0.9054912753908534,False,exact
+Haryana,Jind,506,521,0.9223381490780713,False,exact
+Haryana,Kaithal,507,528,0.9122984445497365,False,exact
+Haryana,Karnal,510,523,0.9327426639829938,False,exact
+Haryana,Kurukshetra,520,529,0.929616657585386,False,exact
+Haryana,Mahendragarh,532,479,0.8878766586368996,False,exact
+Haryana,Nuh,536,607,0.9105566430728622,False,exact
+Haryana,Palwal,557,468,0.9112308639853639,False,exact
+Haryana,Panchkula,711,545,0.9186663972455184,False,exact
+Haryana,Panipat,558,515,0.9430111345846489,False,exact
+Haryana,Rewari,574,481,0.9255895843364207,False,exact
+Haryana,Rohtak,575,721,0.9297815715907206,False,exact
+Haryana,Sirsa,588,525,0.9408663861471908,False,exact
+Haryana,Sonipat,592,512,0.9374088442131909,False,exact
+Haryana,Yamunanagar,613,534,0.9307666964952936,False,exact
+Himachal Pradesh,Bilaspur,67,556,0.9132581254653522,False,exact
+Himachal Pradesh,Chamba,75,569,0.9696839570228926,False,exact
+Himachal Pradesh,Hamirpur,146,561,0.9287388428494141,False,exact
+Himachal Pradesh,Kangra,184,567,0.9601133812777424,False,exact
+Himachal Pradesh,Kinnaur,514,562,0.9674714418283175,False,exact
+Himachal Pradesh,Kullu,217,566,0.9730950783341781,False,exact
+Himachal Pradesh,Lahul and Spiti,522,570,0.9713065901695376,False,exact
+Himachal Pradesh,Mandi,231,563,0.9706955811311214,False,exact
+Himachal Pradesh,Shimla,312,559,0.9514675848609186,False,exact
+Himachal Pradesh,Sirmaur,321,548,0.9487653967572989,False,exact
+Himachal Pradesh,Solan,324,553,0.9319933243191916,False,exact
+Himachal Pradesh,Una,351,560,0.9432115888564119,False,exact
+Jammu and Kashmir,Anantnag,394,697,0.9478398924557826,False,exact
+Jammu and Kashmir,Bandipora,409,644,0.9610676632921406,False,exact
+Jammu and Kashmir,Baramulla,395,698,0.9325558498725086,False,exact
+Jammu and Kashmir,Budgam,408,642,0.947868862925331,False,exact
+Jammu and Kashmir,Doda,422,656,0.9492608891178433,False,exact
+Jammu and Kashmir,Ganderbal,410,645,0.9050292826596622,False,exact
+Jammu and Kashmir,Jammu,622,692,0.9302765733109065,False,exact
+Jammu and Kashmir,Kathua,396,691,0.9556938112471184,False,exact
+Jammu and Kashmir,Kishtwar,421,655,0.972890684456581,False,exact
+Jammu and Kashmir,Kulgam,411,646,0.9360819533706957,False,exact
+Jammu and Kashmir,Kupwara,412,648,0.9487984279735845,False,exact
+Jammu and Kashmir,Poonch,393,641,0.9643546335417291,False,exact
+Jammu and Kashmir,Pulwama,413,649,0.9216073415223128,False,exact
+Jammu and Kashmir,Rajouri,414,650,0.9523794814074207,False,exact
+Jammu and Kashmir,Ramban,415,651,0.9473139951624634,False,exact
+Jammu and Kashmir,Reasi,416,652,0.9227143659576886,False,exact
+Jammu and Kashmir,Samba,423,658,0.921720504570903,False,exact
+Jammu and Kashmir,Shopian,417,653,0.8822117848796905,False,exact
+Jammu and Kashmir,Srinagar,418,654,0.686570695661465,False,exact
+Jammu and Kashmir,Udhampur,397,695,0.9534371141680924,False,exact
+Jharkhand,Bokaro,69,284,0.9353181426847961,False,exact
+Jharkhand,Chatra,80,302,0.9342603436839867,False,exact
+Jharkhand,Deoghar,739,309,0.9445271199722756,False,exact
+Jharkhand,Dhanbad,106,289,0.9601949001851051,False,exact
+Jharkhand,Dumka,114,311,0.9520949042788197,False,exact
+Jharkhand,East Singhbum,274,722,0.941551939347398,False,exact
+Jharkhand,Garhwa,131,301,0.9629887510290721,False,exact
+Jharkhand,Giridih,137,314,0.9622493969726438,False,exact
+Jharkhand,Godda,138,341,0.9432580192265633,False,exact
+Jharkhand,Gumla,143,271,0.9472832029907631,False,exact
+Jharkhand,Hazaribagh,156,296,0.9343460964293113,False,exact
+Jharkhand,Jamtara,168,599,0.9265294290026929,False,exact
+Jharkhand,Khunti,201,259,0.9352949803218024,False,exact
+Jharkhand,Koderma,205,315,0.9182746050438142,False,exact
+Jharkhand,Latehar,221,307,0.9318703722119627,False,exact
+Jharkhand,Lohardaga,222,597,0.9149853053332057,False,exact
+Jharkhand,Pakur,261,319,0.9264365159234142,False,exact
+Jharkhand,Palamu,263,598,0.9465472740909346,False,exact
+Jharkhand,Ramgarh,284,600,0.896044850514231,False,exact
+Jharkhand,Ranchi,287,272,0.9475897294084195,False,exact
+Jharkhand,Sahebganj,295,348,0.9506438255743739,False,exact
+Jharkhand,Saraikela Kharsawan,300,252,0.9418441147035792,False,exact
+Jharkhand,Simdega,319,596,0.9561092266810296,False,exact
+Jharkhand,West Singhbhum,267,241,0.9672009622452672,False,exact
+Karnataka,Bengaluru Rural,54,612,0.9138402930429381,False,manual
+Karnataka,Bengaluru Urban,55,81,0.9306177803510816,False,manual
+Karnataka,Bagalkote,30,110,0.960292822417815,False,exact
+Karnataka,Ballari,37,100,0.4917946949975622,True,exact
+Karnataka,Belagavi,752,111,0.9595056398872871,False,exact
+Karnataka,Bidar,741,137,0.9498237328534851,False,exact
+Karnataka,Chamarajanagara,74,67,0.9532567724482105,False,exact
+Karnataka,Chikkaballapura,84,725,0.9696925309406158,False,exact
+Karnataka,Chikkamagaluru,85,84,0.95767214433958,False,exact
+Karnataka,Chitradurga,86,90,0.9618673340470283,False,exact
+Karnataka,Dakshina Kannada,93,80,0.9492710098954219,False,exact
+Karnataka,Davangere,99,89,0.7251133045322956,False,exact
+Karnataka,Dharwad,109,97,0.9453321947962212,False,exact
+Karnataka,Gadag,128,99,0.9467405125490073,False,exact
+Karnataka,Hassan,153,83,0.952119901531488,False,exact
+Karnataka,Haveri,155,93,0.9481803175566618,False,exact
+Karnataka,Kalaburagi,180,124,0.9544856248328256,False,exact
+Karnataka,Kodagu,204,73,0.9487995920199649,False,exact
+Karnataka,Kolar,207,659,0.9575407277658301,False,exact
+Karnataka,Koppal,210,101,0.9547394468517247,False,exact
+Karnataka,Mandya,740,77,0.9502074795314692,False,exact
+Karnataka,Mysuru,243,71,0.9483472910810755,False,exact
+Karnataka,Raichur,277,105,0.9748303616755826,False,exact
+Karnataka,Ramanagara,285,82,0.9401512153878737,False,exact
+Karnataka,Shivamogga,313,88,0.9554156979422984,False,exact
+Karnataka,Tumakuru,345,87,0.9655878008277781,False,exact
+Karnataka,Udupi,348,86,0.9652173759927654,False,exact
+Karnataka,Uttara Kannada,354,96,0.9679027725962187,False,exact
+Karnataka,Vijayapura,358,119,0.964791744436735,False,exact
+Karnataka,Yadgir,366,590,0.9478693427026935,False,exact
+Kerala,Alappuzha,15,38,0.9257487552191717,False,exact
+Kerala,Ernakulam,122,40,0.9473778646949365,False,exact
+Kerala,Idukki,158,42,0.9364128701417158,False,exact
+Kerala,Kannur,187,68,0.952335042142464,False,exact
+Kerala,Kasaragod,192,72,0.9124203427324122,False,exact
+Kerala,Kollam,208,33,0.9526995325461496,False,exact
+Kerala,Kottayam,215,37,0.9426268292886258,False,exact
+Kerala,Kozhikode,216,62,0.9549950558745047,False,exact
+Kerala,Malappuram,229,58,0.9533466065292838,False,exact
+Kerala,Palakkad,262,51,0.9444729750208899,False,exact
+Kerala,Pathanamthitta,268,618,0.9363056612933132,False,exact
+Kerala,Thiruvananthapuram,341,31,0.9562772465125434,False,exact
+Kerala,Thrissur,342,45,0.9530081856056877,False,exact
+Kerala,Wayanad,359,65,0.9461726278199333,False,exact
+Ladakh,Kargil,420,660,0.9745225288955855,False,exact
+Ladakh,Leh Ladakh,419,703,0.9920793763714415,False,exact
+Lakshadweep,Lakshadweep District,219,574,0.07231043313570246,True,exact
+Madhya Pradesh,Agar-Malwa,12,609,0.9353236322060459,False,exact
+Madhya Pradesh,Alirajpur,17,234,0.9163112999118748,False,exact
+Madhya Pradesh,Anuppur,24,264,0.9234207887833388,False,exact
+Madhya Pradesh,Ashoknagar,26,610,0.9610999661510191,False,exact
+Madhya Pradesh,Balaghat,34,223,0.969993981157848,False,exact
+Madhya Pradesh,Barwani,51,219,0.9597488712485478,False,exact
+Madhya Pradesh,Betul,56,224,0.970557394984648,False,exact
+Madhya Pradesh,Bhind,61,418,0.9402351406487018,False,exact
+Madhya Pradesh,Bhopal,62,280,0.946034005436892,False,exact
+Madhya Pradesh,Burhanpur,72,203,0.9589419010800161,False,exact
+Madhya Pradesh,Chhatarpur,81,343,0.9461225292065143,False,exact
+Madhya Pradesh,Chhindwara,82,236,0.9684503311769959,False,exact
+Madhya Pradesh,Damoh,95,298,0.9596210591165143,False,exact
+Madhya Pradesh,Datia,98,391,0.8839816225241239,False,exact
+Madhya Pradesh,Dewas,103,258,0.9527277568352251,False,exact
+Madhya Pradesh,Dhar,107,253,0.9659720882770984,False,exact
+Madhya Pradesh,Dindori,113,261,0.9471540754079314,False,exact
+Madhya Pradesh,Guna,144,326,0.9570476929995624,False,exact
+Madhya Pradesh,Gwalior,145,394,0.9628096477703764,False,exact
+Madhya Pradesh,Harda,150,229,0.9653525401316275,False,exact
+Madhya Pradesh,Indore,160,250,0.9360332073712626,False,exact
+Madhya Pradesh,Jabalpur,161,268,0.9470087873276473,False,exact
+Madhya Pradesh,Jhabua,172,260,0.9582825171623846,False,exact
+Madhya Pradesh,Katni,194,286,0.9380217029666016,False,exact
+Madhya Pradesh,Khargone (West Nimar),364,230,0.958451007382555,False,exact
+Madhya Pradesh,Mandla,232,249,0.9530845369581182,False,exact
+Madhya Pradesh,Mandsaur,233,312,0.9588111284797901,False,exact
+Madhya Pradesh,Morena,240,421,0.9387522930972636,False,exact
+Madhya Pradesh,Narmadapuram,157,245,0.9635287502133748,False,exact
+Madhya Pradesh,Neemuch,252,327,0.9101829305068491,False,exact
+Madhya Pradesh,Niwari,433,662,0.7775163048044857,False,exact
+Madhya Pradesh,Panna,266,723,0.9408720155776079,False,exact
+Madhya Pradesh,Raisen,280,276,0.9512417680221507,False,exact
+Madhya Pradesh,Rajgarh,282,292,0.9649062475671513,False,exact
+Madhya Pradesh,Ratlam,288,281,0.9471116736015506,False,exact
+Madhya Pradesh,Rewa,290,634,0.9536979514773759,False,exact
+Madhya Pradesh,Sagar,293,299,0.9538234588117895,False,exact
+Madhya Pradesh,Satna,301,328,0.9363824024506044,False,exact
+Madhya Pradesh,Sehore,303,270,0.9451082301675546,False,exact
+Madhya Pradesh,Seoni,304,239,0.96002319164564,False,exact
+Madhya Pradesh,Shahdol,307,291,0.9395841955527298,False,exact
+Madhya Pradesh,Shajapur,309,295,0.9386650503000289,False,exact
+Madhya Pradesh,Sheopur,311,389,0.9504567089765126,False,exact
+Madhya Pradesh,Shivpuri,314,375,0.955788147973945,False,exact
+Madhya Pradesh,Sidhi,317,304,0.9512873055564168,False,exact
+Madhya Pradesh,Singrauli,320,602,0.95808515074093,False,exact
+Madhya Pradesh,Tikamgarh,343,358,0.952220631280761,False,exact
+Madhya Pradesh,Ujjain,349,279,0.934761512982509,False,exact
+Madhya Pradesh,Umaria,350,285,0.9539061205833077,False,exact
+Madhya Pradesh,Vidisha,357,294,0.956288222433776,False,exact
+Madhya Pradesh,Narsimhapur,248,254,0.9563880621478293,False,hungarian
+Maharashtra,Ahmednagar,445,168,0.9597792046093515,False,exact
+Maharashtra,Akola,446,194,0.9481276444523861,False,exact
+Maharashtra,Amravati,448,209,0.9677381869844792,False,exact
+Maharashtra,Beed,467,158,0.9528026459977331,False,exact
+Maharashtra,Bhandara,464,593,0.9543473321165197,False,exact
+Maharashtra,Buldhana,469,197,0.9649283991302249,False,exact
+Maharashtra,Chandrapur,472,617,0.970485477754811,False,exact
+Maharashtra,Chhatrapati Sambhajinagar,455,181,0.9545892088051103,False,exact
+Maharashtra,Dharashiv,555,143,0.9524564015002444,False,exact
+Maharashtra,Dhule,477,587,0.9673438911595325,False,exact
+Maharashtra,Gadchiroli,487,724,0.9723649676034357,False,exact
+Maharashtra,Gondia,489,202,0.9621617567834464,False,exact
+Maharashtra,Hingoli,494,589,0.9435546622445116,False,exact
+Maharashtra,Jalgaon,501,198,0.9655712837383438,False,exact
+Maharashtra,Jalna,502,179,0.9560937917159122,False,exact
+Maharashtra,Kolhapur,518,114,0.9335889195241417,False,exact
+Maharashtra,Latur,524,146,0.960992616002169,False,exact
+Maharashtra,Mumbai,540,151,0.6410143185765481,False,exact
+Maharashtra,Nagpur,545,206,0.9750939703653236,False,exact
+Maharashtra,Nanded,548,163,0.9468677342185514,False,exact
+Maharashtra,Nandurbar,549,216,0.9474183613862579,False,exact
+Maharashtra,Nashik,550,186,0.9766603244194317,False,exact
+Maharashtra,Palghar,556,172,0.9572418762759269,False,exact
+Maharashtra,Parbhani,560,166,0.9482004455694267,False,exact
+Maharashtra,Pune,567,159,0.9662403781903974,False,exact
+Maharashtra,Raigad,571,154,0.9534980208494469,False,exact
+Maharashtra,Ratnagiri,573,131,0.957757345795756,False,exact
+Maharashtra,Sangli,580,122,0.946195196982676,False,exact
+Maharashtra,Satara,583,135,0.9724246465856748,False,exact
+Maharashtra,Sindhudurg,587,107,0.9490588911165421,False,exact
+Maharashtra,Solapur,591,139,0.9537931332180186,False,exact
+Maharashtra,Thane,599,585,0.9591770021287978,False,exact
+Maharashtra,Wardha,609,622,0.9716376793630203,False,exact
+Maharashtra,Washim,610,588,0.9440956869764197,False,exact
+Maharashtra,Yavatmal,614,180,0.9696113160869543,False,exact
+Manipur,Bishnupur,68,332,0.7871633418513212,False,exact
+Manipur,Chandel,78,331,0.9101872070577356,False,exact
+Manipur,Churachandpur,89,329,0.9443428968878805,False,exact
+Manipur,Imphal East,431,357,0.7632717720605401,False,exact
+Manipur,Imphal West,159,350,0.7250900703910289,False,exact
+Manipur,Senapati,584,388,0.8998731495083626,False,exact
+Manipur,Tamenglong,596,376,0.9424979813116916,False,exact
+Manipur,Thoubal,600,347,0.7414628487682893,False,exact
+Manipur,Ukhrul,515,395,0.8632574620553849,False,exact
+Meghalaya,East Garo Hills,119,6,0.9159157945445761,False,exact
+Meghalaya,East Jaintia Hills,203,3,0.9148877701486183,False,exact
+Meghalaya,East Khasi Hills,120,2,0.93869820441245,False,exact
+Meghalaya,North Garo Hills,403,674,0.8582810164126224,False,exact
+Meghalaya,Ri Bhoi,399,7,0.9294060384892727,False,exact
+Meghalaya,South Garo Hills,329,1,0.9535574250048472,False,exact
+Meghalaya,South West Garo Hills,402,673,0.9007920352121186,False,exact
+Meghalaya,South West Khasi Hills,401,672,0.901143889986442,False,exact
+Meghalaya,West Garo Hills,362,5,0.9345863111271989,False,exact
+Meghalaya,West Jaintia Hills,404,575,0.9108298333838202,False,exact
+Meghalaya,West Khasi Hills,363,4,0.6377274452066527,False,exact
+Mizoram,Aizawl,405,313,0.7534542038007656,False,exact
+Mizoram,Champhai,707,300,0.7997566641368463,False,exact
+Mizoram,Kolasib,371,317,0.9593610794559606,False,exact
+Mizoram,Lawngtlai,369,247,0.7630595689902835,False,exact
+Mizoram,Lunglei,373,277,0.894270049362056,False,exact
+Mizoram,Mamit,372,306,0.9500850456329867,False,exact
+Mizoram,Serchhip,370,282,0.8556000119012878,False,exact
+Mizoram,Siaha,296,251,0.9067586565679032,False,hungarian
+Nagaland,Dimapur,750,402,0.10680951736932805,True,exact
+Nagaland,Kiphire,617,627,0.9381996412489757,False,exact
+Nagaland,Kohima,616,624,0.6827026105098728,False,exact
+Nagaland,Longleng,624,626,0.8671562444764356,False,exact
+Nagaland,Mokokchung,619,625,0.920898131926787,False,exact
+Nagaland,Mon,620,451,0.9475265940010443,False,exact
+Nagaland,Peren,479,407,0.9051344083851378,False,exact
+Nagaland,Phek,516,403,0.9308480607917925,False,exact
+Nagaland,Tuensang,621,443,0.517475689023246,False,exact
+Nagaland,Wokha,538,436,0.93240034147228,False,exact
+Nagaland,Zunheboto,618,423,0.890583266433367,False,exact
+Odisha,Anugul,23,204,0.9575849577536572,False,exact
+Odisha,Balangir,35,188,0.9586177788412003,False,exact
+Odisha,Baleshwar,36,215,0.9488627874632353,False,exact
+Odisha,Bargarh,47,213,0.9523278392096985,False,exact
+Odisha,Bhadrak,58,196,0.947598498643572,False,exact
+Odisha,Boudh,368,184,0.9434370521630104,False,exact
+Odisha,Cuttack,91,182,0.9394317557935172,False,exact
+Odisha,Deogarh,101,205,0.9393654959705521,False,exact
+Odisha,Dhenkanal,110,192,0.9548161665465921,False,exact
+Odisha,Gajapati,129,162,0.9546837912589051,False,exact
+Odisha,Ganjam,130,171,0.9650887874674455,False,exact
+Odisha,Jagatsinghapur,162,175,0.9432502467385365,False,exact
+Odisha,Jajapur,165,193,0.941495228572058,False,exact
+Odisha,Jharsuguda,175,595,0.8876013247026047,False,exact
+Odisha,Kalahandi,181,173,0.9623910522543925,False,exact
+Odisha,Kandhamal,183,178,0.95697672376517,False,exact
+Odisha,Kendrapara,196,183,0.9505560795467743,False,exact
+Odisha,Kendujhar,197,218,0.9704419470400173,False,exact
+Odisha,Khordha,199,174,0.9118159431231914,False,exact
+Odisha,Koraput,211,152,0.9673426676745192,False,exact
+Odisha,Malkangiri,230,142,0.9700018912749347,False,exact
+Odisha,Mayurbhanj,236,232,0.9707981585925938,False,exact
+Odisha,Nabarangpur,244,167,0.9577818485410557,False,exact
+Odisha,Nayagarh,249,177,0.9554873550538766,False,exact
+Odisha,Nuapada,260,189,0.9517608227039779,False,exact
+Odisha,Puri,275,170,0.947110634496138,False,exact
+Odisha,Rayagada,289,165,0.951915158670124,False,exact
+Odisha,Sambalpur,297,217,0.950252280813867,False,exact
+Odisha,Sonepur,333,191,0.9475356118359171,False,exact
+Odisha,Sundargarh,336,228,0.9591945594500442,False,exact
+Puducherry,Karaikal,190,675,0.7144163045496958,False,exact
+Puducherry,Mahe,225,676,0.6301527118954245,False,exact
+Puducherry,Pondicherry,273,63,0.4531870317850705,True,exact
+Puducherry,Yanam,367,677,0.8543593755155223,False,exact
+Punjab,Amritsar,450,564,0.9406386505348807,False,exact
+Punjab,Barnala,459,536,0.9294701487044138,False,exact
+Punjab,Bathinda,460,535,0.9294180989857636,False,exact
+Punjab,Faridkot,482,543,0.9059412967607174,False,exact
+Punjab,Fatehgarh Sahib,484,544,0.9248393507984835,False,exact
+Punjab,Fazilka,485,678,0.94879268113598,False,exact
+Punjab,Ferozepur,486,551,0.9309516806504508,False,exact
+Punjab,Gurdaspur,491,568,0.9495331529574706,False,exact
+Punjab,Hoshiarpur,496,565,0.9460374571248303,False,exact
+Punjab,Jalandhar,500,557,0.9291950411622873,False,exact
+Punjab,Kapurthala,508,554,0.8770020705841296,False,exact
+Punjab,Ludhiana,527,550,0.9598701695473026,False,exact
+Punjab,Mansa,534,615,0.9165178158926112,False,exact
+Punjab,Moga,537,546,0.9360065144296105,False,exact
+Punjab,Pathankot,563,680,0.9077823979550311,False,exact
+Punjab,Patiala,564,719,0.9156722061987417,False,exact
+Punjab,Rupnagar,577,718,0.8996881865522479,False,exact
+Punjab,S.A.S Nagar,582,690,0.878227593052895,False,exact
+Punjab,Sangrur,753,538,0.759080536082497,False,exact
+Punjab,Shahid Bhagat Singh Nagar,552,552,0.9082059437600369,False,exact
+Punjab,Sri Muktsar Sahib,539,541,0.9362624974359408,False,exact
+Punjab,Tarn Taran,597,558,0.9420700884295973,False,exact
+Rajasthan,Ajmer,14,431,0.4649788555483869,True,exact
+Rajasthan,Alwar,19,471,0.5395142999105245,False,exact
+Rajasthan,Banswara,45,28,0.9621398437750278,False,exact
+Rajasthan,Baran,48,349,0.9633679847109388,False,exact
+Rajasthan,Barmer,50,419,0.6339649951799515,False,exact
+Rajasthan,Bharatpur,59,458,0.5457000222369078,False,exact
+Rajasthan,Bhilwara,60,711,0.5821525002583964,False,exact
+Rajasthan,Bikaner,785,506,0.8503801350647114,False,exact
+Rajasthan,Bundi,71,373,0.9588462695894892,False,exact
+Rajasthan,Chittorgarh,88,323,0.9243082173055919,False,exact
+Rajasthan,Churu,90,503,0.9663936933745894,False,exact
+Rajasthan,Dausa,738,437,0.934804325992057,False,exact
+Rajasthan,Dholpur,111,426,0.9387127825041984,False,exact
+Rajasthan,Dungarpur,115,661,0.9540165620960374,False,exact
+Rajasthan,Ganganagar,202,532,0.5529369832677471,False,exact
+Rajasthan,Hanumangarh,148,710,0.9493452985389862,False,exact
+Rajasthan,Jaipur,163,614,0.19048350647778634,True,exact
+Rajasthan,Jaisalmer,164,476,0.9904109133806746,False,exact
+Rajasthan,Jalore,167,669,0.9673841721154989,False,exact
+Rajasthan,Jhalawar,173,316,0.9481049011945025,False,exact
+Rajasthan,Jhunjhunu,176,485,0.7583991495999629,False,exact
+Rajasthan,Jodhpur,177,460,0.06834380235621297,True,exact
+Rajasthan,Karauli,191,428,0.7334498237303819,False,exact
+Rajasthan,Kota,214,372,0.9441362493875649,False,exact
+Rajasthan,Nagaur,784,463,0.6086378949140383,False,exact
+Rajasthan,Pali,264,406,0.7788530654955601,False,exact
+Rajasthan,Pratapgarh,271,29,0.0,True,exact
+Rajasthan,Rajsamand,283,377,0.9264192829752237,False,exact
+Rajasthan,Sawai Madhopur,302,414,0.6978743165028323,False,exact
+Rajasthan,Sikar,318,472,0.7264664725281197,False,exact
+Rajasthan,Sirohi,322,353,0.9591807467754863,False,exact
+Rajasthan,Tonk,344,582,0.8232676374435236,False,exact
+Rajasthan,Udaipur,346,709,0.7569122685257885,False,exact
+Sikkim,Gangtok,118,449,0.561928616139731,False,exact
+Sikkim,Gyalshing,360,455,0.690928561716477,False,exact
+Sikkim,Mangan,254,473,0.9584074434139733,False,exact
+Sikkim,Namchi,327,450,0.8792668117869267,False,exact
+Tamil Nadu,Ariyalur,666,56,0.9373050865070041,False,exact
+Tamil Nadu,Chengalpattu,667,681,0.9413624054175296,False,exact
+Tamil Nadu,Chennai,668,78,0.8546158683161769,False,exact
+Tamil Nadu,Coimbatore,669,55,0.9513418492906565,False,exact
+Tamil Nadu,Cuddalore,670,61,0.9386530775243702,False,exact
+Tamil Nadu,Dharmapuri,671,70,0.9401060416284707,False,exact
+Tamil Nadu,Dindigul,672,46,0.9505133462713831,False,exact
+Tamil Nadu,Erode,673,64,0.9204960873052815,False,exact
+Tamil Nadu,Kallakurichi,674,682,0.9449451432661676,False,exact
+Tamil Nadu,Kanchipuram,709,76,0.8815249704083243,False,exact
+Tamil Nadu,Kanniyakumari,675,30,0.9357312216666133,False,exact
+Tamil Nadu,Karur,676,49,0.9255834043509468,False,exact
+Tamil Nadu,Krishnagiri,698,75,0.9403625132067769,False,exact
+Tamil Nadu,Madurai,677,41,0.9352677871879753,False,exact
+Tamil Nadu,Nagapattinam,702,47,0.4963855720368371,True,exact
+Tamil Nadu,Namakkal,679,59,0.9453666548293507,False,exact
+Tamil Nadu,Perambalur,680,57,0.9218667392609212,False,exact
+Tamil Nadu,Pudukkottai,755,44,0.9251383745785197,False,exact
+Tamil Nadu,Ramanathapuram,681,32,0.9269906470735314,False,exact
+Tamil Nadu,Ranipet,682,693,0.9159748560255971,False,exact
+Tamil Nadu,Salem,683,66,0.926751003242027,False,exact
+Tamil Nadu,Sivaganga,684,43,0.9101818764544446,False,exact
+Tamil Nadu,Tenkasi,686,696,0.9419839976786245,False,exact
+Tamil Nadu,Thanjavur,754,50,0.9145685070004159,False,exact
+Tamil Nadu,The Nilgiris,678,60,0.9424632137320698,False,exact
+Tamil Nadu,Theni,685,39,0.9493299771628008,False,exact
+Tamil Nadu,Thiruvallur,692,712,0.933560687905534,False,exact
+Tamil Nadu,Thiruvarur,687,48,0.9197429337067897,False,exact
+Tamil Nadu,Tiruchirappalli,688,54,0.9127117949602382,False,exact
+Tamil Nadu,Tirunelveli,689,35,0.9527527514310017,False,exact
+Tamil Nadu,Tirupathur,691,699,0.9511946422369931,False,exact
+Tamil Nadu,Tiruppur,690,52,0.928974517410598,False,exact
+Tamil Nadu,Tiruvannamalai,693,74,0.950563401901932,False,exact
+Tamil Nadu,Tuticorin,694,34,0.9531196585295328,False,exact
+Tamil Nadu,Vellore,695,79,0.916584538039563,False,exact
+Tamil Nadu,Villupuram,696,69,0.9206801931086103,False,exact
+Tamil Nadu,Virudhunagar,697,36,0.9392469865911212,False,exact
+Telangana,Adilabad,444,164,0.9556142412737969,False,exact
+Telangana,Bhadradri Kothagudem,513,707,0.9521984032271752,False,exact
+Telangana,Hanumakonda,756,132,0.5939345544395526,False,exact
+Telangana,Hyderabad,498,116,0.7845138446940847,False,exact
+Telangana,Jagitial,661,148,0.9580534512857772,False,exact
+Telangana,Jangoan,657,126,0.9170343105375955,False,exact
+Telangana,Jayashankar Bhupalapally,659,629,0.9442625915358022,False,exact
+Telangana,Jogulamba Gadwal,634,104,0.9736594052852175,False,exact
+Telangana,Kamareddy,646,708,0.9445342225101503,False,exact
+Telangana,Karimnagar,509,141,0.9380101335901049,False,exact
+Telangana,Khammam,655,120,0.9461465454527109,False,exact
+Telangana,Kumuram Bheem Asifabad,643,161,0.9529974273549195,False,exact
+Telangana,Mahabubabad,656,128,0.9559480291546594,False,exact
+Telangana,Mahabubnagar,530,112,0.9108331344091282,False,exact
+Telangana,Mancherial,644,153,0.9551103184748422,False,exact
+Telangana,Medak,663,129,0.9248647629606961,False,exact
+Telangana,Medchal Malkajgiri,652,123,0.9059998122885439,False,exact
+Telangana,Mulugu,608,145,0.9638566712676854,False,exact
+Telangana,Nagarkurnool,648,109,0.9625575371905877,False,exact
+Telangana,Nalgonda,547,115,0.9677465089574042,False,exact
+Telangana,Narayanpet,650,700,0.9044191702846148,False,exact
+Telangana,Nirmal,645,706,0.9429827780361948,False,exact
+Telangana,Nizamabad,553,147,0.9584630589251698,False,exact
+Telangana,Peddapalli,660,144,0.9497753562846444,False,exact
+Telangana,Rajanna Sircilla,662,140,0.9409623436127937,False,exact
+Telangana,Ranga Reddy,572,118,0.9436740445840087,False,exact
+Telangana,Sangareddy,647,134,0.9312539259292298,False,exact
+Telangana,Siddipet,535,136,0.9457667466108249,False,exact
+Telangana,Suryapet,654,117,0.9636933057901936,False,exact
+Telangana,Vikarabad,651,121,0.9480053891180145,False,exact
+Telangana,Wanaparthy,649,106,0.9166331065859257,False,exact
+Telangana,Warangal,658,133,0.7022105332179324,False,exact
+Telangana,Yadadri Bhuvanagiri,653,125,0.93134422889795,False,exact
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,699,647,0.7227821202757772,False,exact
+The Dadra and Nagar Haveli and Daman and Diu,Daman,94,616,0.6372533494408997,False,exact
+The Dadra and Nagar Haveli and Daman and Diu,Diu,435,705,0.6239047854405398,False,exact
+Tripura,Dhalai,104,305,0.9349083879868751,False,exact
+Tripura,Gomati,140,701,0.9064553329756968,False,exact
+Tripura,Khowai,200,702,0.9168767749766192,False,exact
+Tripura,North Tripura,258,318,0.9051181161407468,False,exact
+Tripura,Sepahijala,305,704,0.8975561445728126,False,exact
+Tripura,South Tripura,331,287,0.9010160176636774,False,exact
+Tripura,Unakoti,353,726,0.8965226969678461,False,exact
+Tripura,West Tripura,365,303,0.9328841664717953,False,exact
+Uttar Pradesh,Agra,13,442,0.9070632325403286,False,exact
+Uttar Pradesh,Aligarh,16,469,0.9406079287735286,False,exact
+Uttar Pradesh,Ambedkar Nagar,20,408,0.9336073002766495,False,exact
+Uttar Pradesh,Amethi,21,410,0.9222122622480291,False,exact
+Uttar Pradesh,Amroha,22,505,0.9435078717709676,False,exact
+Uttar Pradesh,Auraiya,27,422,0.9464296385251073,False,exact
+Uttar Pradesh,Ayodhya,108,420,0.9457844279888306,False,exact
+Uttar Pradesh,Azamgarh,28,398,0.943435542168918,False,exact
+Uttar Pradesh,Baghpat,32,511,0.9285820641148179,False,exact
+Uttar Pradesh,Bahraich,33,474,0.9465489196859953,False,exact
+Uttar Pradesh,Ballia,38,386,0.937802957944208,False,exact
+Uttar Pradesh,Balrampur,42,288,0.9460375185773918,False,exact
+Uttar Pradesh,Banda,44,370,0.9234439329302006,False,exact
+Uttar Pradesh,Barabanki,46,440,0.948473969097756,False,exact
+Uttar Pradesh,Bareilly,49,497,0.9449043308145334,False,exact
+Uttar Pradesh,Basti,52,432,0.9500493338464168,False,exact
+Uttar Pradesh,Bhadohi,57,351,0.866761670002987,False,exact
+Uttar Pradesh,Bijnor,64,519,0.9718802884352074,False,exact
+Uttar Pradesh,Budaun,29,478,0.9568384829757783,False,exact
+Uttar Pradesh,Bulandshahr,70,490,0.9593533568396677,False,exact
+Uttar Pradesh,Chandauli,77,355,0.9421572262020703,False,exact
+Uttar Pradesh,Chitrakoot,87,687,0.9167685440274524,False,exact
+Uttar Pradesh,Deoria,102,417,0.9351237535049106,False,exact
+Uttar Pradesh,Etah,123,453,0.9128489016006134,False,exact
+Uttar Pradesh,Etawah,124,427,0.9367483788212744,False,exact
+Uttar Pradesh,Farrukhabad,125,452,0.9392892324377212,False,exact
+Uttar Pradesh,Fatehpur,126,385,0.9465355257971535,False,exact
+Uttar Pradesh,Firozabad,127,445,0.9202482309991651,False,exact
+Uttar Pradesh,Gautam Buddha Nagar,133,488,0.908366393367256,False,exact
+Uttar Pradesh,Ghaziabad,135,501,0.8995175636106237,False,exact
+Uttar Pradesh,Ghazipur,134,371,0.9507668958621648,False,exact
+Uttar Pradesh,Gonda,141,686,0.9566044003571466,False,exact
+Uttar Pradesh,Gorakhpur,142,433,0.9366503270370283,False,exact
+Uttar Pradesh,Hamirpur,147,382,0.928435272365863,False,exact
+Uttar Pradesh,Hapur,149,727,0.9190598118427866,False,exact
+Uttar Pradesh,Hardoi,151,454,0.9640917353609783,False,exact
+Uttar Pradesh,Hathras,154,457,0.9099912585364232,False,exact
+Uttar Pradesh,Jalaun,166,397,0.9346862120866632,False,exact
+Uttar Pradesh,Jaunpur,171,384,0.9410374668024771,False,exact
+Uttar Pradesh,Jhansi,174,374,0.8819380147153941,False,exact
+Uttar Pradesh,Kannauj,186,438,0.937188076236521,False,exact
+Uttar Pradesh,Kanpur Dehat,189,425,0.947257402923165,False,exact
+Uttar Pradesh,Kanpur Nagar,188,405,0.9373751145822439,False,exact
+Uttar Pradesh,Kasganj,193,467,0.9199620860368779,False,exact
+Uttar Pradesh,Kaushambi,195,366,0.9308216759300135,False,exact
+Uttar Pradesh,Kheri,198,493,0.9594396727725152,False,exact
+Uttar Pradesh,Kushi Nagar,218,439,0.9292187207795316,False,exact
+Uttar Pradesh,Lalitpur,220,335,0.9667849979789369,False,exact
+Uttar Pradesh,Lucknow,223,435,0.9443848104496861,False,exact
+Uttar Pradesh,Mahoba,227,359,0.9183449439420811,False,exact
+Uttar Pradesh,Mainpuri,228,444,0.9479580059715342,False,exact
+Uttar Pradesh,Mathura,234,465,0.93989924807807,False,exact
+Uttar Pradesh,Mau,235,717,0.9304464570273303,False,exact
+Uttar Pradesh,Meerut,237,509,0.9481511356765401,False,exact
+Uttar Pradesh,Mirzapur,238,336,0.9420941332805745,False,exact
+Uttar Pradesh,Moradabad,239,508,0.9284747580665184,False,exact
+Uttar Pradesh,Muzaffarnagar,242,518,0.9481888528700371,False,exact
+Uttar Pradesh,Pilibhit,270,498,0.9301478216218773,False,exact
+Uttar Pradesh,Pratapgarh,272,380,0.0,True,exact
+Uttar Pradesh,Prayagraj,398,685,0.9520695561654328,False,exact
+Uttar Pradesh,Rae Bareli,276,404,0.9442424483614402,False,exact
+Uttar Pradesh,Rampur,286,684,0.9385814999687186,False,exact
+Uttar Pradesh,Saharanpur,294,533,0.9669376062783326,False,exact
+Uttar Pradesh,Sambhal,298,728,0.9428747173343206,False,exact
+Uttar Pradesh,Shahjahanpur,308,477,0.9375179637652361,False,exact
+Uttar Pradesh,Shamli,310,729,0.92677806038985,False,exact
+Uttar Pradesh,Siddharth Nagar,316,447,0.9458765610653415,False,exact
+Uttar Pradesh,Sitapur,323,461,0.9593916693021409,False,exact
+Uttar Pradesh,Sonbhadra,325,716,0.9660494327012519,False,exact
+Uttar Pradesh,Sultanpur,335,401,0.9294306244412531,False,exact
+Uttar Pradesh,Unnao,352,429,0.950672891811396,False,exact
+Uttar Pradesh,Varanasi,356,356,0.9182420865412371,False,exact
+Uttar Pradesh,Mahrajganj,531,715,0.9446925457418321,False,fuzzy
+Uttar Pradesh,Sant Kabir Nagar,299,434,0.9052946980822103,False,hungarian
+Uttar Pradesh,Shrawasti,315,464,0.9318264808176676,False,hungarian
+Uttarakhand,Almora,18,522,0.9520424476761455,False,exact
+Uttarakhand,Bageshwar,31,530,0.9436203669370609,False,exact
+Uttarakhand,Chamoli,471,549,0.9722646729270863,False,exact
+Uttarakhand,Champawat,76,514,0.9291194442137535,False,exact
+Uttarakhand,Dehradun,100,547,0.9250173061107594,False,exact
+Uttarakhand,Haridwar,152,526,0.9536745757847317,False,exact
+Uttarakhand,Nainital,245,516,0.9581949651542025,False,exact
+Uttarakhand,Pauri Garhwal,269,527,0.9703083571880873,False,exact
+Uttarakhand,Pithoragarh,566,540,0.9647787631122338,False,exact
+Uttarakhand,Rudra Prayag,291,539,0.9451249297328032,False,exact
+Uttarakhand,Tehri Garhwal,340,542,0.9395839472233206,False,exact
+Uttarakhand,Udam Singh Nagar,347,720,0.9258084318139025,False,exact
+Uttarakhand,Uttar Kashi,606,555,0.9648733246699192,False,exact
+West Bengal,Paschim Medinipur,562,246,0.9625782760728246,False,manual
+West Bengal,Purba Medinipur,481,231,0.961602044245059,False,manual
+West Bengal,Alipurduar,447,730,0.9521493264330866,False,exact
+West Bengal,Bankura,457,274,0.972645735887338,False,exact
+West Bengal,Birbhum,468,310,0.9384646472927707,False,exact
+West Bengal,Coochbehar,743,11,0.9155618070619361,False,exact
+West Bengal,Darjeeling,476,441,0.9282761218245191,False,exact
+West Bengal,Hooghly,497,262,0.9377115803590932,False,exact
+West Bengal,Howrah,493,238,0.9398640717834772,False,exact
+West Bengal,Jalpaiguri,503,20,0.9498652544059425,False,exact
+West Bengal,Jhargram,631,731,0.919339309073219,False,exact
+West Bengal,Kalimpong,633,732,0.942931884605245,False,exact
+West Bengal,Kolkata,519,237,0.7694071322066091,False,exact
+West Bengal,Murshidabad,542,322,0.94621536336709,False,exact
+West Bengal,Nadia,544,290,0.9069522961688069,False,exact
+West Bengal,Purba Bardhaman,458,283,0.9537830685253983,False,exact
+West Bengal,Purulia,570,278,0.960910851452102,False,exact
+West Bengal,Dakshin Dinajpur,474,367,0.9278505451525959,False,fuzzy
+West Bengal,North 24 Parganas,554,265,0.9366507205495652,False,fuzzy
+West Bengal,South 24 Parganas,593,208,0.885071595158894,False,fuzzy
+West Bengal,Uttar Dinajpur,605,412,0.9204706767741342,False,fuzzy
+West Bengal,Malda,533,362,0.9424264467568922,False,hungarian

@@ -1,0 +1,136 @@
+type,dataset_value,canonical_value,note
+state,The Dadra and Nagar Haveli and Daman and Diu,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,shapefile variant
+district,Y.S.R.,YSR Kadapa,AP rename
+district,Leh Ladakh,Leh,UT
+district,Baleshwar,Balasore,Odisha spelling
+district,Sonepur,Subarnapur,Odisha
+district,Dohad,Dahod,Gujarat
+district,Dang,The Dangs,Gujarat
+district,Pondicherry,Puducherry,UT
+district,Khandwa (East Nimar),Khandwa,Madhya Pradesh
+district,Khargone (West Nimar),Khargone,Madhya Pradesh
+district,Kaimur (Bhabua),Kaimur,Bihar
+district,S.A.S Nagar,SAS Nagar,Punjab
+district,Lakshadweep District,Lakshadweep,UT single district
+district,East Singhbum,East Singhbhum,Jharkhand spelling
+district,Tuticorin,Thoothukudi,Tamil Nadu rename
+district,Kabeerdham,Kawardha,Chhattisgarh rename
+district,Coochbehar,Cooch Behar,West Bengal spelling
+district,Hooghly,Hugli,West Bengal spelling
+district,Davangere,Davanagere,Karnataka spelling
+state,Andaman and Nicobar Islands,ANDAMAN AND NICOBAR,LGD state label
+district,Chhatrapati Sambhajinagar,Aurangabad,Maharashtra 2023 rename
+district,Dharashiv,Osmanabad,Maharashtra 2023 rename
+district,Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,DNH district maps to LGD label
+district,Dibang Valley,DIBANG VALLEY,crosswalk fuzzy
+district,Lower Dibang Valley,LOWER DIBANG VALLEY,crosswalk fuzzy
+district,Papum Pare,PAPUM PARE,crosswalk fuzzy
+district,Changlang,CHANGLANG,crosswalk hungarian
+district,Tirap,TIRAP,crosswalk hungarian
+district,Darrang,DARRANG,crosswalk fuzzy
+district,Sivasagar,SIVASAGAR,crosswalk hungarian
+district,Pashchim Champaran,PASHCHIM CHAMPARAN,crosswalk fuzzy
+district,Jehanabad,JEHANABAD,crosswalk hungarian
+district,Dakshin Bastar Dantewada,DAKSHIN BASTAR DANTEWADA,crosswalk fuzzy
+district,Khairagarh Chhuikhadan Gandai,KHAIRAGARH CHHUIKHADAN GANDAI,crosswalk fuzzy
+district,Manendragarh Chirmiri Bharatpur Mcb,MANENDRAGARH CHIRMIRI BHARATPUR MCB,crosswalk fuzzy
+district,Mohla Manpur Ambagarh Chouki,MOHLA MANPUR AMBAGARH CHOUKI,crosswalk fuzzy
+district,Balodabazar-Bhatapara,BALODABAZAR BHATAPARA,crosswalk hungarian
+district,Balrampur Ramanujganj,BALRAMPUR RAMANUJGANJ,crosswalk hungarian
+district,Bilaspur,BILASPUR,crosswalk hungarian
+district,Hamirpur,HAMIRPUR,crosswalk hungarian
+district,Kangra,KANGRA,crosswalk hungarian
+district,Baramulla,BARAMULLA,crosswalk fuzzy
+district,Bandipora,BANDIPORA,crosswalk hungarian
+district,Budgam,BUDGAM,crosswalk hungarian
+district,Poonch,POONCH,crosswalk hungarian
+district,Rajouri,RAJOURI,crosswalk hungarian
+district,Reasi,REASI,crosswalk hungarian
+district,Shopian,SHOPIAN,crosswalk hungarian
+district,Sahebganj,SAHEBGANJ,crosswalk hungarian
+district,Ballari,BALLARI,crosswalk hungarian
+district,Belagavi,BELAGAVI,crosswalk hungarian
+district,Bengaluru Rural,BENGALURU,crosswalk hungarian
+district,Bengaluru Urban,BENGALURU,crosswalk hungarian
+district,Bidar,BIDAR,crosswalk hungarian
+district,Chamarajanagara,CHAMARAJANAGARA,crosswalk hungarian
+district,Chikkaballapura,CHIKKABALLAPURA,crosswalk hungarian
+district,Chikkamagaluru,CHIKKAMAGALURU,crosswalk hungarian
+district,Dharwad,DHARWAD,crosswalk hungarian
+district,Hassan,HASSAN,crosswalk hungarian
+district,Haveri,HAVERI,crosswalk hungarian
+district,Kolar,KOLAR,crosswalk hungarian
+district,Mysuru,MYSURU,crosswalk hungarian
+district,Raichur,RAICHUR,crosswalk hungarian
+district,Ramanagara,RAMANAGARA,crosswalk hungarian
+district,Tumakuru,TUMAKURU,crosswalk hungarian
+district,Yadgir,YADGIR,crosswalk hungarian
+district,Narsimhapur,NARSIMHAPUR,crosswalk hungarian
+district,Raigad,RAIGAD,crosswalk hungarian
+district,East Garo Hills,EAST GARO HILLS,crosswalk fuzzy
+district,East Khasi Hills,EAST KHASI HILLS,crosswalk fuzzy
+district,North Garo Hills,NORTH GARO HILLS,crosswalk fuzzy
+district,South Garo Hills,SOUTH GARO HILLS,crosswalk fuzzy
+district,South West Garo Hills,SOUTH WEST GARO HILLS,crosswalk fuzzy
+district,South West Khasi Hills,SOUTH WEST KHASI HILLS,crosswalk fuzzy
+district,West Garo Hills,WEST GARO HILLS,crosswalk fuzzy
+district,Siaha,SIAHA,crosswalk hungarian
+district,Jagatsinghapur,JAGATSINGHAPUR,crosswalk fuzzy
+district,Nabarangpur,NABARANGPUR,crosswalk fuzzy
+district,Kendujhar,KENDUJHAR,crosswalk hungarian
+district,Nuapada,NUAPADA,crosswalk hungarian
+district,Rayagada,RAYAGADA,crosswalk hungarian
+district,Ferozepur,FEROZEPUR,crosswalk hungarian
+district,Jhunjhunu,JHUNJHUNU,crosswalk fuzzy
+district,Chittorgarh,CHITTORGARH,crosswalk hungarian
+district,Dholpur,DHOLPUR,crosswalk hungarian
+district,Jalore,JALORE,crosswalk hungarian
+district,Kallakurichi,KALLAKURICHI,crosswalk fuzzy
+district,Villupuram,VILLUPURAM,crosswalk hungarian
+district,Jagitial,JAGITIAL,crosswalk fuzzy
+district,Jayashankar Bhupalapally,JAYASHANKAR BHUPALAPALLY,crosswalk fuzzy
+district,Medchal Malkajgiri,MEDCHAL MALKAJGIRI,crosswalk fuzzy
+district,Suryapet,SURYAPET,crosswalk fuzzy
+district,Kumuram Bheem Asifabad,KUMURAM BHEEM ASIFABAD,crosswalk hungarian
+district,Wanaparthy,WANAPARTHY,crosswalk hungarian
+district,Gomati,GOMATI,crosswalk hungarian
+district,Barabanki,BARABANKI,crosswalk fuzzy
+district,Kushi Nagar,KUSHI NAGAR,crosswalk fuzzy
+district,Siddharth Nagar,SIDDHARTH NAGAR,crosswalk fuzzy
+district,Pauri Garhwal,PAURI GARHWAL,crosswalk fuzzy
+district,Tehri Garhwal,TEHRI GARHWAL,crosswalk fuzzy
+district,Udam Singh Nagar,UDAM SINGH NAGAR,crosswalk fuzzy
+district,Bageshwar,BAGESHWAR,crosswalk hungarian
+district,Champawat,CHAMPAWAT,crosswalk hungarian
+district,Dehradun,DEHRADUN,crosswalk hungarian
+district,Haridwar,HARIDWAR,crosswalk hungarian
+district,Nainital,NAINITAL,crosswalk hungarian
+district,Pithoragarh,PITHORAGARH,crosswalk hungarian
+district,Rudra Prayag,RUDRA PRAYAG,crosswalk hungarian
+district,Uttar Kashi,UTTAR KASHI,crosswalk hungarian
+district,Dakshin Dinajpur,DAKSHIN DINAJPUR,crosswalk fuzzy
+district,Paschim Medinipur,PASCHIM MEDINIPUR,crosswalk fuzzy
+district,Purba Medinipur,PURBA MEDINIPUR,crosswalk fuzzy
+district,Purulia,PURULIA,crosswalk fuzzy
+district,South 24 Parganas,SOUTH 24 PARGANAS,crosswalk fuzzy
+district,Uttar Dinajpur,UTTAR DINAJPUR,crosswalk fuzzy
+district,Alipurduar,ALIPURDUAR,crosswalk hungarian
+district,Bankura,BANKURA,crosswalk hungarian
+district,Birbhum,BIRBHUM,crosswalk hungarian
+district,Darjeeling,DARJEELING,crosswalk hungarian
+district,Howrah,HOWRAH,crosswalk hungarian
+district,Jalpaiguri,JALPAIGURI,crosswalk hungarian
+district,Kalimpong,KALIMPONG,crosswalk hungarian
+district,Kolkata,KOLKATA,crosswalk hungarian
+district,Malda,MALDA,crosswalk hungarian
+district,Murshidabad,MURSHIDABAD,crosswalk hungarian
+district,North 24 Parganas,NORTH 24 PARGANAS,crosswalk hungarian
+district,Purba Bardhaman,PURBA BARDHAMAN,crosswalk hungarian
+district,Visakhapatnam,VISAKHAPATNAM,crosswalk fuzzy
+district,Ananthapuramu,ANANTHAPURAMU,crosswalk hungarian
+district,Dr. B.R. Ambedkar Konaseema,DR B R AMBEDKAR KONASEEMA,crosswalk hungarian
+district,Sri Potti Sriramulu Nellore,SRI POTTI SRIRAMULU NELLORE,crosswalk hungarian
+district,Uttar Bastar Kanker,UTTAR BASTAR KANKER,crosswalk hungarian
+district,Mahrajganj,MAHRAJGANJ,crosswalk fuzzy
+district,Sant Kabir Nagar,SANT KABIR NAGAR,crosswalk hungarian
+district,Shrawasti,SHRAWASTI,crosswalk hungarian

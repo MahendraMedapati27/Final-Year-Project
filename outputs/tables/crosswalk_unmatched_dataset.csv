@@ -1,0 +1,2 @@
+dataset_state,dataset_district,state_std,district_std,shp_id,match_method,match_score,needs_review,note
+Madhya Pradesh,Khandwa (East Nimar),MADHYA PRADESH,KHANDWA,,unmatched,0.0,True,no polygon; active 2021-01-01–2026-09-19 (1798 days) — name not in boundary layer

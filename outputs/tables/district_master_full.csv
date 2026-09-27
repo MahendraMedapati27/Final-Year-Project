@@ -1,0 +1,736 @@
+state,district,first_date,last_date,n_days,n_obj_ids,n_null_actual
+Andaman and Nicobar Islands,Nicobars,2021-01-01,2026-09-19,1798,1,2168
+Andaman and Nicobar Islands,North and Middle Andaman,2021-01-01,2026-09-19,1798,1,2168
+Andaman and Nicobar Islands,South Andamans,2021-01-01,2026-09-19,1798,1,2168
+Andaman and Nicobar Islands,Unknown Districts Of India,2021-01-01,2023-12-31,1084,0,1
+Andhra Pradesh,Alluri Sitharama Raju,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Anakapalli,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Ananthapuramu,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Annamayya,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Bapatla,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Chittoor,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,East Godavari,2021-01-01,2026-09-19,1798,1,351
+Andhra Pradesh,Eluru,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Guntur,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Kakinada,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Krishna,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Kurnool,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Nandyal,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Ntr,2023-01-20,2026-09-19,1044,1,1
+Andhra Pradesh,Palnadu,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Parvathipuram Manyam,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Prakasam,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Sri Sathya Sai,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Srikakulam,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Tirupati,2023-01-20,2026-09-19,1044,1,0
+Andhra Pradesh,Visakhapatnam,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Vizianagaram,2021-01-01,2026-09-19,1798,1,1
+Andhra Pradesh,West Godavari,2021-01-01,2026-09-19,1798,1,0
+Andhra Pradesh,Y.S.R.,2021-01-01,2026-09-19,1798,1,0
+Arunachal Pradesh,Anjaw,2021-01-01,2026-09-19,1798,1,78
+Arunachal Pradesh,Changlang,2021-01-01,2026-09-19,1798,1,23
+Arunachal Pradesh,Dibang Valley,2021-01-01,2026-09-19,1798,1,604
+Arunachal Pradesh,East Kameng,2021-01-01,2026-09-19,1798,1,35
+Arunachal Pradesh,East Siang,2021-01-01,2026-09-19,1798,1,4
+Arunachal Pradesh,Kurung Kumey,2021-01-01,2026-09-19,1798,1,411
+Arunachal Pradesh,Lohit,2021-01-01,2026-09-19,1798,1,7
+Arunachal Pradesh,Lower Dibang Valley,2021-01-01,2026-09-19,1798,1,81
+Arunachal Pradesh,Lower Subansiri,2021-01-01,2026-09-19,1798,1,5
+Arunachal Pradesh,Papum Pare,2021-01-01,2026-09-19,1797,1,5
+Arunachal Pradesh,Tawang,2021-01-01,2026-09-19,1798,1,29
+Arunachal Pradesh,Tirap,2021-01-01,2026-09-19,1798,1,573
+Arunachal Pradesh,Upper Siang,2021-01-01,2026-09-19,1798,1,18
+Arunachal Pradesh,Upper Subansiri,2021-01-01,2026-09-19,1798,1,129
+Arunachal Pradesh,West Kameng,2021-01-01,2026-09-19,1798,1,0
+Arunachal Pradesh,West Siang,2021-01-01,2026-09-19,1798,1,10
+Assam,Bajali,2026-05-15,2026-09-19,91,1,0
+Assam,Baksa,2021-01-01,2026-09-19,1798,1,3
+Assam,Barpeta,2021-01-01,2026-09-19,1798,1,6
+Assam,Biswanath,2025-10-13,2026-09-19,250,1,0
+Assam,Bongaigaon,2021-01-01,2026-09-19,1798,1,14
+Assam,Cachar,2021-01-01,2026-09-19,1798,1,4
+Assam,Charaideo,2025-10-13,2026-09-19,250,1,0
+Assam,Chirang,2021-01-01,2026-09-19,1798,1,6
+Assam,Darrang,2021-01-01,2026-09-19,1798,1,106
+Assam,Dhemaji,2021-01-01,2026-09-19,1798,1,9
+Assam,Dhubri,2021-01-01,2026-09-19,1798,1,0
+Assam,Dibrugarh,2021-01-01,2026-09-19,1798,1,1
+Assam,Dima Hasao,2021-01-01,2026-09-19,1797,1,22
+Assam,Goalpara,2021-01-01,2026-09-19,1798,1,4
+Assam,Golaghat,2021-01-01,2026-09-19,1798,1,4
+Assam,Hailakandi,2021-01-01,2026-09-19,1798,1,100
+Assam,Hojai,2025-10-13,2026-09-19,250,1,0
+Assam,Jorhat,2021-01-01,2026-09-19,1798,1,2
+Assam,Kamrup,2021-01-01,2026-09-19,1797,1,38
+Assam,Kamrup Metro,2021-01-01,2026-09-19,1797,1,3
+Assam,Karbi Anglong,2021-01-01,2026-09-19,1797,1,3
+Assam,Karimganj,2021-01-01,2025-10-08,1548,1,213
+Assam,Kokrajhar,2021-01-01,2026-09-19,1798,1,7
+Assam,Lakhimpur,2021-01-01,2026-09-19,1798,1,2
+Assam,Majuli,2025-10-13,2026-09-19,250,1,0
+Assam,Marigaon,2021-01-01,2026-09-19,1798,1,74
+Assam,Nagaon,2021-01-01,2026-09-19,1798,1,1
+Assam,Nalbari,2021-01-01,2026-09-19,1798,1,29
+Assam,Sivasagar,2021-01-01,2026-09-19,1798,1,5
+Assam,Sonitpur,2021-01-01,2026-09-19,1797,1,3
+Assam,Tamulpur,2026-05-15,2026-09-19,91,1,0
+Assam,Tinsukia,2021-01-01,2026-09-19,1798,1,7
+Assam,Udalguri,2021-01-01,2026-09-19,1798,1,5
+Assam,West Karbi Anglong,2025-05-06,2026-09-19,385,1,0
+Bihar,Araria,2021-01-01,2026-09-19,1797,1,0
+Bihar,Arwal,2021-01-01,2026-09-19,1798,1,4
+Bihar,Aurangabad,2021-01-01,2026-09-19,1798,1,1
+Bihar,Banka,2021-01-01,2026-09-19,1798,1,6
+Bihar,Begusarai,2021-01-01,2026-09-19,1798,1,5
+Bihar,Bhagalpur,2021-01-01,2026-09-19,1798,1,2
+Bihar,Bhojpur,2021-01-01,2026-09-19,1798,1,8
+Bihar,Buxar,2021-01-01,2026-09-19,1798,1,2
+Bihar,Darbhanga,2021-01-01,2026-09-19,1797,1,0
+Bihar,Gaya,2021-01-01,2026-09-19,1798,1,0
+Bihar,Gopalganj,2021-01-01,2026-09-19,1798,1,1
+Bihar,Jamui,2021-01-01,2026-09-19,1798,1,3
+Bihar,Jehanabad,2021-01-01,2026-09-19,1798,1,1
+Bihar,Kaimur (Bhabua),2021-01-01,2026-09-19,1798,1,2
+Bihar,Katihar,2021-01-01,2026-09-19,1798,1,5
+Bihar,Khagaria,2021-01-01,2026-09-19,1798,1,1
+Bihar,Kishanganj,2021-01-01,2026-09-19,1798,1,1
+Bihar,Lakhisarai,2021-01-01,2026-09-19,1798,1,2
+Bihar,Madhepura,2021-01-01,2026-09-19,1798,1,12
+Bihar,Madhubani,2021-01-01,2026-09-19,1797,1,0
+Bihar,Munger,2021-01-01,2026-09-19,1797,1,0
+Bihar,Muzaffarpur,2021-01-01,2026-09-19,1798,1,0
+Bihar,Nalanda,2021-01-01,2026-09-19,1798,1,0
+Bihar,Nawada,2021-01-01,2026-09-19,1798,1,1
+Bihar,Pashchim Champaran,2021-01-01,2026-09-19,1797,1,0
+Bihar,Patna,2021-01-01,2026-09-19,1798,1,0
+Bihar,Purbi Champaran,2021-01-01,2026-09-19,1797,1,0
+Bihar,Purnia,2021-01-01,2026-09-19,1797,1,0
+Bihar,Rohtas,2021-01-01,2026-09-19,1798,1,0
+Bihar,Saharsa,2021-01-01,2026-09-19,1798,1,2
+Bihar,Samastipur,2021-01-01,2026-09-19,1798,1,1
+Bihar,Saran,2021-01-01,2026-09-19,1798,1,1
+Bihar,Sheikhpura,2021-01-01,2026-09-19,1798,1,11
+Bihar,Sheohar,2021-01-01,2026-09-19,1798,1,12
+Bihar,Sitamarhi,2021-01-01,2026-09-19,1798,1,1
+Bihar,Siwan,2021-01-01,2026-09-19,1798,1,4
+Bihar,Supaul,2021-01-01,2026-09-19,1798,1,1
+Bihar,Vaishali,2021-01-01,2026-09-19,1798,1,3
+Chandigarh,Chandigarh,2021-01-01,2026-09-19,1797,1,0
+Chhattisgarh,Balod,2021-01-01,2026-09-19,1800,1,10
+Chhattisgarh,Balodabazar-Bhatapara,2021-01-01,2026-09-19,1800,1,16
+Chhattisgarh,Balrampur Ramanujganj,2021-01-01,2026-09-19,1800,1,12
+Chhattisgarh,Bastar,2021-01-01,2026-09-19,1800,1,1
+Chhattisgarh,Bemetara,2021-01-01,2026-09-19,1800,1,15
+Chhattisgarh,Bijapur,2021-01-01,2026-09-19,1799,1,24
+Chhattisgarh,Bilaspur,2021-01-01,2026-09-19,1800,1,1
+Chhattisgarh,Dakshin Bastar Dantewada,2021-01-01,2026-09-19,1799,1,35
+Chhattisgarh,Dhamtari,2021-01-01,2026-09-19,1800,1,275
+Chhattisgarh,Durg,2021-01-01,2026-09-19,1800,1,10
+Chhattisgarh,Gariyaband,2021-01-01,2026-09-19,1800,1,31
+Chhattisgarh,Janjgir-Champa,2021-01-01,2026-09-19,1799,1,17
+Chhattisgarh,Jashpur,2021-01-01,2026-09-19,1800,1,25
+Chhattisgarh,Kabeerdham,2021-01-01,2026-09-19,1800,1,12
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2024-08-14,2026-09-19,575,1,0
+Chhattisgarh,Kondagaon,2021-01-01,2026-09-19,1800,1,31
+Chhattisgarh,Korba,2021-01-01,2026-09-19,1800,1,13
+Chhattisgarh,Korea,2021-01-01,2026-09-19,1800,1,17
+Chhattisgarh,Mahasamund,2021-01-01,2026-09-19,1800,1,39
+Chhattisgarh,Manendragarh Chirmiri Bharatpur Mcb,2024-08-14,2026-09-19,575,1,0
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2024-08-14,2026-09-19,575,1,0
+Chhattisgarh,Mungeli,2021-01-01,2026-09-19,1800,1,2
+Chhattisgarh,Narayanpur,2021-01-01,2026-09-19,1800,1,285
+Chhattisgarh,Raigarh,2021-01-01,2026-09-19,1799,2,1336
+Chhattisgarh,Raipur,2021-01-01,2026-09-19,1800,1,3
+Chhattisgarh,Rajnandgaon,2021-01-01,2026-09-19,1800,1,6
+Chhattisgarh,Sakti,2024-08-14,2026-09-19,575,1,0
+Chhattisgarh,Sukma,2021-01-01,2026-09-19,1800,1,27
+Chhattisgarh,Surajpur,2021-01-01,2026-09-19,1800,1,271
+Chhattisgarh,Surguja,2021-01-01,2026-09-19,1800,1,7
+Chhattisgarh,Unknown Districts Of India,2024-02-25,2026-09-16,703,6,0
+Chhattisgarh,Uttar Bastar Kanker,2021-01-01,2026-09-19,1800,1,287
+Delhi,Central,2021-01-01,2026-09-19,1798,1,111
+Delhi,East,2021-01-01,2026-09-19,1798,1,18
+Delhi,New Delhi,2021-01-01,2026-09-19,1798,1,10
+Delhi,North,2021-01-01,2026-09-19,1798,1,9
+Delhi,North East,2021-01-01,2026-09-19,1798,1,64
+Delhi,North West,2021-01-01,2026-09-19,1798,1,10
+Delhi,South,2021-01-01,2026-09-19,1798,1,8
+Delhi,South East,2025-05-06,2026-09-19,385,1,0
+Delhi,South West,2021-01-01,2026-09-19,1798,1,8
+Delhi,West,2021-01-01,2026-09-19,1798,1,26
+Goa,North Goa,2021-01-01,2026-09-19,1798,1,2
+Goa,South Goa,2021-01-01,2026-09-19,1798,1,3
+Gujarat,Ahmadabad,2021-01-01,2026-09-19,1797,1,0
+Gujarat,Amreli,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Anand,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Arvalli,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Banas Kantha,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Bharuch,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Bhavnagar,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Botad,2021-01-01,2026-09-19,1798,1,2
+Gujarat,Chhotaudepur,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Dang,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Devbhumi Dwarka,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Dohad,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Gandhinagar,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Gir Somnath,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Jamnagar,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Junagadh,2021-01-01,2026-09-19,1797,1,1
+Gujarat,Kachchh,2021-01-01,2026-09-19,1797,1,1
+Gujarat,Kheda,2021-01-01,2026-09-19,1797,1,0
+Gujarat,Mahesana,2021-01-01,2026-09-19,1797,1,1
+Gujarat,Mahisagar,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Morbi,2021-01-01,2026-09-19,1798,1,3
+Gujarat,Narmada,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Navsari,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Panch Mahals,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Patan,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Porbandar,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Rajkot,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Sabar Kantha,2021-01-01,2026-09-19,1797,1,1
+Gujarat,Surat,2021-01-01,2026-09-19,1798,1,0
+Gujarat,Surendranagar,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Tapi,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Vadodara,2021-01-01,2026-09-19,1798,1,1
+Gujarat,Valsad,2021-01-01,2026-09-19,1798,1,0
+Haryana,Ambala,2021-01-01,2026-09-19,1798,1,0
+Haryana,Bhiwani,2021-01-01,2026-09-19,1798,1,1
+Haryana,Charki Dadri,2021-06-01,2026-09-19,1652,1,0
+Haryana,Faridabad,2021-01-01,2026-09-19,1798,1,1
+Haryana,Fatehabad,2021-01-01,2026-09-19,1798,1,1
+Haryana,Gurugram,2021-01-01,2026-09-19,1798,1,0
+Haryana,Hisar,2021-01-01,2026-09-19,1798,1,0
+Haryana,Jhajjar,2021-01-01,2026-09-19,1798,1,0
+Haryana,Jind,2021-01-01,2026-09-19,1798,1,0
+Haryana,Kaithal,2021-01-01,2026-09-19,1798,1,1
+Haryana,Karnal,2021-01-01,2026-09-19,1798,1,0
+Haryana,Kurukshetra,2021-01-01,2026-09-19,1798,1,0
+Haryana,Mahendragarh,2021-01-01,2026-09-19,1798,1,0
+Haryana,Nuh,2021-01-01,2026-09-19,1798,1,0
+Haryana,Palwal,2021-01-01,2026-09-19,1798,1,0
+Haryana,Panchkula,2021-01-01,2026-09-19,1798,1,3
+Haryana,Panipat,2021-01-01,2026-09-19,1798,1,0
+Haryana,Rewari,2021-01-01,2026-09-19,1798,1,0
+Haryana,Rohtak,2021-01-01,2026-09-19,1798,1,0
+Haryana,Sirsa,2021-01-01,2026-09-19,1798,1,2
+Haryana,Sonipat,2021-01-01,2026-09-19,1797,1,0
+Haryana,Yamunanagar,2021-01-01,2026-09-19,1797,1,0
+Himachal Pradesh,Bilaspur,2021-01-01,2026-09-19,1798,1,0
+Himachal Pradesh,Chamba,2021-01-01,2026-09-19,1798,1,2
+Himachal Pradesh,Hamirpur,2021-01-01,2026-09-19,1798,1,1
+Himachal Pradesh,Kangra,2021-01-01,2026-09-19,1798,1,0
+Himachal Pradesh,Kinnaur,2021-01-01,2026-09-19,1798,1,1
+Himachal Pradesh,Kullu,2021-01-01,2026-09-19,1798,1,6
+Himachal Pradesh,Lahul and Spiti,2021-01-01,2026-09-19,1797,1,5
+Himachal Pradesh,Mandi,2021-01-01,2026-09-19,1798,1,2
+Himachal Pradesh,Shimla,2021-01-01,2026-09-19,1798,1,2
+Himachal Pradesh,Sirmaur,2021-01-01,2026-09-19,1798,1,0
+Himachal Pradesh,Solan,2021-01-01,2026-09-19,1798,1,1
+Himachal Pradesh,Una,2021-01-01,2026-09-19,1798,1,4
+Jammu and Kashmir,Anantnag,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Bandipora,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Baramulla,2021-01-01,2026-09-19,1798,1,1
+Jammu and Kashmir,Budgam,2021-01-01,2026-09-19,1798,1,1
+Jammu and Kashmir,Doda,2021-01-01,2026-09-19,1798,1,4
+Jammu and Kashmir,Ganderbal,2021-01-01,2026-09-19,1797,1,18
+Jammu and Kashmir,Jammu,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Kathua,2021-01-01,2026-09-19,1798,1,3
+Jammu and Kashmir,Kishtwar,2021-01-01,2026-09-19,1798,1,704
+Jammu and Kashmir,Kulgam,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Kupwara,2021-01-01,2026-09-19,1798,1,2
+Jammu and Kashmir,Poonch,2021-01-01,2026-09-19,1797,1,300
+Jammu and Kashmir,Pulwama,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Rajouri,2021-01-01,2026-09-19,1798,1,10
+Jammu and Kashmir,Ramban,2021-01-01,2026-09-19,1798,1,0
+Jammu and Kashmir,Reasi,2021-01-01,2026-09-19,1797,1,4
+Jammu and Kashmir,Samba,2021-01-01,2026-09-19,1798,1,153
+Jammu and Kashmir,Shopian,2021-01-01,2026-09-19,1798,1,32
+Jammu and Kashmir,Srinagar,2021-01-01,2026-09-19,1798,1,2
+Jammu and Kashmir,Udhampur,2021-01-01,2026-09-19,1798,1,8
+Jharkhand,Bokaro,2021-01-01,2026-09-19,1798,1,0
+Jharkhand,Chatra,2021-01-01,2026-09-19,1798,1,2
+Jharkhand,Deoghar,2021-01-01,2026-09-19,1798,1,1
+Jharkhand,Dhanbad,2021-01-01,2026-09-19,1798,1,0
+Jharkhand,Dumka,2021-01-01,2026-09-19,1798,1,3
+Jharkhand,East Singhbum,2021-01-01,2026-09-19,1797,1,3
+Jharkhand,Garhwa,2021-01-01,2026-09-19,1798,1,6
+Jharkhand,Giridih,2021-01-01,2026-09-19,1798,1,1
+Jharkhand,Godda,2021-01-01,2026-09-19,1798,1,5
+Jharkhand,Gumla,2021-01-01,2026-09-19,1798,1,3
+Jharkhand,Hazaribagh,2021-01-01,2026-09-19,1797,1,0
+Jharkhand,Jamtara,2021-01-01,2026-09-19,1798,1,6
+Jharkhand,Khunti,2021-01-01,2026-09-19,1798,1,2
+Jharkhand,Koderma,2021-01-01,2026-09-19,1798,1,5
+Jharkhand,Latehar,2021-01-01,2026-09-19,1798,1,3
+Jharkhand,Lohardaga,2021-01-01,2026-09-19,1798,1,5
+Jharkhand,Pakur,2021-01-01,2026-09-19,1798,1,6
+Jharkhand,Palamu,2021-01-01,2026-09-19,1798,1,3
+Jharkhand,Ramgarh,2021-01-01,2026-09-19,1798,1,0
+Jharkhand,Ranchi,2021-01-01,2026-09-19,1798,1,2
+Jharkhand,Sahebganj,2021-01-01,2026-09-19,1797,1,5
+Jharkhand,Saraikela Kharsawan,2021-01-01,2026-09-19,1797,1,14
+Jharkhand,Simdega,2021-01-01,2026-09-19,1798,1,4
+Jharkhand,West Singhbhum,2021-01-01,2026-09-19,1797,1,2
+Karnataka,Bagalkote,2021-01-01,2026-09-19,1797,1,4
+Karnataka,Ballari,2021-01-01,2026-09-19,1797,1,21
+Karnataka,Belagavi,2021-01-01,2026-09-19,1797,1,1
+Karnataka,Bengaluru Rural,2021-01-01,2026-09-19,1797,1,14
+Karnataka,Bengaluru Urban,2021-01-01,2026-09-19,1797,1,3
+Karnataka,Bidar,2021-01-01,2026-09-19,1798,1,4
+Karnataka,Chamarajanagara,2021-01-01,2026-09-19,1798,1,8
+Karnataka,Chikkaballapura,2021-01-01,2026-09-19,1797,1,5
+Karnataka,Chikkamagaluru,2021-01-01,2026-09-19,1797,1,1
+Karnataka,Chitradurga,2021-01-01,2026-09-19,1798,1,5
+Karnataka,Dakshina Kannada,2021-01-01,2026-09-19,1797,1,2
+Karnataka,Davangere,2021-01-01,2026-09-19,1798,1,3
+Karnataka,Dharwad,2021-01-01,2026-09-19,1798,1,5
+Karnataka,Gadag,2021-01-01,2026-09-19,1798,1,4
+Karnataka,Hassan,2021-01-01,2026-09-19,1798,1,7
+Karnataka,Haveri,2021-01-01,2026-09-19,1798,1,5
+Karnataka,Kalaburagi,2021-01-01,2026-09-19,1797,1,3
+Karnataka,Kodagu,2021-01-01,2026-09-19,1798,1,3
+Karnataka,Kolar,2021-01-01,2026-09-19,1798,1,6
+Karnataka,Koppal,2021-01-01,2026-09-19,1798,1,2
+Karnataka,Mandya,2021-01-01,2026-09-19,1797,1,2
+Karnataka,Mysuru,2021-01-01,2026-09-19,1797,1,0
+Karnataka,Raichur,2021-01-01,2026-09-19,1798,1,3
+Karnataka,Ramanagara,2021-01-01,2026-09-19,1797,1,15
+Karnataka,Shivamogga,2021-01-01,2026-09-19,1797,1,2
+Karnataka,Tumakuru,2021-01-01,2026-09-19,1797,1,0
+Karnataka,Udupi,2021-01-01,2026-09-19,1798,1,1
+Karnataka,Uttara Kannada,2021-01-01,2026-09-19,1797,1,0
+Karnataka,Vijayapura,2021-01-01,2026-09-19,1798,2,13
+Karnataka,Yadgir,2021-01-01,2026-09-19,1798,1,8
+Kerala,Alappuzha,2021-01-01,2026-09-19,1797,1,0
+Kerala,Ernakulam,2021-01-01,2026-09-19,1798,1,0
+Kerala,Idukki,2021-01-01,2026-09-19,1798,1,0
+Kerala,Kannur,2021-01-01,2026-09-19,1797,1,0
+Kerala,Kasaragod,2021-01-01,2026-09-19,1798,1,2
+Kerala,Kollam,2021-01-01,2026-09-19,1798,1,2
+Kerala,Kottayam,2021-01-01,2026-09-19,1797,1,2
+Kerala,Kozhikode,2021-01-01,2026-09-19,1797,1,2
+Kerala,Malappuram,2021-01-01,2026-09-19,1798,1,2
+Kerala,Palakkad,2021-01-01,2026-09-19,1798,1,2
+Kerala,Pathanamthitta,2021-01-01,2026-09-19,1797,1,0
+Kerala,Thiruvananthapuram,2021-01-01,2026-09-19,1797,1,0
+Kerala,Thrissur,2021-01-01,2026-09-19,1797,1,1
+Kerala,Wayanad,2021-01-01,2026-09-19,1797,1,0
+Ladakh,Kargil,2021-01-01,2026-09-19,1798,1,28
+Ladakh,Leh Ladakh,2021-01-01,2026-09-19,1797,1,2
+Lakshadweep,Lakshadweep District,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Agar-Malwa,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Alirajpur,2021-01-01,2026-09-19,1798,1,2
+Madhya Pradesh,Anuppur,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Ashoknagar,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Balaghat,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Barwani,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Betul,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Bhind,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Bhopal,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Burhanpur,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Chhatarpur,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Chhindwara,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Damoh,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Datia,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Dewas,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Dhar,2021-01-01,2026-09-19,1798,1,2
+Madhya Pradesh,Dindori,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Guna,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Gwalior,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Harda,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Indore,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Jabalpur,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Jhabua,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Katni,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Khandwa (East Nimar),2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Khargone (West Nimar),2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Mandla,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Mandsaur,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Morena,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Narmadapuram,2021-01-01,2026-09-19,1798,1,8
+Madhya Pradesh,Narsimhapur,2021-01-01,2026-09-19,1797,1,0
+Madhya Pradesh,Neemuch,2021-01-01,2026-09-19,1797,1,0
+Madhya Pradesh,Niwari,2021-11-16,2026-09-19,1487,1,0
+Madhya Pradesh,Panna,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Raisen,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Rajgarh,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Ratlam,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Rewa,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Sagar,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Satna,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Sehore,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Seoni,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Shahdol,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Shajapur,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Sheopur,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Shivpuri,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Sidhi,2021-01-01,2026-09-19,1798,1,1
+Madhya Pradesh,Singrauli,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Tikamgarh,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Ujjain,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Umaria,2021-01-01,2026-09-19,1798,1,0
+Madhya Pradesh,Vidisha,2021-01-01,2026-09-19,1797,1,1
+Maharashtra,Ahmednagar,2021-01-01,2026-09-19,1797,1,44
+Maharashtra,Akola,2021-01-01,2026-09-19,1798,1,141
+Maharashtra,Amravati,2021-01-01,2026-09-19,1797,1,137
+Maharashtra,Beed,2021-01-01,2026-09-19,1797,1,2
+Maharashtra,Bhandara,2021-01-01,2026-09-19,1798,1,61
+Maharashtra,Buldhana,2021-01-01,2026-09-19,1798,1,40
+Maharashtra,Chandrapur,2021-01-01,2026-09-19,1798,1,7
+Maharashtra,Chhatrapati Sambhajinagar,2021-01-01,2026-09-19,1681,1,2
+Maharashtra,Dharashiv,2021-01-01,2026-09-19,1681,1,4
+Maharashtra,Dhule,2021-01-01,2026-09-19,1798,1,74
+Maharashtra,Gadchiroli,2021-01-01,2026-09-19,1798,1,89
+Maharashtra,Gondia,2021-01-01,2026-09-19,1797,1,6
+Maharashtra,Hingoli,2021-01-01,2026-09-19,1798,1,57
+Maharashtra,Jalgaon,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Jalna,2021-01-01,2026-09-19,1798,1,2
+Maharashtra,Kolhapur,2021-01-01,2026-09-19,1798,1,0
+Maharashtra,Latur,2021-01-01,2026-09-19,1798,1,52
+Maharashtra,Mumbai,2021-01-01,2026-09-19,1798,1,3
+Maharashtra,Nagpur,2021-01-01,2026-09-19,1798,1,16
+Maharashtra,Nanded,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Nandurbar,2021-01-01,2026-09-19,1798,1,47
+Maharashtra,Nashik,2021-01-01,2026-09-19,1797,1,0
+Maharashtra,Palghar,2021-01-01,2026-09-19,1798,1,4
+Maharashtra,Parbhani,2021-01-01,2026-09-19,1798,1,3
+Maharashtra,Pune,2021-01-01,2026-09-19,1798,1,3
+Maharashtra,Raigad,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Ratnagiri,2021-01-01,2026-09-19,1798,1,0
+Maharashtra,Sangli,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Satara,2021-01-01,2026-09-19,1798,1,0
+Maharashtra,Sindhudurg,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Solapur,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Thane,2021-01-01,2026-09-19,1798,1,1
+Maharashtra,Unknown Districts Of India,2024-02-25,2026-09-16,703,1,1
+Maharashtra,Wardha,2021-01-01,2026-09-19,1798,1,93
+Maharashtra,Washim,2021-01-01,2026-09-19,1798,1,156
+Maharashtra,Yavatmal,2021-01-01,2026-09-19,1797,1,26
+Manipur,Bishnupur,2021-01-01,2026-09-19,1798,1,22
+Manipur,Chandel,2021-01-01,2026-09-19,1798,1,19
+Manipur,Churachandpur,2021-01-01,2026-09-19,1798,1,26
+Manipur,Imphal East,2021-01-01,2026-09-19,1798,1,4
+Manipur,Imphal West,2021-01-01,2026-09-19,1798,1,116
+Manipur,Senapati,2021-01-01,2026-09-19,1798,1,173
+Manipur,Tamenglong,2021-01-01,2026-09-19,1798,1,27
+Manipur,Thoubal,2021-01-01,2026-09-19,1798,1,127
+Manipur,Ukhrul,2021-01-01,2026-09-19,1798,1,51
+Meghalaya,East Garo Hills,2021-01-01,2026-09-19,1798,1,11
+Meghalaya,East Jaintia Hills,2022-06-01,2026-09-19,1290,1,57
+Meghalaya,East Khasi Hills,2021-01-01,2026-09-19,1798,1,0
+Meghalaya,North Garo Hills,2022-06-01,2026-09-19,1290,1,55
+Meghalaya,Ri Bhoi,2021-01-01,2026-09-19,1797,1,0
+Meghalaya,South Garo Hills,2021-01-01,2026-09-19,1798,1,24
+Meghalaya,South West Garo Hills,2022-06-01,2026-09-19,1290,1,36
+Meghalaya,South West Khasi Hills,2022-06-01,2026-09-19,1290,1,11
+Meghalaya,West Garo Hills,2021-01-01,2026-09-19,1798,1,9
+Meghalaya,West Jaintia Hills,2021-01-01,2026-09-19,1798,1,93
+Meghalaya,West Khasi Hills,2021-01-01,2026-09-19,1798,1,44
+Mizoram,Aizawl,2021-01-01,2026-09-19,1797,1,10
+Mizoram,Champhai,2021-01-01,2026-09-19,1798,1,26
+Mizoram,Kolasib,2021-01-01,2026-09-19,1798,1,27
+Mizoram,Lawngtlai,2021-01-01,2026-09-19,1798,1,14
+Mizoram,Lunglei,2021-01-01,2026-09-19,1798,1,103
+Mizoram,Mamit,2021-01-01,2026-09-19,1798,1,62
+Mizoram,Serchhip,2021-01-01,2026-09-19,1798,1,46
+Mizoram,Siaha,2021-01-01,2026-09-19,1798,1,1
+Nagaland,Dimapur,2021-01-01,2026-09-19,1798,1,19
+Nagaland,Kiphire,2021-01-01,2026-09-19,1798,1,253
+Nagaland,Kohima,2021-01-01,2026-09-19,1798,1,11
+Nagaland,Longleng,2021-01-01,2026-09-19,1798,1,851
+Nagaland,Mokokchung,2021-01-01,2026-09-19,1798,1,8
+Nagaland,Mon,2021-01-01,2026-09-19,1798,1,866
+Nagaland,Peren,2021-01-01,2026-09-19,1797,1,336
+Nagaland,Phek,2021-01-01,2026-09-19,1798,1,216
+Nagaland,Tuensang,2021-01-01,2026-09-19,1798,1,257
+Nagaland,Wokha,2021-01-01,2026-09-19,1798,1,393
+Nagaland,Zunheboto,2021-01-01,2026-09-19,1798,1,214
+Odisha,Anugul,2021-01-01,2026-09-19,1797,1,0
+Odisha,Balangir,2021-01-01,2026-09-19,1797,1,0
+Odisha,Baleshwar,2021-01-01,2026-09-19,1797,1,0
+Odisha,Bargarh,2021-01-01,2026-09-19,1797,1,2
+Odisha,Bhadrak,2021-01-01,2026-09-19,1798,1,0
+Odisha,Boudh,2021-01-01,2026-09-19,1797,1,0
+Odisha,Cuttack,2021-01-01,2026-09-19,1798,1,0
+Odisha,Deogarh,2021-01-01,2026-09-19,1798,1,0
+Odisha,Dhenkanal,2021-01-01,2026-09-19,1798,1,1
+Odisha,Gajapati,2021-01-01,2026-09-19,1797,1,1
+Odisha,Ganjam,2021-01-01,2026-09-19,1798,1,2
+Odisha,Jagatsinghapur,2021-01-01,2026-09-19,1797,1,0
+Odisha,Jajapur,2021-01-01,2026-09-19,1797,1,3
+Odisha,Jharsuguda,2021-01-01,2026-09-19,1798,1,0
+Odisha,Kalahandi,2021-01-01,2026-09-19,1798,1,0
+Odisha,Kandhamal,2021-01-01,2026-09-19,1798,1,1
+Odisha,Kendrapara,2021-01-01,2026-09-19,1797,1,5
+Odisha,Kendujhar,2021-01-01,2026-09-19,1797,1,0
+Odisha,Khordha,2021-01-01,2026-09-19,1797,1,0
+Odisha,Koraput,2021-01-01,2026-09-19,1798,1,1
+Odisha,Malkangiri,2021-01-01,2026-09-19,1798,1,2
+Odisha,Mayurbhanj,2021-01-01,2026-09-19,1798,1,0
+Odisha,Nabarangpur,2021-01-01,2026-09-19,1797,1,1
+Odisha,Nayagarh,2021-01-01,2026-09-19,1798,1,1
+Odisha,Nuapada,2021-01-01,2026-09-19,1797,1,2
+Odisha,Puri,2021-01-01,2026-09-19,1798,1,1
+Odisha,Rayagada,2021-01-01,2026-09-19,1797,1,2
+Odisha,Sambalpur,2021-01-01,2026-09-19,1798,1,1
+Odisha,Sonepur,2021-01-01,2026-09-19,1797,1,1
+Odisha,Sundargarh,2021-01-01,2026-09-19,1798,1,3
+Puducherry,Karaikal,2021-01-01,2026-09-19,1798,1,1
+Puducherry,Mahe,2021-01-01,2026-09-19,1798,1,34
+Puducherry,Pondicherry,2021-01-01,2026-09-19,1797,1,2
+Puducherry,Yanam,2021-01-01,2026-09-19,1259,1,9
+Punjab,Amritsar,2021-01-01,2026-09-19,1798,1,0
+Punjab,Barnala,2021-01-01,2026-09-19,1798,1,15
+Punjab,Bathinda,2021-01-01,2026-09-19,1797,1,0
+Punjab,Faridkot,2021-01-01,2026-09-19,1798,1,3
+Punjab,Fatehgarh Sahib,2021-01-01,2026-09-19,1798,1,0
+Punjab,Fazilka,2021-06-01,2026-09-19,1652,1,0
+Punjab,Ferozepur,2021-01-01,2026-09-19,1797,1,1
+Punjab,Gurdaspur,2021-01-01,2026-09-19,1798,1,0
+Punjab,Hoshiarpur,2021-01-01,2026-09-19,1798,1,1
+Punjab,Jalandhar,2021-01-01,2026-09-19,1798,1,0
+Punjab,Kapurthala,2021-01-01,2026-09-19,1798,1,1
+Punjab,Ludhiana,2021-01-01,2026-09-19,1798,1,0
+Punjab,Mansa,2021-01-01,2026-09-19,1798,1,17
+Punjab,Moga,2021-01-01,2026-09-19,1798,1,19
+Punjab,Pathankot,2021-06-01,2026-09-19,1652,1,0
+Punjab,Patiala,2021-01-01,2026-09-19,1798,1,0
+Punjab,Rupnagar,2021-01-01,2026-09-19,1798,1,0
+Punjab,S.A.S Nagar,2021-01-01,2026-09-19,1797,1,16
+Punjab,Sangrur,2021-01-01,2026-09-19,1798,1,0
+Punjab,Shahid Bhagat Singh Nagar,2021-01-01,2026-09-19,1798,1,0
+Punjab,Sri Muktsar Sahib,2021-01-01,2026-09-19,1798,1,1
+Punjab,Tarn Taran,2021-01-01,2026-09-19,1798,1,1
+Rajasthan,Ajmer,2021-01-01,2026-09-19,1798,1,1
+Rajasthan,Alwar,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Banswara,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Baran,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Barmer,2021-01-01,2026-09-19,1798,1,1
+Rajasthan,Bharatpur,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Bhilwara,2021-01-01,2026-09-19,1798,1,5
+Rajasthan,Bikaner,2021-01-01,2026-09-19,1798,1,9
+Rajasthan,Bundi,2021-01-01,2026-09-19,1798,1,5
+Rajasthan,Chittorgarh,2021-01-01,2026-09-19,1797,1,1
+Rajasthan,Churu,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Dausa,2021-01-01,2026-09-19,1798,1,6
+Rajasthan,Dholpur,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Dungarpur,2021-01-01,2026-09-19,1798,1,4
+Rajasthan,Ganganagar,2021-01-01,2026-09-19,1797,1,1
+Rajasthan,Hanumangarh,2021-01-01,2026-09-19,1798,1,1
+Rajasthan,Jaipur,2021-01-01,2026-09-19,1798,1,4
+Rajasthan,Jaisalmer,2021-01-01,2026-09-19,1797,1,1
+Rajasthan,Jalore,2021-01-01,2026-09-19,1797,1,1
+Rajasthan,Jhalawar,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Jhunjhunu,2021-01-01,2026-09-19,1797,1,3
+Rajasthan,Jodhpur,2021-01-01,2026-09-19,1798,1,0
+Rajasthan,Karauli,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Kota,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Nagaur,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Pali,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Pratapgarh,2021-01-01,2026-09-19,1798,1,9
+Rajasthan,Rajsamand,2021-01-01,2026-09-19,1797,1,2
+Rajasthan,Sawai Madhopur,2021-01-01,2026-09-19,1797,1,0
+Rajasthan,Sikar,2021-01-01,2026-09-19,1798,1,3
+Rajasthan,Sirohi,2021-01-01,2026-09-19,1798,1,2
+Rajasthan,Tonk,2021-01-01,2026-09-19,1798,1,0
+Rajasthan,Udaipur,2021-01-01,2026-09-19,1798,1,1
+Sikkim,Gangtok,2021-01-01,2024-05-24,1164,1,0
+Sikkim,Gyalshing,2021-01-01,2024-05-24,1164,1,0
+Sikkim,Mangan,2021-01-01,2024-05-24,1164,1,2
+Sikkim,Namchi,2021-01-01,2024-05-24,1164,1,31
+Sikkim,Pakyong,2024-06-24,2026-09-19,622,1,0
+Sikkim,Soreng,2024-06-24,2026-09-19,622,1,19
+Tamil Nadu,Ariyalur,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Chengalpattu,2021-01-01,2026-09-19,1798,1,2
+Tamil Nadu,Chennai,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Coimbatore,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Cuddalore,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Dharmapuri,2021-01-01,2026-09-19,1797,1,0
+Tamil Nadu,Dindigul,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Erode,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Kallakurichi,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Kanchipuram,2021-01-01,2026-09-19,1797,1,1
+Tamil Nadu,Kanniyakumari,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Karur,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Krishnagiri,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Madurai,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Mayiladuthurai,2021-06-01,2026-09-19,1513,1,2
+Tamil Nadu,Nagapattinam,2021-01-01,2026-09-19,1517,1,1
+Tamil Nadu,Namakkal,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Perambalur,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Pudukkottai,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Ramanathapuram,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Ranipet,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Salem,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Sivaganga,2021-01-01,2026-09-19,1798,1,2
+Tamil Nadu,Tenkasi,2021-01-01,2026-09-19,1798,1,3
+Tamil Nadu,Thanjavur,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,The Nilgiris,2021-01-01,2026-09-19,1797,1,0
+Tamil Nadu,Theni,2021-01-01,2026-09-19,1797,1,0
+Tamil Nadu,Thiruvallur,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Thiruvarur,2021-01-01,2026-09-19,1797,1,2
+Tamil Nadu,Tiruchirappalli,2021-01-01,2026-09-19,1797,1,1
+Tamil Nadu,Tirunelveli,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Tirupathur,2021-01-01,2026-09-19,1798,1,2
+Tamil Nadu,Tiruppur,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Tiruvannamalai,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Tuticorin,2021-01-01,2026-09-19,1797,1,1
+Tamil Nadu,Vellore,2021-01-01,2026-09-19,1798,1,0
+Tamil Nadu,Villupuram,2021-01-01,2026-09-19,1798,1,1
+Tamil Nadu,Virudhunagar,2021-01-01,2026-09-19,1798,1,1
+Telangana,Adilabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Bhadradri Kothagudem,2021-01-01,2026-09-19,1798,1,2
+Telangana,Hanumakonda,2022-10-20,2026-09-19,1149,1,2
+Telangana,Hyderabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Jagitial,2021-01-01,2026-09-19,1798,1,2
+Telangana,Jangoan,2021-01-01,2026-09-19,1798,1,3
+Telangana,Jayashankar Bhupalapally,2021-01-01,2026-09-19,1798,1,2
+Telangana,Jogulamba Gadwal,2021-01-01,2026-09-19,1798,1,2
+Telangana,Kamareddy,2021-01-01,2026-09-19,1798,1,2
+Telangana,Karimnagar,2021-01-01,2026-09-19,1798,1,2
+Telangana,Khammam,2021-01-01,2026-09-19,1798,1,2
+Telangana,Kumuram Bheem Asifabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Mahabubabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Mahabubnagar,2021-01-01,2026-09-19,1798,1,2
+Telangana,Mancherial,2021-01-01,2026-09-19,1798,1,2
+Telangana,Medak,2021-01-01,2026-09-19,1798,1,2
+Telangana,Medchal Malkajgiri,2021-01-01,2026-09-19,1798,1,2
+Telangana,Mulugu,2021-01-01,2026-09-19,1798,1,2
+Telangana,Nagarkurnool,2021-01-01,2026-09-19,1798,1,2
+Telangana,Nalgonda,2021-01-01,2026-09-19,1798,1,2
+Telangana,Narayanpet,2021-01-01,2026-09-19,1798,1,2
+Telangana,Nirmal,2021-01-01,2026-09-19,1798,1,2
+Telangana,Nizamabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Peddapalli,2021-01-01,2026-09-19,1798,1,2
+Telangana,Rajanna Sircilla,2021-01-01,2026-09-19,1798,1,2
+Telangana,Ranga Reddy,2021-01-01,2026-09-19,1798,1,2
+Telangana,Sangareddy,2021-01-01,2026-09-19,1798,1,0
+Telangana,Siddipet,2021-01-01,2026-09-19,1798,1,2
+Telangana,Suryapet,2021-01-01,2026-09-19,1798,1,2
+Telangana,Vikarabad,2021-01-01,2026-09-19,1798,1,2
+Telangana,Wanaparthy,2021-01-01,2026-09-19,1798,1,2
+Telangana,Warangal,2021-01-01,2026-09-19,1798,1,2
+Telangana,Yadadri Bhuvanagiri,2021-01-01,2026-09-19,1798,1,2
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2021-01-01,2026-09-19,1797,1,450
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2021-01-01,2026-09-19,1798,1,68
+The Dadra and Nagar Haveli and Daman and Diu,Diu,2021-01-01,2026-09-19,1259,1,1
+Tripura,Dhalai,2021-01-01,2026-09-19,1798,1,7
+Tripura,Gomati,2022-06-01,2026-09-19,1290,1,6
+Tripura,Khowai,2022-06-01,2026-09-19,1290,1,29
+Tripura,North Tripura,2021-01-01,2026-09-19,1798,1,11
+Tripura,Sepahijala,2022-06-01,2026-09-19,1290,1,7
+Tripura,South Tripura,2021-01-01,2026-09-19,1798,1,8
+Tripura,Unakoti,2022-06-01,2026-09-19,1290,1,6
+Tripura,West Tripura,2021-01-01,2026-09-19,1798,1,10
+Uttar Pradesh,Agra,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Aligarh,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Ambedkar Nagar,2021-01-01,2026-09-19,1797,1,1
+Uttar Pradesh,Amethi,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Amroha,2021-01-01,2026-09-19,1798,1,6
+Uttar Pradesh,Auraiya,2021-01-01,2026-09-19,1798,1,11
+Uttar Pradesh,Ayodhya,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Azamgarh,2021-01-01,2026-09-19,1798,1,4
+Uttar Pradesh,Baghpat,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Bahraich,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Ballia,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Balrampur,2021-01-01,2026-09-19,1797,1,3
+Uttar Pradesh,Banda,2021-01-01,2026-09-19,1798,1,5
+Uttar Pradesh,Barabanki,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Bareilly,2021-01-01,2026-09-19,1798,1,2
+Uttar Pradesh,Basti,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Bhadohi,2021-01-01,2026-09-19,1798,1,336
+Uttar Pradesh,Bijnor,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Budaun,2021-01-01,2026-09-19,1798,1,7
+Uttar Pradesh,Bulandshahr,2021-01-01,2026-09-19,1797,1,1
+Uttar Pradesh,Chandauli,2021-01-01,2026-09-19,1798,1,30
+Uttar Pradesh,Chitrakoot,2021-01-01,2026-09-19,1798,1,14
+Uttar Pradesh,Deoria,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Etah,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Etawah,2021-01-01,2026-09-19,1798,1,2
+Uttar Pradesh,Farrukhabad,2021-01-01,2026-09-19,1798,1,9
+Uttar Pradesh,Fatehpur,2021-01-01,2026-09-19,1798,1,8
+Uttar Pradesh,Firozabad,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Gautam Buddha Nagar,2021-01-01,2026-09-19,1797,1,14
+Uttar Pradesh,Ghaziabad,2021-01-01,2026-09-19,1798,1,27
+Uttar Pradesh,Ghazipur,2021-01-01,2026-09-19,1797,1,2
+Uttar Pradesh,Gonda,2021-01-01,2026-09-19,1798,1,2
+Uttar Pradesh,Gorakhpur,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Hamirpur,2021-01-01,2026-09-19,1798,1,2
+Uttar Pradesh,Hapur,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Hardoi,2021-01-01,2026-09-19,1798,1,2
+Uttar Pradesh,Hathras,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Jalaun,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Jaunpur,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Jhansi,2021-01-01,2026-09-19,1798,1,4
+Uttar Pradesh,Kannauj,2021-01-01,2026-09-19,1798,1,7
+Uttar Pradesh,Kanpur Dehat,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Kanpur Nagar,2021-01-01,2026-09-19,1797,1,0
+Uttar Pradesh,Kasganj,2021-01-01,2026-09-19,1798,1,4
+Uttar Pradesh,Kaushambi,2021-01-01,2026-09-19,1798,1,41
+Uttar Pradesh,Kheri,2021-01-01,2026-09-19,1798,1,5
+Uttar Pradesh,Kushi Nagar,2021-01-01,2026-09-19,1797,1,1
+Uttar Pradesh,Lalitpur,2021-01-01,2026-09-19,1798,1,9
+Uttar Pradesh,Lucknow,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Mahoba,2021-01-01,2026-09-19,1798,1,5
+Uttar Pradesh,Mahrajganj,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Mainpuri,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Mathura,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Mau,2021-01-01,2026-09-19,1798,1,12
+Uttar Pradesh,Meerut,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Mirzapur,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Moradabad,2021-01-01,2026-09-19,1798,1,4
+Uttar Pradesh,Muzaffarnagar,2021-01-01,2026-09-19,1797,1,1
+Uttar Pradesh,Pilibhit,2021-01-01,2026-09-19,1797,1,3
+Uttar Pradesh,Pratapgarh,2021-01-01,2026-09-19,1798,1,8
+Uttar Pradesh,Prayagraj,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Rae Bareli,2021-01-01,2026-09-19,1797,1,0
+Uttar Pradesh,Rampur,2021-01-01,2026-09-19,1798,1,15
+Uttar Pradesh,Saharanpur,2021-01-01,2026-09-19,1797,1,16
+Uttar Pradesh,Sambhal,2021-01-01,2026-09-19,1798,1,1
+Uttar Pradesh,Sant Kabir Nagar,2021-01-01,2026-09-19,1797,1,6
+Uttar Pradesh,Shahjahanpur,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Shamli,2021-01-01,2026-09-19,1798,1,11
+Uttar Pradesh,Shrawasti,2021-01-01,2026-09-19,1797,1,8
+Uttar Pradesh,Siddharth Nagar,2021-01-01,2026-09-19,1797,1,2
+Uttar Pradesh,Sitapur,2021-01-01,2026-09-19,1798,1,0
+Uttar Pradesh,Sonbhadra,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Sultanpur,2021-01-01,2026-09-19,1798,1,3
+Uttar Pradesh,Unnao,2021-01-01,2026-09-19,1798,1,8
+Uttar Pradesh,Varanasi,2021-01-01,2026-09-19,1798,1,0
+Uttarakhand,Almora,2021-01-01,2026-09-19,1798,1,1
+Uttarakhand,Bageshwar,2021-01-01,2026-09-19,1798,1,3
+Uttarakhand,Chamoli,2021-01-01,2026-09-19,1798,1,2
+Uttarakhand,Champawat,2021-01-01,2026-09-19,1798,1,1
+Uttarakhand,Dehradun,2021-01-01,2026-09-19,1798,1,0
+Uttarakhand,Haridwar,2021-01-01,2026-09-19,1797,1,2
+Uttarakhand,Nainital,2021-01-01,2026-09-19,1797,1,2
+Uttarakhand,Pauri Garhwal,2021-01-01,2026-09-19,1797,1,2
+Uttarakhand,Pithoragarh,2021-01-01,2026-09-19,1798,1,2
+Uttarakhand,Rudra Prayag,2021-01-01,2026-09-19,1798,1,3
+Uttarakhand,Tehri Garhwal,2021-01-01,2026-09-19,1797,1,0
+Uttarakhand,Udam Singh Nagar,2021-01-01,2026-09-19,1798,1,3
+Uttarakhand,Uttar Kashi,2021-01-01,2026-09-19,1798,1,1
+West Bengal,Alipurduar,2024-06-11,2026-09-19,634,1,1
+West Bengal,Bankura,2021-01-01,2026-09-19,1798,1,2
+West Bengal,Birbhum,2021-01-01,2026-09-19,1798,1,0
+West Bengal,Coochbehar,2021-01-01,2024-05-24,1164,1,2
+West Bengal,Dakshin Dinajpur,2021-01-01,2026-09-19,1797,1,2
+West Bengal,Darjeeling,2021-01-01,2026-09-19,1798,1,1
+West Bengal,Hooghly,2021-01-01,2026-09-19,1797,1,2
+West Bengal,Howrah,2021-01-01,2026-09-19,1797,1,27
+West Bengal,Jalpaiguri,2021-01-01,2026-09-19,1798,1,0
+West Bengal,Jhargram,2024-06-11,2026-09-19,634,1,2
+West Bengal,Kalimpong,2024-06-11,2026-09-19,634,1,0
+West Bengal,Kolkata,2021-01-01,2026-09-19,1798,1,5
+West Bengal,Malda,2021-01-01,2026-09-19,1798,1,4
+West Bengal,Murshidabad,2021-01-01,2026-09-19,1797,1,8
+West Bengal,Nadia,2021-01-01,2026-09-19,1798,1,0
+West Bengal,North 24 Parganas,2021-01-01,2026-09-19,1797,1,1
+West Bengal,Paschim Medinipur,2021-01-01,2026-09-19,1797,1,1
+West Bengal,Purba Bardhaman,2021-01-01,2024-05-24,1164,1,0
+West Bengal,Purba Medinipur,2021-01-01,2026-09-19,1797,1,1
+West Bengal,Purulia,2021-01-01,2026-09-19,1797,1,3
+West Bengal,South 24 Parganas,2021-01-01,2026-09-19,1798,1,0
+West Bengal,Uttar Dinajpur,2021-01-01,2026-09-19,1797,1,4

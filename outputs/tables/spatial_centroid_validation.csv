@@ -1,0 +1,732 @@
+dataset_state,dataset_district,shp_id,lgd_name,centroid_lon,centroid_lat,inside_state
+Andaman and Nicobar Islands,Nicobars,251,Nicobars,93.8236692545913,6.99871525,True
+Andaman and Nicobar Islands,North and Middle Andaman,255,North And Middle Andaman,92.95287987419067,13.22835505,True
+Andaman and Nicobar Islands,South Andamans,328,South Andamans,92.48908167786432,10.706411750000001,True
+Andhra Pradesh,Alluri Sitharama Raju,712,Alluri Sitharama Raju,82.21399267169107,17.88605695,True
+Andhra Pradesh,Anakapalli,713,Anakapalli,82.74964947531265,17.6710949,True
+Andhra Pradesh,Annamayya,715,Annamayya,78.6534061760043,13.896451800000001,True
+Andhra Pradesh,Bapatla,716,Bapatla,80.38666250483882,15.9335692,True
+Andhra Pradesh,Chittoor,717,Chittoor,79.00370124650325,13.20364645,True
+Andhra Pradesh,East Godavari,718,East Godavari,81.71584427585475,16.99632475,True
+Andhra Pradesh,Eluru,727,Eluru,81.0886973629822,17.0024825,True
+Andhra Pradesh,Guntur,719,Guntur,80.56984632241519,16.28510835,True
+Andhra Pradesh,Kakinada,720,Kakinada,82.18440261648664,17.1200076,True
+Andhra Pradesh,Krishna,722,Krishna,81.02595923876585,16.20984765,True
+Andhra Pradesh,Kurnool,723,Kurnool,77.55416023879687,15.54783855,True
+Andhra Pradesh,Nandyal,724,Nandyal,78.41492198783166,15.52483025,True
+Andhra Pradesh,Ntr,725,Ntr,80.2501512219109,16.816728949999998,True
+Andhra Pradesh,Palnadu,726,Palnadu,79.69756214882469,16.323116849999998,True
+Andhra Pradesh,Parvathipuram Manyam,737,Parvathipuram Manyam,83.54780397874117,18.75180235,True
+Andhra Pradesh,Prakasam,728,Prakasam,79.47319995479138,15.663656450000001,True
+Andhra Pradesh,Sri Sathya Sai,736,Sri Sathya Sai,77.96403070315347,14.168049700000001,True
+Andhra Pradesh,Srikakulam,730,Srikakulam,84.14736571759147,18.62282795,True
+Andhra Pradesh,Tirupati,731,Tirupati,79.83492134560926,13.779695,True
+Andhra Pradesh,Vizianagaram,733,Vizianagaram,83.46622711033356,18.2759486,True
+Andhra Pradesh,West Godavari,734,West Godavari,81.69974154090607,16.6442714,True
+Andhra Pradesh,Y.S.R.,735,Y.S.R.,78.65613714411174,14.670733649999999,True
+Andhra Pradesh,Visakhapatnam,732,Visakhapatanam,83.2831842333826,17.8050176,True
+Andhra Pradesh,Ananthapuramu,714,Anantapur,77.4305247377931,14.7238329,True
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,721,Konaseema,82.07689280126587,16.64370645,True
+Andhra Pradesh,Sri Potti Sriramulu Nellore,729,Spsr Nellore,79.65838429823944,14.7171684,True
+Arunachal Pradesh,Anjaw,451,Anjaw,96.84641358501462,28.03655265,True
+Arunachal Pradesh,Changlang,473,Changlang,96.059400969694,27.2694635,True
+Arunachal Pradesh,Dibang Valley,478,Dibang Valley,95.92843051127761,28.8707958,True
+Arunachal Pradesh,East Kameng,480,East Kameng,92.97227573159131,27.56494085,True
+Arunachal Pradesh,East Siang,664,East Siang,95.39268223311947,28.06888395,True
+Arunachal Pradesh,Kurung Kumey,521,Kurung Kumey,93.16113883762091,27.98265925,True
+Arunachal Pradesh,Lohit,525,Lohit,96.19377583450506,27.971666300000003,True
+Arunachal Pradesh,Lower Dibang Valley,526,Lower Dibang Valley,95.87919952125378,28.21430215,True
+Arunachal Pradesh,Lower Subansiri,623,Lower Subansiri,93.75892144227919,27.60523955,True
+Arunachal Pradesh,Papum Pare,559,Papum Pare,93.61650073519097,27.284703999999998,True
+Arunachal Pradesh,Tawang,598,Tawang,91.90704862339976,27.6610986,True
+Arunachal Pradesh,Tirap,601,Tirap,95.49859783937494,27.032163,True
+Arunachal Pradesh,Upper Siang,603,Upper Siang,95.02500456049168,28.74735015,True
+Arunachal Pradesh,Upper Subansiri,604,Upper Subansiri,94.10410706514602,28.233502100000003,True
+Arunachal Pradesh,West Kameng,611,West Kameng,92.44540384804066,27.31789005,True
+Arunachal Pradesh,West Siang,636,West Siang,94.55724553692613,28.20175395,True
+Assam,Bajali,710,Bajali,91.12469722633875,26.50858425,True
+Assam,Baksa,748,Baksa,91.20406850571162,26.63239415,True
+Assam,Barpeta,375,Barpeta,91.0583678588375,26.35827545,True
+Assam,Biswanath,425,Biswanath,93.25870420649156,26.78542935,True
+Assam,Bongaigaon,377,Bongaigaon,90.63484377268767,26.3320837,True
+Assam,Cachar,388,Cachar,92.88135560329965,24.758410400000002,True
+Assam,Charaideo,424,Charaideo,95.06500054658879,27.07015845,True
+Assam,Chirang,376,Chirang,90.62936357872096,26.6436762,True
+Assam,Darrang,706,Darrang,92.00447748946598,26.4291342,True
+Assam,Dhemaji,384,Dhemaji,94.72469621342671,27.59395815,True
+Assam,Dhubri,406,Dhubri,89.88163557470033,26.13155975,True
+Assam,Dibrugarh,386,Dibrugarh,94.99616590751222,27.398202949999998,True
+Assam,Dima Hasao,382,Dima Hasao,93.07686900549947,25.39847115,True
+Assam,Goalpara,407,Goalpara,90.5989615349664,26.04784845,True
+Assam,Golaghat,387,Golaghat,93.9932335407411,26.312505899999998,True
+Assam,Hailakandi,390,Hailakandi,92.63040400954887,24.50789065,True
+Assam,Hojai,427,Hojai,92.97931311107556,25.96318375,True
+Assam,Jorhat,374,Jorhat,94.26966504685528,26.65026805,True
+Assam,Kamrup,182,Kamrup,91.22268512837573,26.139648,True
+Assam,Kamrup Metro,380,Kamrup Metro,91.86257301089842,26.125924249999997,True
+Assam,Karbi Anglong,429,Karbi Anglong,93.45140513791664,26.0713427,True
+Assam,Karimganj,389,Karimganj,92.37123226677073,24.58308435,True
+Assam,Kokrajhar,206,Kokrajhar,90.13381546170459,26.49830205,True
+Assam,Lakhimpur,705,Lakhimpur,94.18703876165009,27.1706584,True
+Assam,Majuli,426,Majuli,94.28372936865141,26.97386565,True
+Assam,Marigaon,381,Marigaon,92.29113528656217,26.28904995,True
+Assam,Nagaon,139,Nagaon,92.75282017638554,26.3307023,True
+Assam,Nalbari,378,Nalbari,91.39984471705444,26.35651815,True
+Assam,Sivasagar,385,Sivasagar,94.62181276352104,26.993785250000002,True
+Assam,Sonitpur,383,Sonitpur,92.60672443247005,26.763871,True
+Assam,Tamulpur,751,Tamulpur,91.62297446040195,26.64298945,True
+Assam,Tinsukia,112,Tinsukia,95.56689609321047,27.5971784,True
+Assam,Udalguri,379,Udalguri,92.0441584223483,26.699767299999998,True
+Assam,West Karbi Anglong,430,West Karbi Anglong,92.58728817424429,25.85235135,True
+Bihar,Araria,452,Araria,87.36993738810372,26.26510125,True
+Bihar,Arwal,453,Arwal,84.65966477186029,25.18128315,True
+Bihar,Aurangabad,454,Aurangabad,84.4113522712836,24.8033389,True
+Bihar,Banka,456,Banka,86.81395482299385,24.8315397,True
+Bihar,Begusarai,461,Begusarai,86.08866975287208,25.5123167,True
+Bihar,Bhagalpur,463,Bhagalpur,87.13032161334195,25.28632555,True
+Bihar,Bhojpur,466,Bhojpur,84.56345312907547,25.4497124,True
+Bihar,Buxar,470,Buxar,84.10979199917315,25.504709050000002,True
+Bihar,Darbhanga,475,Darbhanga,86.03249509324232,26.082989949999998,True
+Bihar,Gaya,488,Gaya,85.0115529341324,24.679502749999997,True
+Bihar,Gopalganj,490,Gopalganj,84.37353119921059,26.42198075,True
+Bihar,Jamui,504,Jamui,86.30079410390442,24.755802799999998,True
+Bihar,Jehanabad,499,Jehanabad,85.0065713564561,25.1527098,True
+Bihar,Kaimur (Bhabua),462,Kaimur (Bhabua),83.57623562896559,24.97606295,True
+Bihar,Katihar,511,Katihar,87.64571962485962,25.5586421,True
+Bihar,Khagaria,512,Khagaria,86.69822593821453,25.49304795,True
+Bihar,Kishanganj,517,Kishanganj,87.94667148301295,26.29841435,True
+Bihar,Lakhisarai,523,Lakhisarai,86.17449589670395,25.154393849999998,True
+Bihar,Madhepura,528,Madhepura,86.93647530783664,25.7806118,True
+Bihar,Madhubani,529,Madhubani,86.2296549051513,26.3502002,True
+Bihar,Munger,541,Munger,86.51614835791698,25.2202864,True
+Bihar,Muzaffarpur,543,Muzaffarpur,85.3316096785584,26.1482548,True
+Bihar,Nalanda,546,Nalanda,85.44846114993567,25.211599,True
+Bihar,Nawada,551,Nawada,85.51777991987217,24.8171715,True
+Bihar,Pashchim Champaran,561,Pashchim Champaran,84.33494129605846,27.05195325,True
+Bihar,Patna,565,Patna,85.19530698138811,25.46804395,True
+Bihar,Purbi Champaran,568,Purbi Champaran,84.89917867261494,26.63888085,True
+Bihar,Purnia,569,Purnia,87.4086340413495,25.775479949999998,True
+Bihar,Rohtas,576,Rohtas,84.02061079222193,24.93938345,True
+Bihar,Saharsa,578,Saharsa,86.61437508111757,25.83307565,True
+Bihar,Samastipur,579,Samastipur,85.867231389952,25.77478845,True
+Bihar,Saran,581,Saran,84.77597313027485,25.9214451,True
+Bihar,Sheikhpura,585,Sheikhpura,85.81614057957452,25.12516535,True
+Bihar,Sheohar,586,Sheohar,85.2718367214576,26.4936881,True
+Bihar,Sitamarhi,589,Sitamarhi,85.60057858312165,26.5712894,True
+Bihar,Siwan,590,Siwan,84.3900653595409,26.13144285,True
+Bihar,Supaul,595,Supaul,86.79596143977405,26.2768089,True
+Bihar,Vaishali,607,Vaishali,85.39721640385531,25.74917025,True
+Chandigarh,Chandigarh,79,Chandigarh,76.7842207753356,30.730854100000002,True
+Chhattisgarh,Balod,39,Balod,81.14406105947708,20.7277259,True
+Chhattisgarh,Bastar,765,Bastar,81.82253270236481,19.1243758,True
+Chhattisgarh,Bemetara,53,Bemetara,81.42950206594125,21.67525995,True
+Chhattisgarh,Bijapur,63,Bijapur,80.73952049872547,18.768957399999998,True
+Chhattisgarh,Bilaspur,65,Bilaspur,82.13662802942943,22.163961999999998,True
+Chhattisgarh,Dhamtari,105,Dhamtari,81.7157653973909,20.5350824,True
+Chhattisgarh,Durg,116,Durg,81.40049005794938,21.1967401,True
+Chhattisgarh,Gariyaband,132,Gariyaband,82.25290869300275,20.429246,True
+Chhattisgarh,Janjgir-Champa,169,Janjgir-Champa,82.55316587153357,21.986716649999998,True
+Chhattisgarh,Jashpur,170,Jashpur,83.97096764701624,22.77025555,True
+Chhattisgarh,Kondagaon,209,Kondagaon,81.76390180187701,19.7091249,True
+Chhattisgarh,Korba,212,Korba,82.63519211446074,22.519886300000003,True
+Chhattisgarh,Korea,762,Korea,82.47821853828809,23.4764123,True
+Chhattisgarh,Mahasamund,224,Mahasamund,82.48881182467466,21.192051300000003,True
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,761,Mohla Manpur Ambagarh Chouki,80.79965929676551,20.4947425,True
+Chhattisgarh,Mungeli,241,Mungeli,81.65410645088016,22.243921299999997,True
+Chhattisgarh,Narayanpur,246,Narayanpur,81.11410424188453,19.5873792,True
+Chhattisgarh,Raigarh,278,Raigarh,83.35402530820821,22.2355511,True
+Chhattisgarh,Raipur,279,Raipur,81.8175855272554,21.2830233,True
+Chhattisgarh,Rajnandgaon,281,Rajnandgaon,80.79685226200722,21.06844495,True
+Chhattisgarh,Sakti,764,Sakti,82.96507573330132,21.926852750000002,True
+Chhattisgarh,Sukma,334,Sukma,81.31337695321534,18.28005955,True
+Chhattisgarh,Surajpur,337,Surajpur,82.97571035970256,23.3575454,True
+Chhattisgarh,Surguja,338,Surguja,83.1658585492483,22.94631015,True
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,760,Khairgarh Chhuikhadan Gandai,80.94832376865284,21.5294919,True
+Chhattisgarh,Manendragarh Chirmiri Bharatpur Mcb,213,Manendragarh Chirimiri Bharatpur,82.16282091236701,23.43149915,True
+Chhattisgarh,Balodabazar-Bhatapara,40,Baloda Bazar,82.2996104872139,21.5729319,True
+Chhattisgarh,Balrampur Ramanujganj,41,Balrampur,83.48099728979275,23.62842815,True
+Chhattisgarh,Dakshin Bastar Dantewada,97,Dantewada,81.4255669595135,18.805316849999997,True
+Chhattisgarh,Kabeerdham,179,Kabirdham,81.24732851262816,22.1150879,True
+Chhattisgarh,Uttar Bastar Kanker,185,Kanker,80.98594826211311,20.13241695,True
+Delhi,Central,73,Central,77.21463334032647,28.67959035,True
+Delhi,East,117,East,77.31034093739297,28.6211318,True
+Delhi,New Delhi,250,New Delhi,77.12380757405835,28.564454400000002,True
+Delhi,North,253,North,77.09919108592247,28.7840803,True
+Delhi,North East,256,North East,77.2609938431886,28.7279147,True
+Delhi,North West,259,North West,77.01220761162688,28.73712855,True
+Delhi,South,326,South,77.19724038373761,28.4869557,True
+Delhi,South East,400,South East,77.27412587688025,28.5447513,True
+Delhi,South West,332,South West,76.97850832784849,28.58551815,True
+Delhi,West,361,West,77.0900721162862,28.649047250000002,True
+Goa,North Goa,257,North Goa,74.02008876709692,15.53414295,True
+Goa,South Goa,330,South Goa,74.12302662154055,15.195797899999999,True
+Gujarat,Ahmadabad,2,Ahmadabad,72.29557044370846,22.7396713,True
+Gujarat,Amreli,434,Amreli,71.21601814429877,21.417918649999997,True
+Gujarat,Anand,3,Anand,72.71728767013545,22.4204576,True
+Gujarat,Arvalli,25,Arvalli,73.39858250416009,23.483906349999998,True
+Gujarat,Banas Kantha,43,Banas Kantha,72.16289101612955,24.26969225,True
+Gujarat,Bharuch,8,Bharuch,72.97491410706533,21.8206147,True
+Gujarat,Bhavnagar,7,Bhavnagar,71.90709561192415,21.56304195,True
+Gujarat,Botad,439,Botad,71.66896169930108,22.046709749999998,True
+Gujarat,Chhotaudepur,83,Chhotaudepur,73.77781559554222,22.22255105,True
+Gujarat,Dang,96,Dang,73.7090636276466,20.788990849999998,True
+Gujarat,Devbhumi Dwarka,4,Devbhumi Dwarka,69.42876397572692,22.1392269,True
+Gujarat,Dohad,92,Dohad,74.13428952789275,22.919577099999998,True
+Gujarat,Gandhinagar,442,Gandhinagar,72.65363085325484,23.281952500000003,True
+Gujarat,Gir Somnath,136,Gir Somnath,70.76219215097922,20.9298957,True
+Gujarat,Jamnagar,5,Jamnagar,70.12631029001119,22.27954055,True
+Gujarat,Junagadh,178,Junagadh,70.45634712984415,21.30683405,True
+Gujarat,Kachchh,6,Kachchh,69.84503378151487,23.731206200000003,True
+Gujarat,Kheda,440,Kheda,72.99537607932405,22.853251800000002,True
+Gujarat,Mahesana,441,Mahesana,72.45660895351389,23.57049115,True
+Gujarat,Mahisagar,226,Mahisagar,73.66444530583016,23.1912533,True
+Gujarat,Morbi,1,Morbi,70.82694732591833,22.8097504,True
+Gujarat,Narmada,247,Narmada,73.62633605153627,21.73926245,True
+Gujarat,Navsari,10,Navsari,73.03297833851175,20.8295226,True
+Gujarat,Panch Mahals,265,Panch Mahals,73.59806314203446,22.697816449999998,True
+Gujarat,Patan,443,Patan,71.67962609853572,23.773753,True
+Gujarat,Porbandar,436,Porbandar,69.85312197991988,21.603445,True
+Gujarat,Rajkot,437,Rajkot,71.02886864658035,22.069288,True
+Gujarat,Sabar Kantha,292,Sabar Kantha,73.0137102108192,23.8685606,True
+Gujarat,Surat,9,Surat,72.96086988311609,21.19171725,True
+Gujarat,Surendranagar,438,Surendranagar,71.6209735539826,22.82513945,True
+Gujarat,Tapi,339,Tapi,73.55561024787234,21.18873215,True
+Gujarat,Vadodara,355,Vadodara,73.30491690850326,22.31785775,True
+Gujarat,Valsad,11,Valsad,73.14599130267825,20.435531349999998,True
+Haryana,Ambala,449,Ambala,76.95024667477158,30.343438149999997,True
+Haryana,Bhiwani,465,Bhiwani,75.89316353680766,28.732201449999998,True
+Haryana,Charki Dadri,630,Charki Dadri,76.11258116274979,28.60012825,True
+Haryana,Faridabad,757,Faridabad,77.32650961600751,28.35703285,True
+Haryana,Fatehabad,483,Fatehabad,75.57529914594478,29.5359209,True
+Haryana,Gurugram,492,Gurugram,76.94146218642295,28.37015525,True
+Haryana,Hisar,495,Hisar,75.81742485181962,29.239866149999997,True
+Haryana,Jhajjar,505,Jhajjar,76.65110680624218,28.598018,True
+Haryana,Jind,506,Jind,76.23511345996651,29.45037295,True
+Haryana,Kaithal,507,Kaithal,76.4688176065738,29.8533642,True
+Haryana,Karnal,510,Karnal,76.91602821177611,29.70461895,True
+Haryana,Kurukshetra,520,Kurukshetra,76.76310528278856,30.06067015,True
+Haryana,Mahendragarh,532,Mahendragarh,76.16807686438008,28.1330705,True
+Haryana,Nuh,536,Nuh,77.04148023590984,27.99399095,True
+Haryana,Palwal,557,Palwal,77.32236382593214,28.059881,True
+Haryana,Panchkula,711,Panchkula,76.98763267340001,30.69959375,True
+Haryana,Panipat,558,Panipat,76.88705393022136,29.3477847,True
+Haryana,Rewari,574,Rewari,76.58132631839945,28.2180521,True
+Haryana,Rohtak,575,Rohtak,76.58710121330337,28.89039125,True
+Haryana,Sirsa,588,Sirsa,74.90203500223134,29.608048699999998,True
+Haryana,Sonipat,592,Sonipat,76.92271494947724,29.0414186,True
+Haryana,Yamunanagar,613,Yamunanagar,77.32594855861183,30.2160318,True
+Himachal Pradesh,Bilaspur,67,Bilaspur,76.64066893577377,31.402392300000002,True
+Himachal Pradesh,Chamba,75,Chamba,76.1629315574975,32.6923507,True
+Himachal Pradesh,Hamirpur,146,Hamirpur,76.54036329970963,31.65398655,True
+Himachal Pradesh,Kangra,184,Kangra,76.30006345479433,32.075924900000004,True
+Himachal Pradesh,Kinnaur,514,Kinnaur,78.33149551657402,31.5865519,True
+Himachal Pradesh,Kullu,217,Kullu,77.45054863135178,31.87779605,True
+Himachal Pradesh,Lahul and Spiti,522,Lahul And Spiti,77.57973116644092,32.50197905,True
+Himachal Pradesh,Mandi,231,Mandi,77.00925418842219,31.65166165,True
+Himachal Pradesh,Shimla,312,Shimla,77.71266314761016,31.23966155,True
+Himachal Pradesh,Sirmaur,321,Sirmaur,77.44977710090845,30.698976000000002,True
+Himachal Pradesh,Solan,324,Solan,76.84479306965349,31.053461650000003,True
+Himachal Pradesh,Una,351,Una,76.23620930337484,31.58261405,True
+Jammu and Kashmir,Anantnag,394,Anantnag,75.27824900167978,33.80959425,True
+Jammu and Kashmir,Bandipora,409,Bandipora,74.94536340745498,34.5411281,True
+Jammu and Kashmir,Baramulla,395,Baramulla,74.31291626823378,34.17220665,True
+Jammu and Kashmir,Budgam,408,Budgam,74.62368255145137,33.90542925,True
+Jammu and Kashmir,Doda,422,Doda,75.60210460329183,33.13572155,True
+Jammu and Kashmir,Ganderbal,410,Ganderbal,74.95802504307775,34.25388955,True
+Jammu and Kashmir,Jammu,622,Jammu,74.92202297786064,32.76947735,True
+Jammu and Kashmir,Kathua,396,Kathua,75.6104364071584,32.5829868,True
+Jammu and Kashmir,Kishtwar,421,Kishtwar,75.87988439145508,33.61653965,True
+Jammu and Kashmir,Kulgam,411,Kulgam,74.65408552081428,33.654075199999994,True
+Jammu and Kashmir,Kupwara,412,Kupwara,74.22175712133324,34.519417700000005,True
+Jammu and Kashmir,Poonch,393,Poonch,74.01454854255087,33.76877575,True
+Jammu and Kashmir,Pulwama,413,Pulwama,75.0405518451503,33.947751749999995,True
+Jammu and Kashmir,Rajouri,414,Rajouri,74.35147425163895,33.26711805,True
+Jammu and Kashmir,Ramban,415,Ramban,75.17060126287825,33.296047349999995,True
+Jammu and Kashmir,Reasi,416,Reasi,74.85673583250927,33.206033399999995,True
+Jammu and Kashmir,Samba,423,Samba,75.12128079735874,32.5754832,True
+Jammu and Kashmir,Shopian,417,Shopian,74.77826798881708,33.72424855,True
+Jammu and Kashmir,Srinagar,418,Srinagar,74.79020471368997,34.116890549999994,True
+Jammu and Kashmir,Udhampur,397,Udhampur,75.32860916344643,32.9140347,True
+Jharkhand,Bokaro,69,Bokaro,85.99201445181603,23.69822255,True
+Jharkhand,Chatra,80,Chatra,84.8672357201421,24.09711755,True
+Jharkhand,Deoghar,739,Deoghar,86.71926594154118,24.33109565,True
+Jharkhand,Dhanbad,106,Dhanbad,86.46376328438197,23.8448164,True
+Jharkhand,Dumka,114,Dumka,87.27643702630264,24.315911550000003,True
+Jharkhand,East Singhbum,274,East Singhbum,86.38328766596271,22.613416649999998,True
+Jharkhand,Garhwa,131,Garhwa,83.65449495843552,24.05284425,True
+Jharkhand,Giridih,137,Giridih,86.15938047791407,24.33158045,True
+Jharkhand,Godda,138,Godda,87.29905630733403,24.864348749999998,True
+Jharkhand,Gumla,143,Gumla,84.46147697020345,23.15880635,True
+Jharkhand,Hazaribagh,156,Hazaribagh,85.49526339028,24.08804305,True
+Jharkhand,Jamtara,168,Jamtara,86.9243828043816,23.981023299999997,True
+Jharkhand,Khunti,201,Khunti,85.2822698812447,22.929050250000003,True
+Jharkhand,Koderma,205,Koderma,85.69369013725091,24.542187900000002,True
+Jharkhand,Latehar,221,Latehar,84.49931964536111,23.68689225,True
+Jharkhand,Lohardaga,222,Lohardaga,84.70035743482069,23.4769704,True
+Jharkhand,Pakur,261,Pakur,87.59534193981514,24.532975,True
+Jharkhand,Palamu,263,Palamu,84.17574307629557,24.2181136,True
+Jharkhand,Ramgarh,284,Ramgarh,85.52228557921416,23.69234785,True
+Jharkhand,Ranchi,287,Ranchi,85.37476985186954,23.299598600000003,True
+Jharkhand,Sahebganj,295,Sahebganj,87.692348049717,25.0321413,True
+Jharkhand,Saraikela Kharsawan,300,Saraikela Kharsawan,85.91987658629776,22.8230572,True
+Jharkhand,Simdega,319,Simdega,84.54689641633419,22.588871400000002,True
+Jharkhand,West Singhbhum,267,West Singhbhum,85.53274079870343,22.42823655,True
+Karnataka,Bengaluru Rural,54,Bengaluru Rural,77.33954338640129,13.1823323,True
+Karnataka,Bengaluru Urban,55,Bengaluru Urban,77.55225630190762,12.94530565,True
+Karnataka,Bagalkote,30,Bagalkote,75.58087144341519,16.29010545,True
+Karnataka,Ballari,37,Ballari,76.80517031222469,15.34794295,True
+Karnataka,Belagavi,752,Belagavi,74.88875522068375,16.15808905,True
+Karnataka,Bidar,741,Bidar,77.24862543991418,18.02072595,True
+Karnataka,Chamarajanagara,74,Chamarajanagara,77.10678371244384,11.95448315,True
+Karnataka,Chikkaballapura,84,Chikkaballapura,77.78225683548644,13.5898509,True
+Karnataka,Chikkamagaluru,85,Chikkamagaluru,75.63875801157945,13.405869899999999,True
+Karnataka,Chitradurga,86,Chitradurga,76.52871761151718,14.3063024,True
+Karnataka,Dakshina Kannada,93,Dakshina Kannada,75.22687384273635,12.82251855,True
+Karnataka,Davangere,99,Davangere,75.830323333286,14.2558835,True
+Karnataka,Dharwad,109,Dharwad,75.13328673460543,15.3707296,True
+Karnataka,Gadag,128,Gadag,75.68151720515792,15.41599415,True
+Karnataka,Hassan,153,Hassan,76.17449753703235,13.0302013,True
+Karnataka,Haveri,155,Haveri,75.387306575,14.71802675,True
+Karnataka,Kalaburagi,180,Kalaburagi,76.77015817079318,17.24061255,True
+Karnataka,Kodagu,204,Kodagu,75.66402482179623,12.3830864,True
+Karnataka,Kolar,207,Kolar,78.26673209045998,13.1799271,True
+Karnataka,Koppal,210,Koppal,76.3118493692591,15.57482375,True
+Karnataka,Mandya,740,Mandya,76.72754771427819,12.6368939,True
+Karnataka,Mysuru,243,Mysuru,76.61209526216054,12.197052750000001,True
+Karnataka,Raichur,277,Raichur,76.90090263541688,16.05471945,True
+Karnataka,Ramanagara,285,Ramanagara,77.3178304434431,12.720319199999999,True
+Karnataka,Shivamogga,313,Shivamogga,75.23817897450326,14.05586575,True
+Karnataka,Tumakuru,345,Tumakuru,76.88100044465654,13.4192512,True
+Karnataka,Udupi,348,Udupi,74.8731420013383,13.52695155,True
+Karnataka,Uttara Kannada,354,Uttara Kannada,74.64070030190364,14.72507305,True
+Karnataka,Vijayapura,358,Vijayapura,75.89338562286864,16.81441485,True
+Karnataka,Yadgir,366,Yadgir,76.92502606676095,16.5738899,True
+Kerala,Alappuzha,15,Alappuzha,76.41285620747627,9.50108895,True
+Kerala,Ernakulam,122,Ernakulam,76.49788848651887,10.0455985,True
+Kerala,Idukki,158,Idukki,76.99928545595496,9.815569799999999,True
+Kerala,Kannur,187,Kannur,75.54611964757291,11.9881149,True
+Kerala,Kasaragod,192,Kasaragod,75.19071629472796,12.4199226,True
+Kerala,Kollam,208,Kollam,76.85810005284355,8.9675215,True
+Kerala,Kottayam,215,Kottayam,76.64475677137466,9.6288293,True
+Kerala,Kozhikode,216,Kozhikode,75.89148233918198,11.46488885,True
+Kerala,Malappuram,229,Malappuram,76.10962432552157,11.107135249999999,True
+Kerala,Palakkad,262,Palakkad,76.47371423637193,10.786595649999999,True
+Kerala,Pathanamthitta,268,Pathanamthitta,76.9725990915727,9.277056850000001,True
+Kerala,Thiruvananthapuram,341,Thiruvananthapuram,77.0498464293961,8.577476,True
+Kerala,Thrissur,342,Thrissur,76.27316823577365,10.47881255,True
+Kerala,Wayanad,359,Wayanad,76.12666138859375,11.71512215,True
+Ladakh,Kargil,420,Kargil,76.43798629318303,33.8076918,True
+Ladakh,Leh Ladakh,419,Leh Ladakh,78.24803296410292,34.7118572,True
+Lakshadweep,Lakshadweep District,219,Lakshadweep District,73.6767164582925,10.811652,True
+Madhya Pradesh,Agar-Malwa,12,Agar Malwa,76.14512414593051,23.93505955,True
+Madhya Pradesh,Alirajpur,17,Alirajpur,74.35456060519098,22.28595245,True
+Madhya Pradesh,Anuppur,24,Anuppur,81.75097856217656,23.034594249999998,True
+Madhya Pradesh,Ashoknagar,26,Ashoknagar,77.87869828577024,24.618609499999998,True
+Madhya Pradesh,Balaghat,34,Balaghat,80.32370848441983,21.8611589,True
+Madhya Pradesh,Barwani,51,Barwani,74.89159691864228,21.75128865,True
+Madhya Pradesh,Betul,56,Betul,77.87538214122166,21.8798526,True
+Madhya Pradesh,Bhind,61,Bhind,78.68633960832182,26.3519626,True
+Madhya Pradesh,Bhopal,62,Bhopal,77.39285071526717,23.4839759,True
+Madhya Pradesh,Burhanpur,72,Burhanpur,76.37088587267006,21.3348229,True
+Madhya Pradesh,Chhatarpur,81,Chhatarpur,79.67809262248386,24.76049655,True
+Madhya Pradesh,Chhindwara,82,Chhindwara,78.80935441999341,22.14013955,True
+Madhya Pradesh,Damoh,95,Damoh,79.54188313755265,23.79806495,True
+Madhya Pradesh,Datia,98,Datia,78.66467534912846,25.91792665,True
+Madhya Pradesh,Dewas,103,Dewas,76.294040773288,22.8057498,True
+Madhya Pradesh,Dhar,107,Dhar,75.22586367245644,22.578657200000002,True
+Madhya Pradesh,Dindori,113,Dindori,80.88481800179625,22.906879699999998,True
+Madhya Pradesh,Guna,144,Guna,77.26009574890142,24.5001764,True
+Madhya Pradesh,Gwalior,145,Gwalior,78.15698052657838,26.02863325,True
+Madhya Pradesh,Harda,150,Harda,77.11818164340457,22.2429847,True
+Madhya Pradesh,Indore,160,Indore,75.8076917540085,22.71081185,True
+Madhya Pradesh,Jabalpur,161,Jabalpur,79.9825641560163,23.2230231,True
+Madhya Pradesh,Jhabua,172,Jhabua,74.72432486327068,22.88696515,True
+Madhya Pradesh,Katni,194,Katni,80.26102313718218,23.7176582,True
+Madhya Pradesh,Khargone (West Nimar),364,Khargone,75.75216368226303,21.95428095,True
+Madhya Pradesh,Mandla,232,Mandla,80.58164016694658,22.6872889,True
+Madhya Pradesh,Mandsaur,233,Mandsaur,75.38576734327422,24.262878999999998,True
+Madhya Pradesh,Morena,240,Morena,77.8612717637007,26.3849794,True
+Madhya Pradesh,Narmadapuram,157,Narmadapuram,77.92698548024107,22.60028325,True
+Madhya Pradesh,Neemuch,252,Neemuch,75.18257487186858,24.62956835,True
+Madhya Pradesh,Niwari,433,Niwari,78.66820484333854,25.312323550000002,True
+Madhya Pradesh,Panna,266,Panna,80.14620080360865,24.4497396,True
+Madhya Pradesh,Raisen,280,Raisen,78.17280843851708,23.26750705,True
+Madhya Pradesh,Rajgarh,282,Rajgarh,76.77447115599877,23.871601599999998,True
+Madhya Pradesh,Ratlam,288,Ratlam,74.954985117955,23.5028568,True
+Madhya Pradesh,Rewa,290,Rewa,81.65448193461793,24.7561234,True
+Madhya Pradesh,Sagar,293,Sagar,78.7581254404461,23.80822035,True
+Madhya Pradesh,Satna,301,Satna,80.80897035159974,24.5776478,True
+Madhya Pradesh,Sehore,303,Sehore,77.06659976705515,23.1150652,True
+Madhya Pradesh,Seoni,304,Seoni,79.72025222428486,22.2748109,True
+Madhya Pradesh,Shahdol,307,Shahdol,81.43031910833862,23.6530718,True
+Madhya Pradesh,Shajapur,309,Shajapur,76.60747942907905,23.41710015,True
+Madhya Pradesh,Sheopur,311,Sheopur,76.92139442679952,25.749611199999997,True
+Madhya Pradesh,Shivpuri,314,Shivpuri,77.82788660942335,25.374121549999998,True
+Madhya Pradesh,Sidhi,317,Sidhi,81.70001107540006,24.2111241,True
+Madhya Pradesh,Singrauli,320,Singrauli,82.38283968333121,24.24333065,True
+Madhya Pradesh,Tikamgarh,343,Tikamgarh,79.04725459918899,24.85521045,True
+Madhya Pradesh,Ujjain,349,Ujjain,75.62604150687314,23.293425749999997,True
+Madhya Pradesh,Umaria,350,Umaria,80.94188247840742,23.64318365,True
+Madhya Pradesh,Vidisha,357,Vidisha,77.83702093017993,23.84630035,True
+Madhya Pradesh,Narsimhapur,248,Narsinghpur,79.08654671966903,22.93497875,True
+Maharashtra,Ahmednagar,445,Ahmednagar,74.85808772478222,19.16253005,True
+Maharashtra,Akola,446,Akola,77.1919433563537,20.7614119,True
+Maharashtra,Amravati,448,Amravati,77.6445796823359,21.154365849999998,True
+Maharashtra,Beed,467,Beed,75.91009994993927,18.9922029,True
+Maharashtra,Bhandara,464,Bhandara,79.79453380909993,21.122541750000003,True
+Maharashtra,Buldhana,469,Buldhana,76.40870429948129,20.56357825,True
+Maharashtra,Chandrapur,472,Chandrapur,79.50416669372801,20.0969288,True
+Maharashtra,Chhatrapati Sambhajinagar,455,Aurangabad,75.15062513023858,20.0230436,True
+Maharashtra,Dharashiv,555,Osmanabad,76.11712565358539,18.16944075,True
+Maharashtra,Dhule,477,Dhule,74.48996328756184,21.1311871,True
+Maharashtra,Gadchiroli,487,Gadchiroli,80.16312504642863,19.7575378,True
+Maharashtra,Gondia,489,Gondia,80.2682341663124,21.14531585,True
+Maharashtra,Hingoli,494,Hingoli,77.18891538668667,19.619322,True
+Maharashtra,Jalgaon,501,Jalgaon,75.52655628408026,20.8423318,True
+Maharashtra,Jalna,502,Jalna,75.87046196914915,19.9189471,True
+Maharashtra,Kolhapur,518,Kolhapur,74.08924734177084,16.461906499999998,True
+Maharashtra,Latur,524,Latur,76.75496951791743,18.3553657,True
+Maharashtra,Mumbai,540,Mumbai,72.82643008596077,18.973218199999998,True
+Maharashtra,Nagpur,545,Nagpur,79.01445722863478,21.1527098,True
+Maharashtra,Nanded,548,Nanded,77.48284741780942,19.09337945,True
+Maharashtra,Nandurbar,549,Nandurbar,74.54106040641638,21.5139354,True
+Maharashtra,Nashik,550,Nashik,74.10391801094623,20.225209800000002,True
+Maharashtra,Palghar,556,Palghar,73.08650736369667,19.7573055,True
+Maharashtra,Parbhani,560,Parbhani,76.6019051543974,19.2901087,True
+Maharashtra,Pune,567,Pune,73.92112471031842,18.645125,True
+Maharashtra,Raigad,571,Raigad,73.13899569356379,18.49301155,True
+Maharashtra,Ratnagiri,573,Ratnagiri,73.47278320712098,17.2825878,True
+Maharashtra,Sangli,580,Sangli,74.58586639191506,17.1723804,True
+Maharashtra,Satara,583,Satara,74.29810071725186,17.63591435,True
+Maharashtra,Sindhudurg,587,Sindhudurg,73.65343330870334,16.1355117,True
+Maharashtra,Solapur,591,Solapur,75.27667432557516,17.84987845,True
+Maharashtra,Thane,599,Thane,73.36847839894767,19.3593327,True
+Maharashtra,Wardha,609,Wardha,78.61289544058867,20.82613025,True
+Maharashtra,Washim,610,Washim,77.23714984887258,20.2870822,True
+Maharashtra,Yavatmal,614,Yavatmal,78.35666469529275,20.06423625,True
+Manipur,Bishnupur,68,Bishnupur,93.79244690959624,24.5238595,True
+Manipur,Chandel,78,Chandel,93.97106998561947,24.1623453,True
+Manipur,Churachandpur,89,Churachandpur,93.67142687776924,24.27832255,True
+Manipur,Imphal East,431,Imphal East,94.0101277613625,24.8527154,True
+Manipur,Imphal West,159,Imphal West,93.85994005677776,24.7989564,True
+Manipur,Senapati,584,Senapati,94.14790084899246,25.391156799999997,True
+Manipur,Tamenglong,596,Tamenglong,93.53112951321074,25.06407555,True
+Manipur,Thoubal,600,Thoubal,93.99584926989577,24.6180413,True
+Manipur,Ukhrul,515,Ukhrul,94.46082586101517,25.28772685,True
+Meghalaya,East Garo Hills,119,East Garo Hills,90.63556328130107,25.614668350000002,True
+Meghalaya,East Jaintia Hills,203,East Jaintia Hills,92.48303924022596,25.2501661,True
+Meghalaya,East Khasi Hills,120,East Khasi Hills,91.82864470686167,25.4065764,True
+Meghalaya,North Garo Hills,403,North Garo Hills,90.70177402989668,25.85727065,True
+Meghalaya,Ri Bhoi,399,Ri Bhoi,91.85560605762647,25.8744668,True
+Meghalaya,South Garo Hills,329,South Garo Hills,90.57813329874205,25.349446999999998,True
+Meghalaya,South West Garo Hills,402,South West Garo Hills,89.99512496783674,25.43857565,True
+Meghalaya,South West Khasi Hills,401,South West Khasi Hills,91.32463188143652,25.3095985,True
+Meghalaya,West Garo Hills,362,West Garo Hills,90.20348173629392,25.60604725,True
+Meghalaya,West Jaintia Hills,404,West Jaintia Hills,92.29211635715731,25.4361441,True
+Meghalaya,West Khasi Hills,363,West Khasi Hills,91.0813450155744,25.57743655,True
+Mizoram,Aizawl,405,Aizawl,92.90186686891779,23.86584315,True
+Mizoram,Champhai,707,Champhai,93.27121681509016,23.196966250000003,True
+Mizoram,Kolasib,371,Kolasib,92.71211747820789,24.1835166,True
+Mizoram,Lawngtlai,369,Lawngtlai,92.7312339082258,22.368834749999998,True
+Mizoram,Lunglei,373,Lunglei,92.6341668793074,22.95194595,True
+Mizoram,Mamit,372,Mamit,92.45064472349759,23.756049249999997,True
+Mizoram,Serchhip,370,Serchhip,92.84507601590235,23.3032375,True
+Mizoram,Siaha,296,Saiha,93.01308322310803,22.28719595,True
+Nagaland,Dimapur,750,Dimapur,93.74247089833258,25.908704,True
+Nagaland,Kiphire,617,Kiphire,94.85638709389002,25.8060024,True
+Nagaland,Kohima,616,Kohima,94.1041180562558,25.720582999999998,True
+Nagaland,Longleng,624,Longleng,94.80470160741251,26.58413325,True
+Nagaland,Mokokchung,619,Mokokchung,94.50858794683096,26.470898849999998,True
+Nagaland,Mon,620,Mon,94.99985520837936,26.660364649999998,True
+Nagaland,Peren,479,Peren,93.60006109456526,25.4500311,True
+Nagaland,Phek,516,Phek,94.37831383570968,25.649191000000002,True
+Nagaland,Tuensang,621,Tuensang,94.73574916316801,26.2197855,True
+Nagaland,Wokha,538,Wokha,94.19052426791353,26.2414541,True
+Nagaland,Zunheboto,618,Zunheboto,94.51194534344873,26.01277735,True
+Odisha,Anugul,23,Anugul,84.95462852393257,21.10377175,True
+Odisha,Balangir,35,Balangir,83.1666464294749,20.609697099999998,True
+Odisha,Baleshwar,36,Baleshwar,86.87978362225914,21.5211905,True
+Odisha,Bargarh,47,Bargarh,83.56706798246506,21.23342975,True
+Odisha,Bhadrak,58,Bhadrak,86.59544325283883,20.9845276,True
+Odisha,Boudh,368,Boudh,83.99756734659437,20.63998665,True
+Odisha,Cuttack,91,Cuttack,85.46632625652246,20.37098315,True
+Odisha,Deogarh,101,Deogarh,84.71696832225327,21.44757705,True
+Odisha,Dhenkanal,110,Dhenkanal,85.60153412070997,20.835456,True
+Odisha,Gajapati,129,Gajapati,84.19031277717667,19.1972724,True
+Odisha,Ganjam,130,Ganjam,84.70660463180995,19.610354899999997,True
+Odisha,Jagatsinghapur,162,Jagatsinghapur,86.34340651903184,20.18480465,True
+Odisha,Jajapur,165,Jajapur,86.12207974984932,20.87514045,True
+Odisha,Jharsuguda,175,Jharsuguda,84.0158473875237,21.80204045,True
+Odisha,Kalahandi,181,Kalahandi,83.04074433743034,19.826186749999998,True
+Odisha,Kandhamal,183,Kandhamal,84.07895155817573,20.1317804,True
+Odisha,Kendrapara,196,Kendrapara,86.535814773097,20.54796585,True
+Odisha,Kendujhar,197,Kendujhar,85.66809786939581,21.589579800000003,True
+Odisha,Khordha,199,Khordha,85.50205856693829,20.0544675,True
+Odisha,Koraput,211,Koraput,82.60852865635033,18.72386345,True
+Odisha,Malkangiri,230,Malkangiri,81.95367373109383,18.27579515,True
+Odisha,Mayurbhanj,236,Mayurbhanj,86.39646929328119,21.9161493,True
+Odisha,Nabarangpur,244,Nabarangpur,82.29917805151976,19.6098094,True
+Odisha,Nayagarh,249,Nayagarh,85.05084286616952,20.239345,True
+Odisha,Nuapada,260,Nuapada,82.5282843012683,20.540575150000002,True
+Odisha,Puri,275,Puri,85.6871051068322,19.8351352,True
+Odisha,Rayagada,289,Rayagada,83.58752167575597,19.44254415,True
+Odisha,Sambalpur,297,Sambalpur,84.15290294175426,21.555674850000003,True
+Odisha,Sonepur,333,Sonepur,83.8517964345364,20.8527005,True
+Odisha,Sundargarh,336,Sundargarh,83.93614964721564,22.06037675,True
+Puducherry,Karaikal,190,Karaikal,79.8063444835347,10.91561325,True
+Puducherry,Mahe,225,Mahe,75.53553222599668,11.701565,True
+Puducherry,Pondicherry,273,Pondicherry,79.79494803948069,11.9221065,True
+Puducherry,Yanam,367,Yanam,82.2051763741601,16.73320985,True
+Punjab,Amritsar,450,Amritsar,74.83152075072385,31.7683482,True
+Punjab,Barnala,459,Barnala,75.5039886995367,30.3716802,True
+Punjab,Bathinda,460,Bathinda,75.04726352869082,30.178719700000002,True
+Punjab,Faridkot,482,Faridkot,74.79501756894368,30.6014507,True
+Punjab,Fatehgarh Sahib,484,Fatehgarh Sahib,76.38030001704635,30.663404149999998,True
+Punjab,Fazilka,485,Fazilka,74.12171939597229,30.31980395,True
+Punjab,Ferozepur,486,Ferozepur,74.65246373828842,30.8751301,True
+Punjab,Gurdaspur,491,Gurdaspur,75.22755867008684,31.9037264,True
+Punjab,Hoshiarpur,496,Hoshiarpur,75.8463981261244,31.6092203,True
+Punjab,Jalandhar,500,Jalandhar,75.56796601471416,31.2922034,True
+Punjab,Kapurthala,508,Kapurthala,75.30498530988243,31.3854845,True
+Punjab,Ludhiana,527,Ludhiana,75.82697237096326,30.789406999999997,True
+Punjab,Mansa,534,Mansa,75.488971158222,29.87609305,True
+Punjab,Moga,537,Moga,75.15935898836224,30.7877554,True
+Punjab,Pathankot,563,Pathankot,75.6591718461247,32.302407450000004,True
+Punjab,Patiala,564,Patiala,76.34019014534017,30.209446550000003,True
+Punjab,Rupnagar,577,Rupnagar,76.52884260357465,31.09185215,True
+Punjab,S.A.S Nagar,582,S.A.S Nagar,76.74162983179895,30.648163949999997,True
+Punjab,Sangrur,753,Sangrur,75.85316181746792,30.13615915,True
+Punjab,Shahid Bhagat Singh Nagar,552,Shahid Bhagat Singh Nagar,76.15989884152029,31.12696895,True
+Punjab,Sri Muktsar Sahib,539,Sri Muktsar Sahib,74.52622341443077,30.28671615,True
+Punjab,Tarn Taran,597,Tarn Taran,74.84163355139026,31.3212396,True
+Rajasthan,Ajmer,14,Ajmer,74.80304736058199,26.567666250000002,True
+Rajasthan,Alwar,19,Alwar,76.61712756074883,27.41431195,True
+Rajasthan,Banswara,45,Banswara,74.35006974132108,23.4916212,True
+Rajasthan,Baran,48,Baran,76.68234176885247,24.9207979,True
+Rajasthan,Barmer,50,Barmer,71.19253492096139,25.58164705,True
+Rajasthan,Bharatpur,59,Bharatpur,77.29238721273046,27.024430449999997,True
+Rajasthan,Bhilwara,60,Bhilwara,74.3293540306185,25.48847725,True
+Rajasthan,Bikaner,785,Bikaner,73.11049226521736,28.11627935,True
+Rajasthan,Bundi,71,Bundi,75.73718712708782,25.4378034,True
+Rajasthan,Chittorgarh,88,Chittorgarh,74.47226510477074,24.71665755,True
+Rajasthan,Churu,90,Churu,74.6916141605735,28.2054945,True
+Rajasthan,Dausa,738,Dausa,76.44513706345421,26.80547255,True
+Rajasthan,Dholpur,111,Dholpur,77.62363341939943,26.65331125,True
+Rajasthan,Dungarpur,115,Dungarpur,73.81643826424997,23.67352785,True
+Rajasthan,Ganganagar,202,Ganganagar,73.83379149379797,29.55007255,True
+Rajasthan,Hanumangarh,148,Hanumangarh,74.2987844186137,29.3657182,True
+Rajasthan,Jaipur,163,Jaipur,75.71649091168766,26.97442445,True
+Rajasthan,Jaisalmer,164,Jaisalmer,70.77784270488306,27.02718025,True
+Rajasthan,Jalore,167,Jalore,72.31844293027456,25.20950105,True
+Rajasthan,Jhalawar,173,Jhalawar,76.52215366300709,24.31344095,True
+Rajasthan,Jhunjhunu,176,Jhunjhunu,75.3978310846339,28.080857549999998,True
+Rajasthan,Jodhpur,177,Jodhpur,73.04286605949079,26.33400625,True
+Rajasthan,Karauli,191,Karauli,77.01618116908534,26.4530098,True
+Rajasthan,Kota,214,Kota,75.99945083156767,25.19467525,True
+Rajasthan,Nagaur,784,Nagaur,73.73983426702358,26.988447,True
+Rajasthan,Pali,264,Pali,73.4186460792045,25.4543939,True
+Rajasthan,Pratapgarh,271,Pratapgarh,74.6249403888329,24.02404995,True
+Rajasthan,Rajsamand,283,Rajsamand,73.82462514435093,25.28989395,True
+Rajasthan,Sawai Madhopur,302,Sawai Madhopur,76.42401103564379,26.1136718,True
+Rajasthan,Sikar,318,Sikar,75.02745474565683,27.6623661,True
+Rajasthan,Sirohi,322,Sirohi,72.82985366557041,24.8111862,True
+Rajasthan,Tonk,344,Tonk,75.82391633841995,26.12240135,True
+Rajasthan,Udaipur,346,Udaipur,73.40652568674636,24.4534843,True
+Sikkim,Gangtok,118,Gangtok,88.55565238421399,27.2973903,True
+Sikkim,Gyalshing,360,Gyalshing,88.18143798908855,27.423414100000002,True
+Sikkim,Mangan,254,Mangan,88.52116477085522,27.747273399999997,True
+Sikkim,Namchi,327,Namchi,88.38018934099554,27.3042096,True
+Sikkim,Pakyong,745,Pakyong,88.68703573025712,27.2335654,True
+Sikkim,Soreng,746,Soreng,88.1948779660454,27.181978049999998,True
+Tamil Nadu,Ariyalur,666,Ariyalur,79.25899880830778,11.15289215,True
+Tamil Nadu,Chengalpattu,667,Chengalpattu,80.06579767909635,12.63733215,True
+Tamil Nadu,Chennai,668,Chennai,80.21948654664564,13.100313199999999,True
+Tamil Nadu,Coimbatore,669,Coimbatore,77.0817337395576,10.813201549999999,True
+Tamil Nadu,Cuddalore,670,Cuddalore,79.33837473268056,11.52068185,True
+Tamil Nadu,Dharmapuri,671,Dharmapuri,78.11329141565422,12.14486065,True
+Tamil Nadu,Dindigul,672,Dindigul,77.81594931382274,10.4264203,True
+Tamil Nadu,Erode,673,Erode,77.3305302406325,11.418697349999999,True
+Tamil Nadu,Kallakurichi,674,Kallakurichi,79.05058991517683,11.7921207,True
+Tamil Nadu,Kanchipuram,709,Kanchipuram,79.77415196997737,12.79405615,True
+Tamil Nadu,Kanniyakumari,675,Kanniyakumari,77.35446241210023,8.32831,True
+Tamil Nadu,Karur,676,Karur,78.38391372618437,10.821739,True
+Tamil Nadu,Krishnagiri,698,Krishnagiri,78.01004631004578,12.51503485,True
+Tamil Nadu,Madurai,677,Madurai,78.0076663025186,9.93633905,True
+Tamil Nadu,Mayiladuthurai,703,Mayiladuthurai,79.69624716595902,11.19101005,True
+Tamil Nadu,Nagapattinam,702,Nagapattinam,79.7608967167013,10.60185085,True
+Tamil Nadu,Namakkal,679,Namakkal,78.11864879477801,11.30548565,True
+Tamil Nadu,Perambalur,680,Perambalur,78.92993465589254,11.289732950000001,True
+Tamil Nadu,Pudukkottai,755,Pudukkottai,78.81726082051252,10.2918249,True
+Tamil Nadu,Ramanathapuram,681,Ramanathapuram,78.6501749048909,9.5193282,True
+Tamil Nadu,Ranipet,682,Ranipet,79.40780068764408,12.9194159,True
+Tamil Nadu,Salem,683,Salem,78.21086363183396,11.647353899999999,True
+Tamil Nadu,Sivaganga,684,Sivaganga,78.72043986322113,9.96487905,True
+Tamil Nadu,Tenkasi,686,Tenkasi,77.47564619714765,9.091927049999999,True
+Tamil Nadu,Thanjavur,754,Thanjavur,79.19806432861068,10.6596795,True
+Tamil Nadu,The Nilgiris,678,The Nilgiris,76.69748741121455,11.4457236,True
+Tamil Nadu,Theni,685,Theni,77.42228423985898,9.86877935,True
+Tamil Nadu,Thiruvallur,692,Thiruvallur,80.05389389099909,13.254790750000002,True
+Tamil Nadu,Thiruvarur,687,Thiruvarur,79.49976228222683,10.64912025,True
+Tamil Nadu,Tiruchirappalli,688,Tiruchirappalli,78.72681982230965,10.85103915,True
+Tamil Nadu,Tirunelveli,689,Tirunelveli,77.57995486184277,8.5494304,True
+Tamil Nadu,Tirupathur,691,Tirupathur,78.62524195424277,12.5843286,True
+Tamil Nadu,Tiruppur,690,Tiruppur,77.534917423303,10.79143355,True
+Tamil Nadu,Tiruvannamalai,693,Tiruvannamalai,78.99980842439913,12.4292374,True
+Tamil Nadu,Tuticorin,694,Tuticorin,77.99311898758856,8.846453499999999,True
+Tamil Nadu,Vellore,695,Vellore,79.06060266351406,12.90190805,True
+Tamil Nadu,Villupuram,696,Villupuram,79.60071831830189,12.12508745,True
+Tamil Nadu,Virudhunagar,697,Virudhunagar,77.8635285768818,9.493498500000001,True
+Telangana,Adilabad,444,Adilabad,78.60921580071178,19.54456555,True
+Telangana,Bhadradri Kothagudem,513,Bhadradri Kothagudem,80.56813967456627,17.71475595,True
+Telangana,Hanumakonda,756,Hanumakonda,79.43951199760569,18.03582815,True
+Telangana,Hyderabad,498,Hyderabad,78.46132288547935,17.390188199999997,True
+Telangana,Jagitial,661,Jagitial,78.92553844179176,18.81407345,True
+Telangana,Jangoan,657,Jangoan,79.25927520859335,17.72629115,True
+Telangana,Jayashankar Bhupalapally,659,Jayashankar Bhupalapally,79.95844843701367,18.50243795,True
+Telangana,Jogulamba Gadwal,634,Jogulamba Gadwal,77.73349242697496,16.09957055,True
+Telangana,Kamareddy,646,Kamareddy,78.05410393752823,18.307950599999998,True
+Telangana,Karimnagar,509,Karimnagar,79.27802054360792,18.4040423,True
+Telangana,Khammam,655,Khammam,80.40685484076465,17.170856999999998,True
+Telangana,Kumuram Bheem Asifabad,643,Kumuram Bheem Asifabad,79.41001369087422,19.32337535,True
+Telangana,Mahabubabad,656,Mahabubabad,80.05461322702547,17.720676949999998,True
+Telangana,Mahabubnagar,530,Mahabubnagar,77.94963679863261,16.6921071,True
+Telangana,Mancherial,644,Mancherial,79.52654791909234,18.966943649999997,True
+Telangana,Medak,663,Medak,78.22259241615009,17.94031355,True
+Telangana,Medchal Malkajgiri,652,Medchal Malkajgiri,78.52558859003771,17.5342624,True
+Telangana,Mulugu,608,Mulugu,80.32186856590116,18.313374600000003,True
+Telangana,Nagarkurnool,648,Nagarkurnool,78.65584116922801,16.42031765,True
+Telangana,Nalgonda,547,Nalgonda,79.21723633838775,16.8581834,True
+Telangana,Narayanpet,650,Narayanpet,77.61180292772436,16.690662850000002,True
+Telangana,Nirmal,645,Nirmal,78.39609251964936,19.09298095,True
+Telangana,Nizamabad,553,Nizamabad,78.19211163370551,18.726326800000002,True
+Telangana,Peddapalli,660,Peddapalli,79.49301075469691,18.621163099999997,True
+Telangana,Rajanna Sircilla,662,Rajanna Sircilla,78.7618419622697,18.42424185,True
+Telangana,Ranga Reddy,572,Ranga Reddy,78.39613464438092,17.13410285,True
+Telangana,Sangareddy,647,Sangareddy,77.73254909853696,17.856779,True
+Telangana,Siddipet,535,Siddipet,78.9146818835425,18.0463239,True
+Telangana,Suryapet,654,Suryapet,79.79305682139486,17.08026135,True
+Telangana,Vikarabad,651,Vikarabad,77.73582160686047,17.24317805,True
+Telangana,Wanaparthy,649,Wanaparthy,77.98586410051146,16.2845821,True
+Telangana,Warangal,658,Warangal,79.79783902923229,17.865234649999998,True
+Telangana,Yadadri Bhuvanagiri,653,Yadadri Bhuvanagiri,79.09069938073127,17.42807035,True
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,699,Dadra And Nagar Haveli,73.0066531667986,20.204326000000002,True
+The Dadra and Nagar Haveli and Daman and Diu,Daman,94,Daman,72.83890931961344,20.422351,True
+The Dadra and Nagar Haveli and Daman and Diu,Diu,435,Diu,70.93431842904025,20.72130085,True
+Tripura,Dhalai,104,Dhalai,91.97001576527677,23.823457249999997,True
+Tripura,Gomati,140,Gomati,91.61391943901597,23.4262539,True
+Tripura,Khowai,200,Khowai,91.64124114082314,23.954433350000002,True
+Tripura,North Tripura,258,North Tripura,92.24363672843182,24.09164325,True
+Tripura,Sepahijala,305,Sepahijala,91.30086785655993,23.5319171,True
+Tripura,South Tripura,331,South Tripura,91.64166159205931,23.18194565,True
+Tripura,Unakoti,353,Unakoti,92.04625181883836,24.2022739,True
+Tripura,West Tripura,365,West Tripura,91.3874592129349,23.91862505,True
+Uttar Pradesh,Agra,13,Agra,77.89109517771647,27.07549335,True
+Uttar Pradesh,Aligarh,16,Aligarh,78.13581238605798,27.87588205,True
+Uttar Pradesh,Ambedkar Nagar,20,Ambedkar Nagar,82.60651542266064,26.4045941,True
+Uttar Pradesh,Amethi,21,Amethi,81.62520390649198,26.346274049999998,True
+Uttar Pradesh,Amroha,22,Amroha,78.34405153359737,28.79606405,True
+Uttar Pradesh,Auraiya,27,Auraiya,79.51586785450598,26.6555975,True
+Uttar Pradesh,Ayodhya,108,Ayodhya,82.0581427511368,26.63846575,True
+Uttar Pradesh,Azamgarh,28,Azamgarh,83.02931047687315,26.02363905,True
+Uttar Pradesh,Baghpat,32,Baghpat,77.3062736595316,29.037477850000002,True
+Uttar Pradesh,Bahraich,33,Bahraich,81.48252905481417,27.7314512,True
+Uttar Pradesh,Ballia,38,Ballia,84.1210170073883,25.87457775,True
+Uttar Pradesh,Balrampur,42,Balrampur,82.39581297153099,27.447590150000003,True
+Uttar Pradesh,Banda,44,Banda,80.55963465706887,25.44385365,True
+Uttar Pradesh,Barabanki,46,Barabanki,81.38586306860937,26.9424734,True
+Uttar Pradesh,Bareilly,49,Bareilly,79.40465696847193,28.4582935,True
+Uttar Pradesh,Basti,52,Basti,82.53511132426092,26.8386864,True
+Uttar Pradesh,Bhadohi,57,Bhadohi,82.5030216632152,25.3574562,True
+Uttar Pradesh,Bijnor,64,Bijnor,78.48240675039551,29.40691355,True
+Uttar Pradesh,Budaun,29,Budaun,79.04383198989238,28.0649367,True
+Uttar Pradesh,Bulandshahr,70,Bulandshahr,77.97457984678786,28.38779565,True
+Uttar Pradesh,Chandauli,77,Chandauli,83.24980027403842,25.125735849999998,True
+Uttar Pradesh,Chitrakoot,87,Chitrakoot,81.10455217658536,25.2169162,True
+Uttar Pradesh,Deoria,102,Deoria,83.7640449785476,26.4242557,True
+Uttar Pradesh,Etah,123,Etah,78.59922214449577,27.5550357,True
+Uttar Pradesh,Etawah,124,Etawah,79.09170983360895,26.715562900000002,True
+Uttar Pradesh,Farrukhabad,125,Farrukhabad,79.48947477698084,27.43620025,True
+Uttar Pradesh,Fatehpur,126,Fatehpur,80.91545541262744,25.8348023,True
+Uttar Pradesh,Firozabad,127,Firozabad,78.46049332335451,27.1941987,True
+Uttar Pradesh,Gautam Buddha Nagar,133,Gautam Buddha Nagar,77.59702170592496,28.369503299999998,True
+Uttar Pradesh,Ghaziabad,135,Ghaziabad,77.46039457556387,28.7678881,True
+Uttar Pradesh,Ghazipur,134,Ghazipur,83.50758884009142,25.60348625,True
+Uttar Pradesh,Gonda,141,Gonda,81.92389055909715,27.1103723,True
+Uttar Pradesh,Gorakhpur,142,Gorakhpur,83.36415829151383,26.667351,True
+Uttar Pradesh,Hamirpur,147,Hamirpur,79.86635730873502,25.81982145,True
+Uttar Pradesh,Hapur,149,Hapur,77.89045890281653,28.71659535,True
+Uttar Pradesh,Hardoi,151,Hardoi,80.09982319183257,27.336997750000002,True
+Uttar Pradesh,Hathras,154,Hathras,78.11168843108499,27.572465049999998,True
+Uttar Pradesh,Jalaun,166,Jalaun,79.39350503642792,26.10446035,True
+Uttar Pradesh,Jaunpur,171,Jaunpur,82.48889928059522,25.7967065,True
+Uttar Pradesh,Jhansi,174,Jhansi,78.6528086649754,25.52994925,True
+Uttar Pradesh,Kannauj,186,Kannauj,79.69279462128947,26.9986675,True
+Uttar Pradesh,Kanpur Dehat,189,Kanpur Dehat,79.85480520543226,26.45856395,True
+Uttar Pradesh,Kanpur Nagar,188,Kanpur Nagar,80.26480946228133,26.44159285,True
+Uttar Pradesh,Kasganj,193,Kasganj,78.8229700885066,27.788852749999997,True
+Uttar Pradesh,Kaushambi,195,Kaushambi,81.44926790273391,25.5339409,True
+Uttar Pradesh,Kheri,198,Kheri,80.71312719574527,28.18342285,True
+Uttar Pradesh,Kushi Nagar,218,Kushi Nagar,83.83197263613152,26.9241405,True
+Uttar Pradesh,Lalitpur,220,Lalitpur,78.5186007581126,24.70075945,True
+Uttar Pradesh,Lucknow,223,Lucknow,80.91718147000174,26.83125555,True
+Uttar Pradesh,Mahoba,227,Mahoba,79.7061846685499,25.361748,True
+Uttar Pradesh,Mainpuri,228,Mainpuri,79.06253691568566,27.20930715,True
+Uttar Pradesh,Mathura,234,Mathura,77.58835452773536,27.6002671,True
+Uttar Pradesh,Mau,235,Mau,83.498627966496,26.03942895,True
+Uttar Pradesh,Meerut,237,Meerut,77.76796714992041,29.0018557,True
+Uttar Pradesh,Mirzapur,238,Mirzapur,82.62801628419575,24.9316896,True
+Uttar Pradesh,Moradabad,239,Moradabad,78.80953353954959,28.879655300000003,True
+Uttar Pradesh,Muzaffarnagar,242,Muzaffarnagar,77.74290255086504,29.44945515,True
+Uttar Pradesh,Pilibhit,270,Pilibhit,80.10781258305673,28.49422655,True
+Uttar Pradesh,Pratapgarh,272,Pratapgarh,81.8317578057397,25.8766868,True
+Uttar Pradesh,Prayagraj,398,Prayagraj,81.90351514680552,25.2793187,True
+Uttar Pradesh,Rae Bareli,276,Rae Bareli,81.2186147467481,26.20867685,True
+Uttar Pradesh,Rampur,286,Rampur,79.18458064228349,28.7934728,True
+Uttar Pradesh,Saharanpur,294,Saharanpur,77.5052398794679,29.98516515,True
+Uttar Pradesh,Sambhal,298,Sambhal,78.55645464651963,28.42719275,True
+Uttar Pradesh,Shahjahanpur,308,Shahjahanpur,79.74762848034882,27.912868,True
+Uttar Pradesh,Shamli,310,Shamli,77.28978262916166,29.480878,True
+Uttar Pradesh,Siddharth Nagar,316,Siddharth Nagar,82.87136431909408,27.25128415,True
+Uttar Pradesh,Sitapur,323,Sitapur,80.833513937751,27.502674749999997,True
+Uttar Pradesh,Sonbhadra,325,Sonbhadra,83.06314452436155,24.41519985,True
+Uttar Pradesh,Sultanpur,335,Sultanpur,82.23811349072378,26.260473150000003,True
+Uttar Pradesh,Unnao,352,Unnao,80.61981926788883,26.5673264,True
+Uttar Pradesh,Varanasi,356,Varanasi,82.94154250747096,25.372094,True
+Uttar Pradesh,Mahrajganj,531,Maharajganj,83.4917300746657,27.18372625,True
+Uttar Pradesh,Sant Kabir Nagar,299,Sant Kabeer Nagar,83.03985451976092,26.755082,True
+Uttar Pradesh,Shrawasti,315,Shravasti,81.89291132652279,27.67863065,True
+Uttarakhand,Almora,18,Almora,79.43263180742625,29.70265095,True
+Uttarakhand,Bageshwar,31,Bageshwar,79.92802347840004,30.0087902,True
+Uttarakhand,Chamoli,471,Chamoli,79.61941885061015,30.500497600000003,True
+Uttarakhand,Champawat,76,Champawat,80.10199898343208,29.234378,True
+Uttarakhand,Dehradun,100,Dehradun,77.86293923391008,30.497373500000002,True
+Uttarakhand,Haridwar,152,Haridwar,78.0087168547137,29.9112791,True
+Uttarakhand,Nainital,245,Nainital,79.41625112686134,29.29499495,True
+Uttarakhand,Pauri Garhwal,269,Pauri Garhwal,78.70721953471764,29.846978,True
+Uttarakhand,Pithoragarh,566,Pithoragarh,80.47771479908045,30.124818050000002,True
+Uttarakhand,Rudra Prayag,291,Rudra Prayag,79.03612670966113,30.4910615,True
+Uttarakhand,Tehri Garhwal,340,Tehri Garhwal,78.48395778759532,30.4655501,True
+Uttarakhand,Udam Singh Nagar,347,Udam Singh Nagar,79.43372499198333,29.0455814,True
+Uttarakhand,Uttar Kashi,606,Uttar Kashi,78.63422994630938,30.965093,True
+West Bengal,Paschim Medinipur,562,Medinipur West,87.41115051140771,22.36001185,True
+West Bengal,Purba Medinipur,481,Medinipur East,87.81813041702816,22.0652637,True
+West Bengal,Alipurduar,447,Alipurduar,89.45377274278859,26.628484049999997,True
+West Bengal,Bankura,457,Bankura,87.20826382095976,23.13243795,True
+West Bengal,Birbhum,468,Birbhum,87.69828228934051,24.06215315,True
+West Bengal,Coochbehar,743,Coochbehar,89.42031173169113,26.2558906,True
+West Bengal,Darjeeling,476,Darjeeling,88.30523813810001,26.836287249999998,True
+West Bengal,Hooghly,497,Hooghly,88.01208471449127,22.909930000000003,True
+West Bengal,Howrah,493,Howrah,88.03235167060288,22.4938099,True
+West Bengal,Jalpaiguri,503,Jalpaiguri,88.73282730794313,26.6265228,True
+West Bengal,Jhargram,631,Jhargram,86.99365741542124,22.3324004,True
+West Bengal,Kalimpong,633,Kalimpong,88.64689350676343,27.02822115,True
+West Bengal,Kolkata,519,Kolkata,88.3633658719526,22.5353584,True
+West Bengal,Murshidabad,542,Murshidabad,88.3738570217341,24.290042200000002,True
+West Bengal,Nadia,544,Nadia,88.55644806682405,23.4849501,True
+West Bengal,Purba Bardhaman,458,Purba Bardhaman,87.96037453567223,23.388033999999998,True
+West Bengal,Purulia,570,Purulia,86.3229340047524,23.20214675,True
+West Bengal,Dakshin Dinajpur,474,Dinajpur Dakshin,88.50612573762095,25.385806950000003,True
+West Bengal,North 24 Parganas,554,24 Paraganas North,88.66226535046687,22.68793255,True
+West Bengal,South 24 Parganas,593,24 Paraganas South,88.63111201828133,22.090740150000002,True
+West Bengal,Uttar Dinajpur,605,Dinajpur Uttar,87.96201898034639,25.8720612,True
+West Bengal,Malda,533,Maldah,88.11849617416905,25.0978453,True

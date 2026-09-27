@@ -1,0 +1,55 @@
+shp_id,state_std,district_name,method,frac,reason,parent_state,parent_district,parent_obj_id
+66,CHHATTISGARH,Gaurella Pendra Marwahi,no_data,0.0,no IMD parent >=50% overlap,,,
+121,,,imd_parent_containment,0.9810398608667903,,Madhya Pradesh,Khandwa (East Nimar),226.0
+306,,,historical_csv_parent,0.0,,Delhi,East and North-East,
+391,JAMMU AND KASHMIR,Mirpur,no_data,0.0,no IMD parent >=50% overlap,,,
+392,JAMMU AND KASHMIR,Muzaffarabad,no_data,0.0,no IMD parent >=50% overlap,,,
+428,ASSAM,South Salmara Mancachar,no_data,0.0,no IMD parent >=50% overlap,,,
+432,,,historical_csv_parent,0.0,,Manipur,Imphal East,
+594,,,imd_parent_containment,0.9645447509495447,,Maharashtra,Unknown Districts Of India,157.0
+602,,,historical_csv_parent,0.0,,Manipur,Ukhrul,
+612,,,historical_csv_parent,0.0,,Arunachal Pradesh,East Siang,
+615,,,imd_parent_containment,0.8238166133347727,,Nagaland,Dimapur,402.0
+625,,,historical_csv_parent,0.0,,Manipur,Tamenglong,
+626,,,historical_csv_parent,0.0,,Manipur,Churachandpur,
+627,,,historical_csv_parent,0.0,,Manipur,Chandel,
+628,,,historical_csv_parent,0.0,,Manipur,Senapati,
+629,,,historical_csv_parent,0.0,,Manipur,Thoubal,
+632,WEST BENGAL,Paschim Bardhaman,no_data,0.0,no IMD parent >=50% overlap,,,
+635,,,historical_csv_parent,0.0,,Arunachal Pradesh,East Siang,
+637,ARUNACHAL PRADESH,Shi Yomi,no_data,0.0,no IMD parent >=50% overlap,,,
+638,ARUNACHAL PRADESH,Leparada,no_data,0.0,no IMD parent >=50% overlap,,,
+639,ARUNACHAL PRADESH,Pakke Kessang,no_data,0.0,no IMD parent >=50% overlap,,,
+640,,,historical_csv_parent,0.0,,Arunachal Pradesh,Kurung Kumey,
+641,,,imd_parent_containment,0.985925084447276,,Arunachal Pradesh,Lower Dibang Valley,611.0
+642,,,historical_csv_parent,0.0,,Arunachal Pradesh,Lower Subansiri,
+665,,,historical_csv_parent,0.0,,Arunachal Pradesh,Tirap,
+700,MIZORAM,Hnahthial,no_data,0.0,no IMD parent >=50% overlap,,,
+701,,,imd_parent_containment,0.970898826720264,,Nagaland,Tuensang,443.0
+704,,,imd_parent_containment,0.72887641507815,,Karnataka,Ballari,100.0
+708,,,historical_csv_parent,0.0,,Mizoram,Champhai,
+742,,,imd_parent_containment,0.9675305962244819,,Punjab,Sangrur,538.0
+744,,,historical_csv_parent,0.0,,Mizoram,Aizawl,
+747,,,imd_parent_containment,0.9469488917390692,,Meghalaya,West Khasi Hills,4.0
+749,,,imd_parent_containment,0.9331561788983116,,Nagaland,Kohima,624.0
+758,,,imd_parent_containment,0.8762378616356286,,Nagaland,Dimapur,402.0
+759,,,imd_parent_containment,0.9999999999999997,,Nagaland,Tuensang,443.0
+763,,,imd_parent_containment,0.6635209171316305,,Chhattisgarh,Raigarh,235.0
+766,,,imd_parent_containment,0.9981323726456,,Arunachal Pradesh,Papum Pare,470.0
+767,,,imd_parent_containment,0.9418019736843627,,Rajasthan,Bharatpur,458.0
+768,,,imd_parent_containment,0.9865960771204244,,Rajasthan,Nagaur,463.0
+769,,,imd_parent_containment,0.9808497843923131,,Rajasthan,Jaipur,614.0
+770,,,imd_parent_containment,0.9862452967640266,,Rajasthan,Alwar,471.0
+771,,,imd_parent_containment,0.5188123420602078,,Rajasthan,Sawai Madhopur,414.0
+772,,,imd_parent_containment,0.9882843080203878,,Rajasthan,Jodhpur,460.0
+773,,,imd_parent_containment,0.5897924878554087,,Rajasthan,Sikar,472.0
+774,,,imd_parent_containment,0.5599574842731497,,Rajasthan,Pali,406.0
+775,,,imd_parent_containment,0.9904740103418744,,Rajasthan,Barmer,419.0
+776,,,imd_parent_containment,0.5308124999396842,,Rajasthan,Ganganagar,532.0
+777,,,imd_parent_containment,0.9903306911762709,,Rajasthan,Udaipur,709.0
+778,,,imd_parent_containment,0.9920784376709468,,Rajasthan,Jodhpur,460.0
+779,,,imd_parent_containment,0.9886049950505963,,Rajasthan,Jalore,669.0
+780,,,imd_parent_containment,0.9940942437952116,,Rajasthan,Bhilwara,711.0
+781,,,imd_parent_containment,0.7275779912576555,,Rajasthan,Ajmer,431.0
+782,,,imd_parent_containment,0.5471480473137511,,Rajasthan,Alwar,471.0
+783,,,imd_parent_containment,0.9774523669732004,,Rajasthan,Jaipur,614.0

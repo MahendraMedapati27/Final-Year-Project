@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "india-rainfall"
+version = "0.1.0"
+description = "Daily district-wise rainfall maps of India (NDAP/IMD)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2",
+  "pyarrow>=15.0",
+  "numpy>=1.26",
+  "matplotlib>=3.8",
+  "pyyaml>=6.0",
+  "typer>=0.12",
+  "tqdm>=4.66",
+  "tabulate>=0.9",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "full: tests that require the full dataset",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]

@@ -1,0 +1,15 @@
+dataset_state,dataset_district,state_std,district_std,shp_id,match_method,match_score,needs_review,note
+Andhra Pradesh,Ananthapuramu,ANDHRA PRADESH,ANANTHAPURAMU,714.0,hungarian,81.81818181818181,True,
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,ANDHRA PRADESH,DR B R AMBEDKAR KONASEEMA,721.0,hungarian,90.0,True,
+Andhra Pradesh,Sri Potti Sriramulu Nellore,ANDHRA PRADESH,SRI POTTI SRIRAMULU NELLORE,729.0,hungarian,85.5,True,
+Chhattisgarh,Balodabazar-Bhatapara,CHHATTISGARH,BALODABAZAR BHATAPARA,40.0,hungarian,86.08695652173914,True,
+Chhattisgarh,Balrampur Ramanujganj,CHHATTISGARH,BALRAMPUR RAMANUJGANJ,41.0,hungarian,90.0,True,
+Chhattisgarh,Dakshin Bastar Dantewada,CHHATTISGARH,DAKSHIN BASTAR DANTEWADA,97.0,hungarian,90.0,True,
+Chhattisgarh,Kabeerdham,CHHATTISGARH,KAWARDHA,179.0,hungarian,70.58823529411764,True,
+Chhattisgarh,Uttar Bastar Kanker,CHHATTISGARH,UTTAR BASTAR KANKER,185.0,hungarian,90.0,True,
+Madhya Pradesh,Narsimhapur,MADHYA PRADESH,NARSIMHAPUR,248.0,hungarian,81.81818181818181,True,
+Madhya Pradesh,Khandwa (East Nimar),MADHYA PRADESH,KHANDWA,,unmatched,0.0,True,no polygon; active 2021-01-01–2026-09-19 (1798 days) — name not in boundary layer
+Mizoram,Siaha,MIZORAM,SIAHA,296.0,hungarian,80.0,True,
+Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,299.0,hungarian,90.9090909090909,True,
+Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,315.0,hungarian,88.88888888888889,True,
+West Bengal,Malda,WEST BENGAL,MALDA,533.0,hungarian,90.9090909090909,True,

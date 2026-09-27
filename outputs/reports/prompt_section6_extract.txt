@@ -1,0 +1,111 @@
+## 6. STAGE 2 — CLEANING & ENRICHMENT (`clean.py`, `features.py`, `classes.py`)
+
+Output: `data/processed/rainfall_enriched.parquet` (+ `rainfall_enriched.csv.gz`). Keep original columns (snake_case, unit-suffixed) and **add** the following. Every added column must be documented in `outputs/reports/data_dictionary.md` (name, meaning, formula, unit, dtype).
+
+**6.1 Renaming:** `daily_actual_mm, daily_normal_mm, daily_departure_pct, weekly_*, cumulative_*, monthly_actual_mm (fix "Acutual"), monthly_*`, `obj_id`, `state`, `district`, `date`. Provided values → suffix `_provided` where you recompute.
+
+**6.2 Time features:** `year, month, day, doy, iso_week, season` (IMD: winter Jan–Feb, pre_monsoon Mar–May, monsoon Jun–Sep, post_monsoon Oct–Dec), `is_monsoon`, `monsoon_day` (days since 1 June), `week_start, week_end, cum_start, month_start, month_end` (parsed).
+
+**6.3 Identity features:** `state_std, district_std` (cleaned), `district_uid` (stable integer), `district_key`, `shp_id`, `match_method`, `match_score`, `lgd_state_code`, `lgd_district_code` (when the geometry source has them).
+
+**6.4 QC flags (boolean, never delete silently):** `qc_dup_resolved, qc_negative_fixed` (negatives → NaN), `qc_missing_actual, qc_missing_normal, qc_extreme_actual` (> `extreme_mm` config, default 500), `qc_departure_undefined, qc_no_geometry, qc_placeholder_district`.
+
+**6.5 Anomaly & class features:**
+- `daily_anomaly_mm = actual − normal`; `daily_departure_pct` (guarded recompute, see 2.1 #2).
+- **IMD rainfall intensity class** for daily actual (ordered categorical + integer code 0–6), official thresholds:
+  `No Rain = 0` · `Very Light 0.1–2.4` · `Light 2.5–15.5` · `Moderate 15.6–64.4` · `Heavy 64.5–115.5` · `Very Heavy 115.6–204.4` · `Extremely Heavy ≥ 204.5` (mm).
+- **IMD departure category** recomputed (LE/E/N/D/LD/NR) for daily, month-to-date and cumulative; keep `*_provided`; add `*_agrees` booleans.
+
+**6.6 Hydrological features (per district, on a complete daily index; a window with missing days → NaN, `min_periods = window`):**
+`rain_3d_mm, rain_7d_mm, rain_30d_mm`; `is_rainy_day` (≥ 2.5 mm), `is_heavy_day` (≥ 64.5), `is_very_heavy_day` (≥ 115.6); `dry_spell_len` (consecutive days < 2.5 mm ending today), `wet_spell_len`, `days_since_rain`; `monsoon_cum_mm` and `monsoon_cum_normal_mm` (recomputed since 1 June each year, compared against the provided cumulative columns); `cum_departure_pct` (guarded, from sums).
+
+**6.7 Spatial features (after Stage 3):** `area_km2` (computed in an **equal-area CRS**, e.g. `+proj=aea +lat_1=12 +lat_2=28 +lat_0=20 +lon_0=80 +datum=WGS84 +units=m`), `centroid_lon, centroid_lat`, `n_neighbours` (Queen), and `daily_volume_mcm = daily_actual_mm × area_km2 / 1000` (million m³; 1 mm over 1 km² = 1,000 m³) — useful for water-resources totals.
+
+**6.8 Aggregation tables (separate Parquet files; correct weighting):**
+- `state_daily`, `national_daily`: **area-weighted** mean actual & normal, **departure computed from the aggregated sums** `(ΣA − ΣN)/ΣN` (never average the district percentages), `n_districts`, share of districts with rain ≥ 2.5 mm and ≥ 64.5 mm, and the **IMD spatial-distribution class** of heavy rain: Isolated ≤ 25 % of districts · Scattered 26–50 % · Fairly Widespread 51–75 % · Widespread 76–100 %.
+- `district_monthly`, `district_season` (JJAS), `district_annual` with ETCCDI-style indices: `PRCPTOT`, `Rx1day`, `Rx3day`, `Rx5day`, `R2.5mm` (rainy days), `R64.5mm` (heavy days), `R115.6mm`, `SDII` (mean rain on rainy days), `CDD` (max consecutive dry days), `CWD`.
+  Only compute an annual/seasonal value when coverage of that year/season ≥ `min_coverage` (default 90 % of days); otherwise NaN + flag. **2021 and 2026 are partial years — label them so.**
+
+---
+
+## 7. STAGE 3 — GEOMETRY & CROSSWALK (`geo.py`, `crosswalk.py`) — **the hardest and most important stage**
+
+### 7.1 Choose the district polygons — evaluate candidates, don't trust the first one
+The dataset uses the **current (2026) district set** (≈ 770+ districts incl. post-2019 new districts). Old Census-2011 files (≈ 640 districts) are **not acceptable**. Download and score every candidate; pick the best; document the decision in `ASSUMPTIONS.md`.
+
+| Candidate | Notes (from my own testing / web research) |
+|---|---|
+| **datta07/INDIAN-SHAPEFILES** — `INDIA/INDIA_DISTRICTS.geojson` (~78 MB), `https://github.com/datta07/INDIAN-SHAPEFILES` | I tested it: **820 features**, includes new AP districts (Alluri Sitharama Raju, Anakapalli, Annamayya, Bapatla), has `dist_code`/`st_code`. **BUT:** 28 features have no name; ~1.8 % geometries invalid; and **names are corrupted** in many rows — text is cut at non-ASCII characters (`Belag`, `Ch`, `D`, `H`, `Mys#ru`, `Bengal#ru (Urban)`, `B\\dar`, `B\|RBH@M`, `M>LDAH`). After normalisation only **~608 of 725** districts matched by exact name. Geometry is usable; **names are not** → use only with a crosswalk, or prefer a cleaner source. |
+| **India Geodata (yashveeeeeeer)** — district polygons from LGD / SOI / Bhuvan / DataMeet; releases tag `admin/districts`; also `data/administrative/country/india-soi.geojson` (SOI external boundary). `https://yashveeeeeeer.github.io/india-geodata/` | Best-documented aggregator; look for the **LGD** district layer (has LGD codes, current districts). Evaluate first. |
+| **LGD (Local Government Directory)** daily archive `https://ramseraph.github.io/opendata/lgd/` | Authoritative source of current district names/codes for building a name crosswalk even if geometry comes from elsewhere. |
+| **IMD's own district map** (GeoJSON copy from mausam.imd.gov.in, e.g. gist `maneetgoyal/38229f221e54b0864437ff00ccea39aa`, 2024) | The NDAP data is IMD's; its polygon names may match best, but a 2024 copy lacks the newest districts. Check its properties for an id that equals `Obj_Id`. |
+| `guneetnarula/indian-district-boundaries` (2019 boundaries, RGI names) | Older, fewer districts; only as fallback / for names. |
+| DataMeet / Census 2011 | Outdated (≈ 640 districts). Reject except as a name-source. |
+
+**Scoring rule for each candidate (print a comparison table):** feature count; % valid geometries; % features with non-empty clean names; **% of the latest day's dataset districts matched exactly / after normalisation / by fuzzy (≥ 90)**; state coverage; presence of the 4 new AP districts + Ladakh + Lakshadweep + A&N; CRS. **Acceptance: ≥ 98 % of dataset districts on the latest date matched to a polygon, 100 % of polygons valid.**
+If no single source passes, **combine**: geometry from the best geometry source + names/codes from LGD, joined by code or by spatial overlay (max-overlap area) rather than by text.
+
+### 7.2 Geometry processing
+- Read with `pyogrio`; set CRS (EPSG:4326 if missing); `make_valid`; **dissolve** multiple features of one district into one MultiPolygon; drop unnamed slivers *after* checking they are not real districts.
+- **Simplify for fast rendering while preserving shared borders:** use `shapely.coverage_simplify` on the whole district coverage (tolerance ≈ 0.005–0.01°; test visually). Plain per-feature `simplify` opens gaps/slivers between neighbours — avoid. **Never simplify away the Andaman & Nicobar and Lakshadweep islands** (set a minimum-area guard).
+- Build `data/geo/districts_master.gpkg` with layers: `districts` (uid, names, codes, area_km2, geometry), `states` (dissolved from districts), `india_outline` (**Survey of India–based external boundary**; do **not** use OSM / Natural Earth outlines, and keep the official depiction of India's borders).
+- Compute and store the map extent, the equal-area area of each district, and Queen-contiguity neighbours (`libpysal.weights.Queen`, handle islands with a KNN fallback).
+
+### 7.3 Crosswalk: dataset ↔ polygon (`data/processed/district_crosswalk.csv`)
+Columns: `dataset_state, dataset_district, state_std, district_std, shp_id, match_method, match_score, needs_review, note`.
+Algorithm (in this order; first success wins; a human file `config/manual_overrides.csv` always wins):
+1. **Normalise** names: `unidecode`, upper-case, `&→AND`, drop bracketed text and words such as `DISTRICT`, `URBAN/RURAL` (careful), punctuation, repeated spaces; state-name canonicalisation (including the DNH&DD case).
+2. **Exact** match on `(state_key, district_key)`.
+3. **Alias table** `config/name_aliases.csv` (seed it with the variants listed in 2.1 #7 and anything you discover: Y.S.R.→YSR Kadapa, Leh Ladakh→Leh, Baleshwar→Balasore, Sonepur→Subarnapur, Dohad→Dahod, Dang→The Dangs, Pondicherry→Puducherry, Kamrup→Kamrup (Rural) / Metropolitan, etc.).
+4. **Fuzzy within the same state only** (`rapidfuzz` `WRatio`/`token_sort_ratio`): auto-accept ≥ 92 and margin ≥ 5 over the runner-up; 80–92 → accept but `needs_review = True`.
+5. **Optimal 1-to-1 assignment per state** (Hungarian, `scipy.optimize.linear_sum_assignment`) on the similarity matrix for whatever is left, so two dataset districts never grab the same polygon; leave a match blank if similarity < 70.
+6. Split/merged districts (dataset has 2, shapefile has 1, or vice-versa): document; for maps, colour a merged polygon with the **area-weighted** mean of the dataset districts it covers, or leave hatched grey — choose one, put it in config, log it.
+Export three reports: `crosswalk_unmatched_dataset.csv`, `crosswalk_unmatched_polygons.csv`, `crosswalk_needs_review.csv` and print the match-rate summary. **Do not proceed to rendering until the acceptance threshold in 7.1 is met.**
+
+---
+
+## 8. STAGE 4 — DAILY MAP RENDERING (`render.py`) — the core deliverable
+
+**Output:** one PNG per date that has data: `outputs/maps/daily_actual/YYYY/MM/rainfall_actual_YYYY-MM-DD.png` (dpi from config; default 150, "hires" 220).
+
+### 8.1 Cartographic design (follow cartography best practice)
+- **Same classes, colours and extent on every day** so maps are comparable and video-stable. Never auto-scale per day.
+- **Classed choropleth using the IMD intensity classes** (Section 6.5) because the data are extremely skewed (daily median ≈ 0.2 mm, tail to > 100 mm; a continuous linear colour bar would show almost everything as one colour). `matplotlib.colors.BoundaryNorm` + `ListedColormap`. Default palette (sequential, dry→wet; verify with a colour-blind simulation and adjust if two neighbours are confusable):
+  `No Rain #F0F0F0 · Very Light #C6E6F5 · Light #7FC4E8 · Moderate #2E86C1 · Heavy #1B4F9C · Very Heavy #6A1B9A · Extremely Heavy #C62828`.
+- Also implement `render.mode: continuous_log` (symlog/`PowerNorm`, `viridis`-like) as an alternative, and `--variable` options: `daily_actual_mm` (default), `daily_normal_mm`, `daily_departure_pct` (uses the **IMD departure categories** with a diverging RdBu-based palette, NR/LD in the darkest reds, LE in the darkest blues, N near white).
+- **No-data districts** (no row that day, NaN value, or unmatched) → light-grey with diagonal hatch, and a legend entry "No data". Never paint them as "No Rain".
+- District borders thin (`district_linewidth`, default 0.25–0.5), **state borders** thicker dark grey (0.8), **India outline** darkest (1.0). No axes, no gridlines, equal aspect, identical extent.
+- Legend = discrete colour bar with class labels **and the number of districts in each class that day** (e.g. "Heavy 64.5–115.5 mm (7)").
+- Title: `District-wise Actual Rainfall over India` · subtitle: `Daily rainfall (mm) — Sunday, 19 September 2026` (weekday + full date). Footer (small): `Data: IMD / MoES via NDAP · District boundaries: <source, year> · Classes: IMD`.
+- A compact stats box: districts with data (n / N), area-weighted national mean (mm), wettest district (name, state, mm), number of districts ≥ 64.5 mm.
+- Fonts embedded, text never overlapping map features (check visually), consistent margins, white background, `bbox_inches=None` with a fixed figure size so every frame has **identical pixel dimensions** (required for video).
+
+### 8.2 Performance architecture (≈ 1,800 images must render in minutes, not hours)
+- Pre-build `data/processed/render_matrix.npz` = `dates[T]`, `district_uid[N]`, `values float32[T,N]`, `class_idx int8[T,N]` (−1 = no data). Workers read this; they never touch pandas or the enriched table.
+- **Build the figure ONCE per worker process.** Create your own `PolyCollection` from the exploded polygon parts and keep a `part_to_district` index vector (**GeoPandas' `plot()` splits MultiPolygons into parts, so `set_array` length ≠ number of districts — expand values with `np.take(values, part_to_district)`**). For each date: `collection.set_array(masked_class_values)`, update the title/legend-count/stat texts, `fig.savefig(...)`. Draw the hatched "no data" base layer once; use `cmap.set_bad((0,0,0,0))` so masked districts reveal it.
+- `matplotlib.use("Agg")`; `ProcessPoolExecutor` (or `multiprocessing` with `spawn`) with `workers = cpu_count − 1` and chunks of consecutive dates; a `initializer` loads geometry once per worker.
+- **Resumable:** skip existing files unless `--overwrite`; write to a temp name then atomic rename; append failures to `logs/render_errors.csv` and continue; end with a summary (rendered / skipped / failed, total time, s/image).
+- **File size:** classes are discrete → quantise to an 8-bit palette PNG (`PIL` `quantize`, `optimize=True`) with no visible loss.
+- Write `outputs/maps/manifest.csv`: `date, path, n_districts_with_data, n_no_data, min_mm, max_mm, mean_area_weighted_mm, n_heavy_districts`.
+- **Milestone gate:** first render the single trial day **2026-09-19** and one very wet monsoon day; open and inspect both; fix design problems; only then render everything.
+
+### 8.3 Optional extra map products (implement after the daily set is done)
+- **Diagnostic triptych** per day: Actual | Normal | Departure (same extent) — the professor's notes list both Actual and Normal.
+- **Departure maps** with IMD categories at month-end and monsoon-cumulative (since 1 June) — from *our recomputed* cumulative values.
+- **Yearly maps**: heavy-rain-day count (R64.5), Rx1day, max dry spell (CDD), JJAS total per district.
+- **Small-multiple contact sheets** (e.g. 7 days × week, or one month as a calendar grid) for the report.
+
+---
+
+## 9. STAGE 5 — VIDEO / ANIMATION (`video.py`)
+- Encode PNG sequences with `imageio-ffmpeg` / ffmpeg: H.264, `-pix_fmt yuv420p`, even width/height (pad if needed), 8–10 fps, one MP4 per year + one for the full period; burn the date into the frame only if not already in the title.
+- GIFs only for short windows (a heavy-rain event, one week) — never for the full series.
+
+---
+
+## 10. STAGE 6 — ANALYTICS (`analytics/`) — outputs to `outputs/tables`, `outputs/figures`, `outputs/reports`
+
+Tier 1 = must, Tier 2 = should, Tier 3 = stretch. **Every figure: title, units, axis labels, source, and a one-line caption in the report. Every statistical result: state sample size and caveats.**
+
+**Tier 1**
+1. **Variation of rainfall over districts — for a chosen day (the professor's trial topic):** descriptive stats (n, mean, median, std, IQR, CV, 
