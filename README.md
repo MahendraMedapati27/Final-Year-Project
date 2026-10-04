@@ -39,8 +39,8 @@ Outputs: `data/interim/raw_*.parquet`, `outputs/reports/data_audit*.md`, `output
 cd "D:\final year project"
 $env:PYTHONPATH = "$PWD\src"
 # If `.venv\Scripts\python` fails with Application Control on pandas DLLs, use:
-#   .\scripts\run_python.ps1 scripts\p5_full_render.py
-C:\ProgramData\anaconda3\python.exe scripts\p5_full_render.py
+#   .\scripts\run_python.ps1 scripts\render\render_all_daily_maps.py
+C:\ProgramData\anaconda3\python.exe scripts\render\render_all_daily_maps.py
 ```
 
 - Output: `outputs/maps/daily_actual/YYYY/MM/rainfall_actual_YYYY-MM-DD.png` (~1,800 dates with data).
@@ -56,7 +56,7 @@ Workers load **`outputs/render_cache/<hash>/geometry.pkl`** only (no GPKG in wor
 
 ```powershell
 $env:PYTHONPATH = "$PWD\src"
-python scripts/build_render_cache.py
+python scripts/render/build_geometry_cache.py
 ```
 
 Hash = `frozen_layout.render_config_hash()`.
@@ -68,8 +68,8 @@ Hash = `frozen_layout.render_config_hash()`.
 ### QA and contact sheet
 
 ```powershell
-python scripts/p5_qa_all.py          # all frames; use --sample 40 for dry-run
-python scripts/p5_contact_sheet.py     # after manifest exists
+python scripts/verify/qa_all_maps.py          # all frames; use --sample 40 for dry-run
+python scripts/verify/qa_contact_sheet.py     # after manifest exists
 ```
 
 ### Map notes
@@ -77,4 +77,4 @@ python scripts/p5_contact_sheet.py     # after manifest exists
 - **Beige gaps** outside district union but inside SOI outline: ~**0.25%** of outline area (`ASSUMPTIONS.md`, boundary file).
 - **Parent value** footnote: districts painted from a parent aggregate when child geometry has no direct row (`child_of_*` resolution in paint groups).
 
-See `ASSUMPTIONS.md` and `PROMPT.md` for full specification.
+See `ASSUMPTIONS.md`, `docs/CODE_LAYOUT.md`, and `scripts/README.md` for structure and decisions.

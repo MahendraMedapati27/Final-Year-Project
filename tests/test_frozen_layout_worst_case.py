@@ -16,7 +16,7 @@ from rainfall.render_layout import ui_overlaps_land
 def _worst_dates() -> list[str]:
     p = resolve_path("outputs/checkpoints/worst_layout_dates.json")
     if not p.exists():
-        pytest.skip("Run scripts/find_worst_layout_dates.py first")
+        pytest.skip("Run scripts/verify/find_worst_layout_dates.py first")
     data = json.loads(p.read_text(encoding="utf-8"))
     return data["test_dates"]
 

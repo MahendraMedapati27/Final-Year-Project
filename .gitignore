@@ -14,7 +14,7 @@ build/
 # Large raw portal dump (use NDAP; sample included)
 data/raw/dataset_full.csv
 
-# Generated map outputs (re-run scripts/p5_full_render.py)
+# Generated map outputs (re-run scripts/render/render_all_daily_maps.py)
 outputs/maps/daily_actual/
 outputs/maps/_old_layout/
 outputs/maps/verify_tmp/

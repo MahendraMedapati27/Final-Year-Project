@@ -94,7 +94,7 @@ geopandas 1.1.4 · shapely **2.1.2** (coverage_simplify available; LGD layer sti
 
 | Topic | Decision |
 |-------|----------|
-| **Engine** | **`legacy_frozen_pillow`** — pickle geometry cache + `DailyMapRenderer.draw_date` + Pillow PNG (`compress_level=1`). Parity **0%** pixels Δ>24 vs approved refs (`scripts/p3_parity.py`). |
+| **Engine** | **`legacy_frozen_pillow`** — pickle geometry cache + `DailyMapRenderer.draw_date` + Pillow PNG (`compress_level=1`). Parity **0%** pixels Δ>24 vs approved refs (`scripts/verify/qa_reference_parity.py`). |
 | **Worker RSS** | **~605 MB** after init + 3 frames (~**0.59 GB/worker**); formula leaves **1 GB** headroom (`render_pool.worker_count`). |
-| **Layout QA** | Data-driven worst dates (`scripts/find_worst_layout_dates.py`); overlap test checks **dynamic text only** (stats/title/footer). Legend inset is fixed on-map (parity-approved; may overlap low-res land mask). |
+| **Layout QA** | Data-driven worst dates (`scripts/verify/find_worst_layout_dates.py`); overlap test checks **dynamic text only** (stats/title/footer). Legend inset is fixed on-map (parity-approved; may overlap low-res land mask). |
 | **Python on Windows** | Some shells block `.venv` pandas DLLs via Application Control — use **`scripts/run_python.ps1`** (Anaconda base) for render/QA. |
